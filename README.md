@@ -8,6 +8,7 @@ We will be including the following mods:
 * Thaumcraft
 * Witchery
 * Clockwork Phase
+* (Botania?)
 
 ######Tech:
 * EnderIO
