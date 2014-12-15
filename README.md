@@ -31,6 +31,7 @@ We will be including the following mods:
 ######Flavor:
 * (Some form of ruins mod)
 * Ender Zoo
+* Infernal Mobs
 * (Another mob mod)
 
 ######Utility:
