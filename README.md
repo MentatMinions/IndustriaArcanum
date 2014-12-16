@@ -12,6 +12,7 @@ We will be including the following mods:
   * Automagy
   * Baubles
 * Witchery
+* (Reliquary?)
 
 #####Tech:
 * Ancient Warfare 2
@@ -51,6 +52,7 @@ We will be including the following mods:
 
 * ######Player:
  * Cosmetic Armor
+ * Emotes
  * Hats
  * Gender Mod
   * Tails
@@ -100,6 +102,7 @@ We will be including the following mods:
 * Super Crafting Frames
 * (BetterChest?)
 * (EnderStorage?)
+* (Modular Systems?)
 
 #####Misc:
 * Extra Utilities (wings, quarry, and pump disabled)
