@@ -26,8 +26,9 @@ We will be including the following mods:
 * Pam's Harvestcraft
 * Growthcraft
 * Attained Drops
+* Butterfly Mania
 
-######Design:
+######Design and Cosmetic:
 * Bibliocraft
 * Carpenter's Blocks
 * Chisel
@@ -40,7 +41,14 @@ We will be including the following mods:
 * Storage Drawers
 * MmmMmmMmmMmm
 * Builder's Guides
-* (Illuminated Bows?)
+* Plant Mega Pack
+* Cosmetic Armor
+* Tails
+* Hats
+* Hat Stand
+* Gender Mod
+* Headcrumbs
+* MrCrayfish's Furniture Mod
 
 ######Flavor:
 * Ruins
@@ -64,6 +72,7 @@ We will be including the following mods:
   * WAILA Harvestability
 * MouseTweaks
 * JourneyMap
+ * JourneyMap Server
 * Morpheus
 * Opis
 * AppleCore
@@ -71,6 +80,7 @@ We will be including the following mods:
   * ModTweaker
 * TiC Tooltips
 * Damage Indicators
+* OpenEye
 
 ######Misc:
 * Gravestone
@@ -80,5 +90,8 @@ We will be including the following mods:
 * (BetterChest?)
 * Adventure Backpack
 * Super Crafting Frame
+* EasyCrafting
 * Geocraft
+* Luppii's Ladders
+* Dense Ores
 * (Enhanced Portals 3?)
