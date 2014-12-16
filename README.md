@@ -110,4 +110,3 @@ We will be including the following mods:
 * Random Things
 * Geocraft
 * Dense Ores
-* (Enhanced Portals 3?)
