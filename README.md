@@ -54,6 +54,7 @@ We will be including the following mods:
 * WAILA
 * WAWLA
 * WAILAPlugins
+* WAILA Harvestability
 * MouseTweaks
 * JourneyMap
 * Morpheus
