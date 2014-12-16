@@ -93,13 +93,16 @@ We will be including the following mods:
 
 #####Storage and Crafting:
 * Adventure Backpack
-* EasyCrafting
+* AutoPackager
 * Iron Chests
 * JABBA
+* Refined Relocation
+* Super Crafting Frames
 * (BetterChest?)
 * (EnderStorage?)
 
 #####Misc:
+* Extra Utilities (wings, quarry, and pump disabled)
 * Gravestone
 * Random Things
 * Geocraft
