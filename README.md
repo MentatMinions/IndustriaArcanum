@@ -4,94 +4,104 @@ This modpack will be focused on the Steampunk concept with some magic. The goal 
 
 We will be including the following mods:
 
-######Magic:
+#####Magic:
+* Botania
+* Brewcraft
+* Clockwork Phase
 * Thaumcraft
   * Automagy
   * Baubles
 * Witchery
-* Clockwork Phase
-* Botania
-* Brewcraft
 
-######Tech:
+#####Tech:
 * Ancient Warfare 2
 * EnderIO
-* Tinker's Construct
-  * Tinker's Mechworks
 * Flaxbeard's Steamworks
 * Railcraft
 * Steve's Carts
+* Tinker's Construct
+  * Tinker's Mechworks
 
-######Farming and Simulation:
-* Pam's Harvestcraft
-* Growthcraft
+#####Farming and Simulation:
 * Attained Drops
 * Butterfly Mania
+* Growthcraft
+* Pam's Harvestcraft
 
-######Design and Cosmetic:
-* Bibliocraft
-* Carpenter's Blocks
-* Chisel
-* Ancient Trees
-* Decocraft
-* Natura
-* Garden Stuff
-* CraftHeraldry
-* Storage Drawers
-* MmmMmmMmmMmm
-* Builder's Guides
-* Plant Mega Pack
-* Cosmetic Armor
-* Tails
-* Hats
-* Hat Stand
-* Gender Mod
-* Headcrumbs
-* MrCrayfish's Furniture Mod
-* Luppii's Ladders
-* Whitelisting most blocks in ForgeMultiparts
+#####Design and Cosmetic:
 
-######Flavor:
-* Ruins
-* Ender Zoo
-* Special Mobs
-* Primitive Mobs
-* Hardcore Ender Expansion
-* RPG Advanced Mod
-* (Hardcore Questing Mode?)
+* ######Blocks:
+ * Ancient Trees
+ * Bibliocraft
+ * Builder's Guides
+ * Carpenter's Blocks
+ * Chisel
+ * CraftHeraldry
+ * Decocraft
+ * Garden Stuff
+ * Hat Stand
+ * Headcrumbs
+ * Luppii's Ladders
+ * MmmMmmMmmMmm (Dummy)
+ * MrCrayfish's Furniture Mod
+ * Natura
+ * Plant Mega Pack
+ * Storage Drawers
+ * Whitelisting most blocks in ForgeMultiparts
 
-######Utility:
+* ######Player:
+ * Cosmetic Armor
+ * Hats
+ * Gender Mod
+  * Tails
+
+#####Flavor:
+
+* ######Terrain and Quests:
+ * Hardcore Ender Expansion
+ * RPG Advanced Mod
+ * Ruins
+ * (Hardcore Questing Mode?)
+
+* ######Mobs:
+ * Ender Zoo
+ * Primitive Mobs
+ * Special Mobs
+
+#####Utility:
+* AppleCore
+* Damage Indicators
+* InvTweaks
+* JourneyMap
+ * JourneyMap Server
+* MineTweaker
+  * ModTweaker
+* Morpheus
+* MouseTweaks
 * NEI
   * Thaumcraft NEI Plugin
   * NEI Integration
   * NEI Addons
 * NotEnoughKeys
-* InvTweaks
+* OpenEye
+* Opis
+* TiC Tooltips
 * WAILA
   * WAWLA
   * WAILAPlugins
   * WAILA Harvestability
-* MouseTweaks
-* JourneyMap
- * JourneyMap Server
-* Morpheus
-* Opis
-* AppleCore
-* MineTweaker
-  * ModTweaker
-* TiC Tooltips
-* Damage Indicators
-* OpenEye
 
-######Misc:
+#####Storage and Crafting:
+* Adventure Backpack
+* EasyCrafting
+* Iron Chests
+* JABBA
+* (BetterChest?)
+* (EnderStorage?)
+
+#####Misc:
 * Gravestone
 * Random Things
-* JABBA
-* Iron Chests
-* (BetterChest?)
-* Adventure Backpack
-* Super Crafting Frame
-* EasyCrafting
 * Geocraft
 * Dense Ores
 * (Enhanced Portals 3?)
