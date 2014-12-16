@@ -10,7 +10,7 @@ We will be including the following mods:
   * Baubles
 * Witchery
 * Clockwork Phase
-* (Botania?)
+* Botania
 * Brewcraft
 
 ######Tech:
