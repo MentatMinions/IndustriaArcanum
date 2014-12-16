@@ -96,12 +96,11 @@ We will be including the following mods:
 #####Storage and Crafting:
 * Adventure Backpack
 * AutoPackager
+* Ender Storage
 * Iron Chests
 * JABBA
 * Refined Relocation
 * Super Crafting Frames
-* (BetterChest?)
-* (EnderStorage?)
 * (Modular Systems?)
 
 #####Misc:
