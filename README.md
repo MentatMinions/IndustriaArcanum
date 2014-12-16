@@ -6,8 +6,8 @@ We will be including the following mods:
 
 ######Magic:
 * Thaumcraft
-*   Automagy
-*   Baubles
+  * Automagy
+  * Baubles
 * Witchery
 * Clockwork Phase
 * (Botania?)
@@ -17,7 +17,7 @@ We will be including the following mods:
 * Ancient Warfare 2
 * EnderIO
 * Tinker's Construct
-*   Tinker's Mechworks
+  * Tinker's Mechworks
 * Flaxbeard's Steamworks
 * Railcraft
 * Steve's Carts
@@ -46,22 +46,22 @@ We will be including the following mods:
 
 ######Utility:
 * NEI
-*   Thaumcraft NEI Plugin
-*   NEI Integration
-*   NEI Addons
+  * Thaumcraft NEI Plugin
+  * NEI Integration
+  * NEI Addons
 * NotEnoughKeys
 * InvTweaks
 * WAILA
-* WAWLA
-* WAILAPlugins
-* WAILA Harvestability
+  * WAWLA
+  * WAILAPlugins
+  * WAILA Harvestability
 * MouseTweaks
 * JourneyMap
 * Morpheus
 * Opis
 * AppleCore
 * MineTweaker
-* ModTweaker
+  * ModTweaker
 * TiC Tooltips
 * Damage Indicators
 
