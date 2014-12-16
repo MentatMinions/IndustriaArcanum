@@ -15,7 +15,6 @@ We will be including the following mods:
 * (Reliquary?)
 
 #####Tech:
-* Ancient Warfare 2
 * EnderIO
 * Flaxbeard's Steamworks
 * Railcraft
