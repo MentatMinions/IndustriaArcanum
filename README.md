@@ -25,6 +25,7 @@ We will be including the following mods:
 ######Farming and Simulation:
 * Pam's Harvestcraft
 * Growthcraft
+* Attained Drops
 
 ######Design:
 * Bibliocraft
@@ -36,6 +37,10 @@ We will be including the following mods:
 * Natura
 * Garden Stuff
 * CraftHeraldry
+* Storage Drawers
+* MmmMmmMmmMmm
+* Builder's Guides
+* (Illuminated Bows?)
 
 ######Flavor:
 * Ruins
@@ -43,6 +48,8 @@ We will be including the following mods:
 * Special Mobs
 * Primitive Mobs
 * Hardcore Ender Expansion
+* RPG Advanced Mod
+* (Hardcore Questing Mode?)
 
 ######Utility:
 * NEI
@@ -70,6 +77,8 @@ We will be including the following mods:
 * Random Things
 * JABBA
 * Iron Chests
+* (BetterChest?)
+* Adventure Backpack
 * Super Crafting Frame
 * Geocraft
 * (Enhanced Portals 3?)
