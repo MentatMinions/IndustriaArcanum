@@ -38,6 +38,7 @@ We will be including the following mods:
  * Chisel
  * CraftHeraldry
  * Decocraft
+ * Description Tags
  * Garden Stuff
  * Hat Stand
  * Headcrumbs
@@ -47,7 +48,7 @@ We will be including the following mods:
  * Natura
  * Plant Mega Pack
  * Storage Drawers
- * Whitelisting most blocks in ForgeMultiparts
+ * Whitelisting most blocks in ForgeMultiparts (Forge Multipart Integration?)
 
 * ######Player:
  * Cosmetic Armor
