@@ -34,7 +34,6 @@ We will be including the following mods:
 * Chisel
 * Ancient Trees
 * Decocraft
-* Whitelisting most blocks in ForgeMultiparts
 * Natura
 * Garden Stuff
 * CraftHeraldry
@@ -49,6 +48,8 @@ We will be including the following mods:
 * Gender Mod
 * Headcrumbs
 * MrCrayfish's Furniture Mod
+* Luppii's Ladders
+* Whitelisting most blocks in ForgeMultiparts
 
 ######Flavor:
 * Ruins
@@ -92,6 +93,5 @@ We will be including the following mods:
 * Super Crafting Frame
 * EasyCrafting
 * Geocraft
-* Luppii's Ladders
 * Dense Ores
 * (Enhanced Portals 3?)
