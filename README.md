@@ -75,6 +75,7 @@ We will be including the following mods:
  * Special Mobs
 
 #####Utility:
+
 * ######Client:
  * [AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
  * [Crafting Costs](http://www.curse.com/mc-mods/minecraft/224427-craftingcosts)
@@ -90,6 +91,7 @@ We will be including the following mods:
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
    * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins)
    * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
+
 * ######Server:
  * [MineTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your)
    * [ModTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-6-minetweaker-addon)
