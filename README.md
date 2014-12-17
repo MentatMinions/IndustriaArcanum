@@ -5,7 +5,7 @@ This modpack will be focused on the Steampunk concept with some magic. The goal 
 We will be including the following mods:
 
 #####Magic:
-* Botania
+* Botania - http://vazkii.us/mod/Botania/
 * Brewcraft
 * Clockwork Phase
 * Thaumcraft
