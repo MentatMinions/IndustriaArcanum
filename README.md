@@ -48,6 +48,7 @@ We will be including the following mods:
  * MrCrayfish's Furniture Mod
  * Natura
  * Plant Mega Pack
+ * SecretRoomsMod
  * Statues
  * Storage Drawers
  * Whitelisting most blocks in ForgeMultiparts (Forge Multipart Integration?)
@@ -68,6 +69,7 @@ We will be including the following mods:
  * (Hardcore Questing Mode?)
 
 * ######Mobs:
+ * Dark Menagerie
  * Ender Zoo
  * Primitive Mobs
  * Special Mobs
@@ -118,3 +120,6 @@ We will be including the following mods:
 
 #####Pack:
 * Better Title Screen
+
+#####Core:
+* ForgeMultiPart
