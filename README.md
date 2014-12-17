@@ -121,7 +121,7 @@ We will be including the following mods:
 * Better Title Screen
 
 #####Core:
-* [CodeChickenLib](files.minecraftforge.net/CodeChickenLib/)
+* [CodeChickenLib](http://files.minecraftforge.net/CodeChickenLib/)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
 * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
