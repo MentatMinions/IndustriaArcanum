@@ -5,12 +5,12 @@ This modpack will be focused on the Steampunk concept with some magic. The goal 
 We will be including the following mods:
 
 #####Magic:
-* Botania - http://vazkii.us/mod/Botania/
+* [Botania](http://vazkii.us/mod/Botania/)
 * Brewcraft
 * Clockwork Phase
 * Thaumcraft
   * Automagy
-  * Baubles - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014
+  * [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014)
 * Witchery
 * (Reliquary?)
 
