@@ -10,7 +10,7 @@ We will be including the following mods:
 * Clockwork Phase
 * Thaumcraft
   * Automagy
-  * Baubles
+  * Baubles - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014
 * Witchery
 * (Reliquary?)
 
