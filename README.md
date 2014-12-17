@@ -23,6 +23,7 @@ We will be including the following mods:
   * Tinker's Mechworks
 
 #####Farming and Simulation:
+* Aquaculture
 * Attained Drops
 * Butterfly Mania
 * Growthcraft
@@ -47,6 +48,7 @@ We will be including the following mods:
  * MrCrayfish's Furniture Mod
  * Natura
  * Plant Mega Pack
+ * Statues
  * Storage Drawers
  * Whitelisting most blocks in ForgeMultiparts (Forge Multipart Integration?)
 
@@ -87,6 +89,7 @@ We will be including the following mods:
 * NotEnoughKeys
 * OpenEye
 * Opis
+* RPG-Hud Mod
 * TiC Tooltips
 * WAILA
   * WAWLA
@@ -101,11 +104,17 @@ We will be including the following mods:
 * JABBA
 * Refined Relocation
 * Super Crafting Frames
+* Translocators
 * (Modular Systems?)
 
 #####Misc:
 * Extra Utilities (wings, quarry, and pump disabled)
 * Gravestone
 * Random Things
+
+#####World Gen:
 * Geocraft
 * Dense Ores
+
+#####Pack:
+* Better Title Screen
