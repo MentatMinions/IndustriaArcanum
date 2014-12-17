@@ -113,10 +113,6 @@ We will be including the following mods:
 * Gravestone
 * Random Things
 
-#####World Gen:
-* [Geocraft](http://minecraft.curseforge.com/mc-mods/61488-chemcraft-geocraft)
-* [Dense Ores](http://www.curse.com/mc-mods/minecraft/224942-dense-ores)
-
 #####Pack:
 * Better Title Screen
 
