@@ -101,6 +101,7 @@ We will be including the following mods:
 #####Storage and Crafting:
 * Adventure Backpack
 * AutoPackager
+* Backpacks
 * Ender Storage
 * Iron Chests
 * JABBA
