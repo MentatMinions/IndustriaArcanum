@@ -36,9 +36,9 @@ We will be including the following mods:
  * Bibliocraft
  * Builder's Guides
  * Carpenter's Blocks
- * Chisel
+ * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
  * CraftHeraldry
- * Decocraft
+ * [Decocraft](http://www.curse.com/mc-mods/minecraft/decocraft)
  * Description Tags
  * Garden Stuff
  * Hat Stand
@@ -64,7 +64,7 @@ We will be including the following mods:
 
 * ######Terrain and Quests:
  * Hardcore Ender Expansion
- * RPG Advanced Mod
+ * [RPG Advanced Mod](http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod)
  * Ruins
  * (Hardcore Questing Mode?)
 
@@ -80,21 +80,21 @@ We will be including the following mods:
 * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a)
 * [MineTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your)
   * [ModTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-6-minetweaker-addon)
-* Morpheus
-* MouseTweaks
+* [Morpheus](http://www.curse.com/mc-mods/minecraft/morpheus)
+* [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)
 * [NEI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
   * [Thaumcraft NEI Plugin](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei)
   * [NEI Integration](http://www.curse.com/mc-mods/minecraft/225251-nei-integration)
   * [NEI Addons](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-3-now-supports-botany-flower)
-* NotEnoughKeys
-* OpenEye
-* Opis
-* RPG-Hud Mod
-* TiC Tooltips
-* WAILA
-  * WAWLA
-  * WAILAPlugins
-  * WAILA Harvestability
+* [NotEnoughKeys](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier)
+* [OpenEye](http://openeye.openmods.info/download)
+* [Opis](http://www.curse.com/mc-mods/minecraft/opis)
+* [RPG-Hud Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289321-1-7-10-1-7-2-rpg-hud-mod-2-5-1)
+* [TiC Tooltips](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool)
+* [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
+  * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
+  * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins)
+  * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
 
 #####Storage and Crafting:
 * Adventure Backpack
@@ -102,7 +102,7 @@ We will be including the following mods:
 * Backpacks
 * Ender Storage
 * Iron Chests
-* JABBA
+* [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * Refined Relocation
 * Super Crafting Frames
 * Translocators
@@ -124,4 +124,6 @@ We will be including the following mods:
 * [CodeChickenLib](files.minecraftforge.net/CodeChickenLib/)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
 * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
+* [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
+* [ttCore](http://minecraft.curseforge.com/mc-mods/226082-ttcore)
