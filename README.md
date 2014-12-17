@@ -99,6 +99,7 @@ We will be including the following mods:
  * [OpenEye](http://openeye.openmods.info/download)
  * [Opis](http://www.curse.com/mc-mods/minecraft/opis)
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
+ * [Quadrum](http://www.curse.com/mc-mods/minecraft/223773-quadrum)
 
 #####Storage and Crafting:
 * Adventure Backpack
