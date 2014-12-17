@@ -19,8 +19,8 @@ We will be including the following mods:
 * Flaxbeard's Steamworks
 * Railcraft
 * Steve's Carts
-* Tinker's Construct
-  * Tinker's Mechworks
+* [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
+  * [Tinker's Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
 
 #####Farming and Simulation:
 * Aquaculture
@@ -121,9 +121,10 @@ We will be including the following mods:
 * Better Title Screen
 
 #####Core:
-* [CodeChickenLib](http://files.minecraftforge.net/CodeChickenLib/)
+* [CodeChickenCore](http://chickenbones.net/Pages/links.html)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
 * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
+* [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
 * [ttCore](http://minecraft.curseforge.com/mc-mods/226082-ttcore)
