@@ -6,13 +6,13 @@ We will be including the following mods:
 
 #####Magic:
 * [Botania](http://vazkii.us/mod/Botania/)
-* Brewcraft
-* Clockwork Phase
-* Thaumcraft
-  * Automagy
+* [Brewcraft](http://www.curse.com/mc-mods/minecraft/brewcraft)
+* [Clockwork Phase](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2288839-clockwork-phase-1-7-10_1-0-time-magic-all-wrapped)
+* [Thaumcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-1-4-updated-2014-10-10)
+  * [Automagy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-16)
   * [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014)
-* Witchery
-* (Reliquary?)
+* [Witchery](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-6)
+* [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 
 #####Tech:
 * EnderIO
@@ -116,11 +116,13 @@ We will be including the following mods:
 * Random Things
 
 #####World Gen:
-* Geocraft
+* [Geocraft](http://minecraft.curseforge.com/mc-mods/61488-chemcraft-geocraft)
 * Dense Ores
 
 #####Pack:
 * Better Title Screen
 
 #####Core:
-* ForgeMultiPart
+* [CodeChickenLib](files.minecraftforge.net/CodeChickenLib/)
+* [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
+* [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
