@@ -40,7 +40,6 @@ We will be including the following mods:
  * Carpenter's Blocks
  * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
  * CraftHeraldry
- * [Decocraft](http://www.curse.com/mc-mods/minecraft/decocraft)
  * Description Tags
  * Garden Stuff
  * Hat Stand
