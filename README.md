@@ -8,11 +8,11 @@ Some fancy words can go here. Maybe something about titans ruling the world in a
 Or it could be something about cats in rabbit suits. Meh.
 
 ####About:
-Industria Arcanum is a modpack about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats. And tails?
+Industria Arcanum is a modpack designed by Saphrym and the Mentat Minions about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats. And tails?
 
 ####Mods:
 
-The mods for the pack are based on a steampunk/magic concept. The following are the main mods picked to follow that concept:
+The mods for the pack are based on a steampunk/magic concept. The following are the main mods picked to follow that concept (and hopefully we'll get permission to use them):
 
 #####Magic:
 * [Botania](http://vazkii.us/mod/Botania/)
@@ -36,3 +36,5 @@ View the [MODLIST.md](https://github.com/MentatMinions/IndustriaArcanum/blob/mas
 ####SERVERS:
 
 This modpack is intended to be as server friendly as possible. Configs and mods are picked specifically for that purpose.
+
+More information to come as the modpack progresses.
