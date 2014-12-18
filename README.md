@@ -124,6 +124,7 @@ We will be including the following mods:
 
 #####Core:
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
+* [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
 * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
