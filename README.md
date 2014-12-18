@@ -11,7 +11,8 @@ We will be including the following mods:
 * [Thaumcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-1-4-updated-2014-10-10)
   * [Automagy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-16)
   * [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014)
-  * Thaumic Tinkerer w/o KAMI
+  * [Forbidden Magic](http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic)
+  * [Thaumic Tinkerer](http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer) w/o KAMI
 * [Witchery](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-6)
 * [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 
