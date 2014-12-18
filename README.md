@@ -77,7 +77,7 @@ We will be including the following mods:
 
 #####Utility:
 
-* ######Client:
+* ######Client: 
  * [AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
  * [Crafting Costs](http://www.curse.com/mc-mods/minecraft/224427-craftingcosts)
  * [InvTweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25)
