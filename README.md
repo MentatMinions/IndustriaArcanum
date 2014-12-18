@@ -119,7 +119,7 @@ We will be including the following mods:
 * Random Things
 
 #####Pack:
-* Better Title Screen
+* [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen)
 
 #####Core:
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
