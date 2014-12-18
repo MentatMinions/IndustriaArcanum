@@ -104,10 +104,10 @@
 * Ender Storage
 * Iron Chests
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
+* Modular Systems
 * Refined Relocation
 * Super Crafting Frames
 * Translocators
-* (Modular Systems?)
 
 #####Misc:
 * Extra Utilities (wings, quarry, and pump disabled)
