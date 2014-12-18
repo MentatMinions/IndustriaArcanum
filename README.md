@@ -16,7 +16,7 @@ We will be including the following mods:
 * [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 
 #####Tech:
-* EnderIO
+* [EnderIO](http://enderio.com/)
 * Flaxbeard's Steamworks
 * Railcraft
 * Steve's Carts
@@ -71,7 +71,7 @@ We will be including the following mods:
 
 * ######Mobs:
  * Dark Menagerie
- * Ender Zoo
+ * [Ender Zoo](http://enderio.com/)
  * Primitive Mobs
  * Special Mobs
 
