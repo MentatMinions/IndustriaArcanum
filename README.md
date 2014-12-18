@@ -24,7 +24,7 @@ We will be including the following mods:
 
 #####Farming and Simulation:
 * Aquaculture
-* Attained Drops
+* [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
 * Butterfly Mania
 * Growthcraft
 * Pam's Harvestcraft
