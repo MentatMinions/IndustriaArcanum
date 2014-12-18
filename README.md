@@ -3,12 +3,12 @@ Industria Arcanum Minecraft Modpack
 
 ####Story:
 
-Some fancy words can go here. Maybe somethign about titans ruling the world in ancient times and now they are tryign to come back. Their magic is all around and mixing with the industrial age the world has seen.
+Some fancy words can go here. Maybe something about titans ruling the world in ancient times and now they are trying to come back. Their magic is all around and mixing with the industrial age the world has seen.
 
 Or it could be something about cats in rabbit suits. Meh.
 
 ####About:
-Industria Arcanum is a modpack about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see.
+Industria Arcanum is a modpack about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats. And tails?
 
 ####Mods:
 
