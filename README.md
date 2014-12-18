@@ -24,7 +24,7 @@ We will be including the following mods:
   * [Tinker's Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
 
 #####Farming and Simulation:
-* Aquaculture
+* [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
 * [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
 * Butterfly Mania
 * Growthcraft
@@ -66,14 +66,13 @@ We will be including the following mods:
 * ######Terrain and Quests:
  * Hardcore Ender Expansion
  * [RPG Advanced Mod](http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod)
- * Ruins
+ * [Ruins](http://atomicstryker.net/ruins.php)
  * (Hardcore Questing Mode?)
 
 * ######Mobs:
- * Dark Menagerie
+ * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
  * [Ender Zoo](http://enderio.com/)
- * Primitive Mobs
- * Special Mobs
+ * [Special Mobs](http://www.curse.com/mc-mods/minecraft/special-mobs)
 
 #####Utility:
 
