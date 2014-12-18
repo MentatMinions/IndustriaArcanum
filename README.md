@@ -90,8 +90,8 @@ We will be including the following mods:
  * [TiC Tooltips](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
-   * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins)
-   * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
+    * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins)
+    * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
 
 * ######Server:
  * [MineTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your)
