@@ -60,7 +60,6 @@
 #####Flavor:
 
 * ######Terrain and Quests:
- * [Hardcore Ender Expansion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-6-170-000-dls)
  * [RPG Advanced Mod](http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod)
  * [Ruins](http://atomicstryker.net/ruins.php)
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
