@@ -76,7 +76,7 @@
  * [AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
  * [Crafting Costs](http://www.curse.com/mc-mods/minecraft/224427-craftingcosts)
  * [InvTweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25)
- * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a)
+ * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a) CLIENT ONLY
  * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)
  * [NEI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
    * [Thaumcraft NEI Plugin](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei)
@@ -115,7 +115,7 @@
 * Random Things
 
 #####Pack:
-* [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen)
+* [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen) CLIENT ONLY
 
 #####Core:
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
