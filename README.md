@@ -38,3 +38,9 @@ View the [MODLIST.md](https://github.com/MentatMinions/IndustriaArcanum/blob/mas
 This modpack is intended to be as server friendly as possible. Configs and mods are picked specifically for that purpose.
 
 More information to come as the modpack progresses.
+
+####Installation:
+*	Download the ZIP file on the right.
+*	Install Forge through vanilla or MultiMC (MultiMC recommended)
+*	Copy all folders under IndustriaArcanumModpack folder in the zip file over to the minecraft folder of your forge instance.
+*	Run and connect to the dev server. If you have access to the dev server, you already know how to connect.
