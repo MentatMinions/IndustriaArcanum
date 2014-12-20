@@ -117,6 +117,7 @@
 * [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen) CLIENT ONLY
 
 #####Core:
+*	[AOBD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores)
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
