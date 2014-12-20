@@ -10,7 +10,6 @@
   * [Forbidden Magic](http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic)
   * [Thaumic Tinkerer](http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer) w/o KAMI
 * [Witchery](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-6)
-* [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 
 #####Tech:
 * [EnderIO](http://enderio.com/)
