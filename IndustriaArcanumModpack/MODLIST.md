@@ -10,12 +10,12 @@
   * [Forbidden Magic](http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic)
   * [Thaumic Tinkerer](http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer) w/o KAMI
 * [Witchery](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-6)
-* [Xeno's Reliquary](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2234220-xenos-reliquary)
 
 #####Tech:
 * [EnderIO](http://enderio.com/)
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
+* SteamCraft 2
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 * [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
   * [Tinker's Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
@@ -77,7 +77,7 @@
  * [Crafting Costs](http://www.curse.com/mc-mods/minecraft/224427-craftingcosts)
  * [InvTweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25)
  * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a) CLIENT ONLY
- * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)
+ * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks) CLIENT ONLY
  * [NEI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
    * [Thaumcraft NEI Plugin](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei)
     * [NEI Integration](http://www.curse.com/mc-mods/minecraft/225251-nei-integration)
@@ -85,7 +85,7 @@
  * [TiC Tooltips](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
-    * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins)
+    * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins) CLIENT ONLY
     * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
 
 * ######Server:
@@ -125,4 +125,4 @@
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
-* [ttCore](http://minecraft.curseforge.com/mc-mods/226082-ttcore)
+* [ttCore](http://minecraft.curseforge.com/mc-mods/226082-ttcore) CLIENT ONLY
