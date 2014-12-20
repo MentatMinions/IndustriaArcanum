@@ -15,7 +15,7 @@
 * [EnderIO](http://enderio.com/)
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
-* SteamCraft 2
+*	[Steamcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2120327-steamcraft2-26-10-14-beta-3-2-refinements-2)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 * [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
   * [Tinker's Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
@@ -117,6 +117,7 @@
 * [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen) CLIENT ONLY
 
 #####Core:
+*	[AOBD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores)
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
