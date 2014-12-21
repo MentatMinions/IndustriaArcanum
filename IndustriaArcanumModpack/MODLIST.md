@@ -109,7 +109,7 @@
 * Translocators
 
 #####Misc:
-* Extra Utilities (wings, quarry, and pump disabled)
+* [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
 * Gravestone
 * Random Things
 
