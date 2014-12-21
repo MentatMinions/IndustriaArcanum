@@ -23,9 +23,9 @@
 #####Farming and Simulation:
 * [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
 * [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
-* Butterfly Mania
-* Growthcraft
-* Pam's Harvestcraft
+* [Butterfly Mania](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284684-v1-2-1-butterfly-mania-150-unique-butterflies)
+* [Growthcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286298-growthcraft-jul-15-2014-proper-1-7-10-release)
+* [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-dec-12th-harvestcraft-1-7-10d)
 
 #####Design and Cosmetic:
 
@@ -100,7 +100,6 @@
 * Adventure Backpack
 * AutoPackager
 * Backpacks
-* Ender Storage
 * Iron Chests
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * Modular Systems
@@ -109,9 +108,9 @@
 * Translocators
 
 #####Misc:
-* Extra Utilities (wings, quarry, and pump disabled)
-* Gravestone
-* Random Things
+* [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
+* [Gravestone](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-11-1)
+* [Random Things](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5)
 
 #####Pack:
 * [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen) CLIENT ONLY
