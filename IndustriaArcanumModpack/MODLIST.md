@@ -100,7 +100,6 @@
 * Adventure Backpack
 * AutoPackager
 * Backpacks
-* Ender Storage
 * Iron Chests
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * Modular Systems
