@@ -23,9 +23,9 @@
 #####Farming and Simulation:
 * [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
 * [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
-* Butterfly Mania
-* Growthcraft
-* Pam's Harvestcraft
+* [Butterfly Mania](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284684-v1-2-1-butterfly-mania-150-unique-butterflies)
+* [Growthcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286298-growthcraft-jul-15-2014-proper-1-7-10-release)
+* [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-dec-12th-harvestcraft-1-7-10d)
 
 #####Design and Cosmetic:
 
