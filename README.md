@@ -32,7 +32,7 @@ There are also mods in the following categories:
 
 Design, Cosmetic, Flavor, Farming, Simulation, Storage, Crafting and Client/Server Utility.
 
-View the [MODLIST.md](https://github.com/MentatMinions/IndustriaArcanum/blob/master/IndustriaArcanumModpack/MODLIST.md) file for the full list of mods that are and will be included (if we have permission).
+View the [MODLIST.md](./IndustriaArcanumModpack/MODLIST.md) file for the full list of mods that are and will be included (if we have permission).
 
 ####SERVERS:
 
@@ -42,6 +42,6 @@ More information to come as the modpack progresses.
 
 ####Installation:
 *	Download the ZIP file on the right.
-*	Install the version of Forge listed in [ForgeVersion](https://github.com/MentatMinions/IndustriaArcanum/blob/master/ForgeVersion) through vanilla or [MultiMC](http://multimc.org/) (MultiMC recommended)
+*	Install the version of Forge listed in [ForgeVersion](ForgeVersion) through vanilla or [MultiMC](http://multimc.org/) (MultiMC recommended)
 *	Copy all folders under IndustriaArcanumModpack folder in the zip file over to the minecraft folder of your new forge instance.
 *	Run and connect to the dev server. If you have access to the dev server, you already know how to connect. Check the Trello.
