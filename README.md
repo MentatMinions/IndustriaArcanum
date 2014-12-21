@@ -32,7 +32,7 @@ There are also mods in the following categories:
 
 Design, Cosmetic, Flavor, Farming, Simulation, Storage, Crafting and Client/Server Utility.
 
-View the [MODLIST.md](https://github.com/MentatMinions/IndustriaArcanum/blob/master/IndustriaArcanumModpack/MODLIST.md) file for the full list of mods that are and will be included (if we have permission).
+View the [MODLIST.md](./IndustriaArcanumModpack/MODLIST.md) file for the full list of mods that are and will be included (if we have permission).
 
 ####SERVERS:
 
