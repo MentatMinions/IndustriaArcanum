@@ -58,9 +58,11 @@
 #####Flavor:
 
 * ######Terrain and Quests:
+ * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
+ * Recurrent Complex
  * [RPG Advanced Mod](http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod)
  * [Ruins](http://atomicstryker.net/ruins.php)
- * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
+
 
 * ######Mobs:
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
@@ -85,6 +87,7 @@
     * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
 
 * ######Server:
+ * HelpFixer
  * [MineTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your)
    * [ModTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-6-minetweaker-addon)
  * [Morpheus](http://www.curse.com/mc-mods/minecraft/morpheus)
@@ -107,6 +110,7 @@
 #####Misc:
 * [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
 * [Gravestone](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-11-1)
+* Jewelrycraft
 * [Random Things](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5)
 
 #####Pack:
