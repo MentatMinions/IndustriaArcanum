@@ -37,7 +37,7 @@
  * Description Tags
  * Garden Stuff
  * Hat Stand
- * Headcrumbs
+ * Headcrumbs (Change celebrity ehads)
  * Luppii's Ladders
  * MmmMmmMmmMmm (Dummy)
  * MrCrayfish's Furniture Mod
