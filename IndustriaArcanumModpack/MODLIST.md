@@ -15,7 +15,6 @@
 * [EnderIO](http://enderio.com/)
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
-*	[Steamcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2120327-steamcraft2-26-10-14-beta-3-2-refinements-2)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 * [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
   * [Tinker's Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
@@ -24,7 +23,6 @@
 * [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
 * [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
 * [Butterfly Mania](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284684-v1-2-1-butterfly-mania-150-unique-butterflies)
-* [Growthcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286298-growthcraft-jul-15-2014-proper-1-7-10-release)
 * [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-dec-12th-harvestcraft-1-7-10d)
 
 #####Design and Cosmetic:
@@ -84,7 +82,6 @@
  * [TiC Tooltips](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
-    * [WAILAPlugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins) CLIENT ONLY
     * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
 
 * ######Server:
@@ -124,4 +121,3 @@
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
-* [ttCore](http://minecraft.curseforge.com/mc-mods/226082-ttcore) CLIENT ONLY
