@@ -46,7 +46,6 @@
  * SecretRoomsMod
  * Statues
  * Storage Drawers
- * Whitelisting most blocks in ForgeMultiparts (Forge Multipart Integration?)
 
 * ######Player:
  * Cosmetic Armor
