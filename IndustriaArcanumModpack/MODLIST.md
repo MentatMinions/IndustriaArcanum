@@ -82,7 +82,6 @@
    * [Thaumcraft NEI Plugin](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei)
     * [NEI Integration](http://www.curse.com/mc-mods/minecraft/225251-nei-integration)
     * [NEI Addons](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-3-now-supports-botany-flower)
- * [Not Enough Keys](http://www.curse.com/mc-mods/minecraft/224614-notenoughkeys) CLIENT ONLY
  * [TiC Tooltips](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
