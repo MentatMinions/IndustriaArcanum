@@ -76,11 +76,13 @@
  * [Crafting Costs](http://www.curse.com/mc-mods/minecraft/224427-craftingcosts)
  * [InvTweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25)
  * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a) CLIENT ONLY
+ * [MineMenu](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2141720-minemenu-v1-2-0-radial-menu-nuff-said)
  * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks) CLIENT ONLY
  * [NEI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
    * [Thaumcraft NEI Plugin](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei)
     * [NEI Integration](http://www.curse.com/mc-mods/minecraft/225251-nei-integration)
-    * [NEI Addons](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-3-now-supports-botany-flower) 
+    * [NEI Addons](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-3-now-supports-botany-flower)
+ * [Not Enough Keys](http://www.curse.com/mc-mods/minecraft/224614-notenoughkeys) CLIENT ONLY
  * [TiC Tooltips](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
