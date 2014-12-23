@@ -99,7 +99,6 @@
 #####Storage and Crafting:
 * [Adventure Backpack](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2252109-wip-adventure-backpack-mod-0-7-0-beta)
 * [AutoPackager](http://www.curse.com/mc-mods/minecraft/221457-autopackager)
-* [Backpacks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-1)
 * [Iron Chests](https://github.com/progwml6/ironchest)
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * [Modular Systems](https://github.com/TeamCoS/Modular-Systems/wiki)
