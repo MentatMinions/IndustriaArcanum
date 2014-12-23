@@ -38,7 +38,7 @@
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * Garden Stuff
  * Hat Stand
- * Headcrumbs (Change celebrity ehads)
+ * Headcrumbs (Change celebrity heads)
  * Luppii's Ladders
  * MmmMmmMmmMmm (Dummy)
  * MrCrayfish's Furniture Mod
