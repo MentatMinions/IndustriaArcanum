@@ -35,6 +35,7 @@
  * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
  * CraftHeraldry
  * Description Tags
+ * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * Garden Stuff
  * Hat Stand
  * Headcrumbs (Change celebrity ehads)
@@ -48,11 +49,11 @@
  * Storage Drawers
 
 * ######Player:
- * Cosmetic Armor
- * Emotes
- * Hats
- * Gender Mod
-  * Tails
+ * [Cosmetic Armor](http://www.curse.com/mc-mods/minecraft/225812-cosmetic-armor)
+ * [Emotes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2214387-emotes-dance-wave-facepalm-gangnam-style)
+ * [Hats](http://ichun.us/mods/hats/)
+ * [Gender Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1273164-1-7-10-ipixelis-gender-mod-forge)
+ * [Tails](http://www.curse.com/mc-mods/minecraft/223584-tails)
 
 #####Flavor:
 
@@ -121,7 +122,8 @@
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
-* [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
+* [FoxLib](http://minecraft.curseforge.com/mc-mods/223291-foxlib)
+* [iChunUtil](http://ichun.us/mods/ichunutil/)
 * [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
