@@ -28,7 +28,7 @@
 #####Design and Cosmetic:
 
 * ######Blocks:
- * Ancient Trees
+ * [Ancient Trees](https://github.com/MinecraftModArchive/Dendrology)
  * Bibliocraft
  * Builder's Guides
  * Carpenter's Blocks
@@ -58,7 +58,7 @@
 
 * ######Terrain and Quests:
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
- * Recurrent Complex
+ * [Recurrent Complex](http://www.curse.com/mc-mods/minecraft/223150-recurrent-complex)
  * [RPG Advanced Mod](http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod)
  * [Ruins](http://atomicstryker.net/ruins.php)
 
@@ -86,9 +86,10 @@
     * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
 
 * ######Server:
- * HelpFixer
+ * [HelpFixer](http://www.curse.com/mc-mods/minecraft/223797-helpfixer)
  * [MineTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your)
    * [ModTweaker](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-6-minetweaker-addon)
+   * [MineTweaker RecipeMaker](http://minecraft.curseforge.com/mc-mods/226294-minetweaker-recipemaker)
  * [Morpheus](http://www.curse.com/mc-mods/minecraft/morpheus)
  * [OpenEye](http://openeye.openmods.info/download)
  * [Opis](http://www.curse.com/mc-mods/minecraft/opis)
@@ -96,20 +97,21 @@
  * [Quadrum](http://www.curse.com/mc-mods/minecraft/223773-quadrum)
 
 #####Storage and Crafting:
-* Adventure Backpack
-* AutoPackager
-* Backpacks
-* Iron Chests
+* [Adventure Backpack](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2252109-wip-adventure-backpack-mod-0-7-0-beta)
+* [AutoPackager](http://www.curse.com/mc-mods/minecraft/221457-autopackager)
+* [Backpacks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-1)
+* [Iron Chests](https://github.com/progwml6/ironchest)
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
-* Modular Systems
-* Refined Relocation
-* Super Crafting Frames
-* Translocators
+* [Modular Systems](https://github.com/TeamCoS/Modular-Systems/wiki)
+* [Refined Relocation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-6-solves-your)
+* [Super Crafting Frames](http://www.curse.com/mc-mods/minecraft/super-crafting-frame)
+* [Translocators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
 
 #####Misc:
+* [Dynamic Sword Skills](http://minecraft.curseforge.com/mc-mods/226360-dynamic-sword-skills)
 * [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
 * [Gravestone](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-11-1)
-* Jewelrycraft
+* [Jewelrycraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293063-1-7-10-sp-mp-lan-jewelrycraft-custom-molten-metal)
 * [Random Things](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5)
 
 #####Pack:
@@ -121,6 +123,7 @@
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
 * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
+* [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
