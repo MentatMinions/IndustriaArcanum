@@ -40,7 +40,7 @@ This modpack is intended to be as server friendly as possible. Configs and mods 
 More information to come as the modpack progresses.
 
 ####Installation:
-*	Download the [latest release](../IndustriaArcanum/releases).
+*	Download the [latest release](../../releases).
 *	Install the version of Forge listed in [ForgeVersion](ForgeVersion) through vanilla or [MultiMC](http://multimc.org/) (MultiMC recommended)
 *	Copy all folders under IndustriaArcanumModpack folder in the zip file over to the minecraft folder of your new forge instance.
 *	Run and connect to the dev server. If you have access to the dev server, you already know how to connect. Check the Trello.
