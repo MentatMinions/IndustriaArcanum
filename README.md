@@ -10,6 +10,8 @@ Or it could be something about cats in rabbit suits. Meh.
 ####About:
 Industria Arcanum is a modpack designed by Saphrym and the Mentat Minions about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats. And tails?
 
+To discuss the pack, visit [our thread on the FTB forums](http://forum.feed-the-beast.com/threads/1-7-10-hqm-wip-smp-industria-arcanum.57953/).
+
 ####Mods:
 
 The mods for the pack are based on a steampunk/magic concept. The following are the main mods picked to follow that concept (and hopefully we'll get permission to use them):
