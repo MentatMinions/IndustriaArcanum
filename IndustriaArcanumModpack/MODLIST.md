@@ -29,20 +29,20 @@
 
 * ######Blocks:
  * [Ancient Trees](https://github.com/MinecraftModArchive/Dendrology)
- * Bibliocraft
- * Builder's Guides
- * Carpenter's Blocks
+ * [Bibliocraft](http://www.bibliocraftmod.com/)
+ * [Builder's Guides](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2166202-builders-guides-v1-0-0)
+ * [Carpenter's Blocks](http://www.carpentersblocks.com/)
  * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
- * CraftHeraldry
- * Description Tags
+ * [CraftHeraldry](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2165317-craftheraldry-coats-of-arms-in-minecraft-over-1200)
+ * [Description Tags](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125698-description-tags)
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
- * Garden Stuff
- * Hat Stand
- * Headcrumbs (Change celebrity heads)
- * Luppii's Ladders
- * MmmMmmMmmMmm (Dummy)
- * MrCrayfish's Furniture Mod
- * Natura
+ * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
+ * [Hat Stand](http://ichun.us/mods/hats/hat-stand/)
+ * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads) (Change celebrity heads)
+ * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
+ * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm) (Dummy)
+ * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
+ * [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
  * Plant Mega Pack
  * SecretRoomsMod
  * Statues
