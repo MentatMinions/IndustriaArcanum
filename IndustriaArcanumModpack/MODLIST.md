@@ -21,7 +21,6 @@
   * [Tinker's Mechworks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2261817-tinkers-mechworks)
 
 #####Farming and Simulation:
-* [AppleMilkTea](http://defeatedcrow.wiki.fc2.com/wiki/AppleMilkTea%20ver2)
 * [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
 * [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
 * [Butterfly Mania](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284684-v1-2-1-butterfly-mania-150-unique-butterflies)
