@@ -43,7 +43,7 @@
  * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm) (Dummy)
  * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
  * [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
- * Plant Mega Pack
+ * [Plant Mega Pack](http://www.curse.com/mc-mods/minecraft/plant-mega-pack)
  * SecretRoomsMod
  * Statues
  * Storage Drawers
