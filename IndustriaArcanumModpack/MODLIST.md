@@ -44,9 +44,8 @@
  * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
  * [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
  * [Plant Mega Pack](http://www.curse.com/mc-mods/minecraft/plant-mega-pack)
- * SecretRoomsMod
- * Statues
- * Storage Drawers
+ * [SecretRoomsMod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276042-v4-6-3-v4-7-0-alpha-secretroomsmod-hidden-trapped)
+ * [Storage Drawers](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-2-0-updated-nov-29-14)
 
 * ######Player:
  * [Cosmetic Armor](http://www.curse.com/mc-mods/minecraft/225812-cosmetic-armor)
