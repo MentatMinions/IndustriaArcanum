@@ -24,7 +24,6 @@ The mods for the pack are based on a steampunk/magic concept. The following are 
 * [EnderIO](http://enderio.com/)
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
-*	[Steamcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2120327-steamcraft2-26-10-14-beta-3-2-refinements-2)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 * [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 
@@ -41,7 +40,7 @@ This modpack is intended to be as server friendly as possible. Configs and mods 
 More information to come as the modpack progresses.
 
 ####Installation:
-*	Download the ZIP file on the right.
+*	Download the [latest release](https://github.com/MentatMinions/IndustriaArcanum/releases).
 *	Install the version of Forge listed in [ForgeVersion](ForgeVersion) through vanilla or [MultiMC](http://multimc.org/) (MultiMC recommended)
 *	Copy all folders under IndustriaArcanumModpack folder in the zip file over to the minecraft folder of your new forge instance.
 *	Run and connect to the dev server. If you have access to the dev server, you already know how to connect. Check the Trello.

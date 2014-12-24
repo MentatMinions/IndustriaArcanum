@@ -8,6 +8,7 @@
   * [Automagy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-16)
   * [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014)
   * [Forbidden Magic](http://minecraft.curseforge.com/mc-mods/224237-forbidden-magic)
+  * [Thaumic Infusion](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445452-tc4-add-on-thaumic-infusion-public-beta-is-out)
   * [Thaumic Tinkerer](http://minecraft.curseforge.com/mc-mods/75598-thaumic-tinkerer) w/o KAMI
 * [Witchery](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-6)
 
@@ -29,24 +30,23 @@
 
 * ######Blocks:
  * [Ancient Trees](https://github.com/MinecraftModArchive/Dendrology)
- * Bibliocraft
- * Builder's Guides
- * Carpenter's Blocks
+ * [Bibliocraft](http://www.bibliocraftmod.com/)
+ * [Builder's Guides](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2166202-builders-guides-v1-0-0)
+ * [Carpenter's Blocks](http://www.carpentersblocks.com/)
  * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
- * CraftHeraldry
- * Description Tags
+ * [CraftHeraldry](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2165317-craftheraldry-coats-of-arms-in-minecraft-over-1200)
+ * [Description Tags](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125698-description-tags)
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
- * Garden Stuff
- * Hat Stand
- * Headcrumbs (Change celebrity heads)
- * Luppii's Ladders
- * MmmMmmMmmMmm (Dummy)
- * MrCrayfish's Furniture Mod
- * Natura
- * Plant Mega Pack
- * SecretRoomsMod
- * Statues
- * Storage Drawers
+ * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
+ * [Hat Stand](http://ichun.us/mods/hats/hat-stand/)
+ * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads) (Change celebrity heads)
+ * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
+ * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm) (Dummy)
+ * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
+ * [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
+ * [Plant Mega Pack](http://www.curse.com/mc-mods/minecraft/plant-mega-pack)
+ * [SecretRoomsMod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276042-v4-6-3-v4-7-0-alpha-secretroomsmod-hidden-trapped)
+ * [Storage Drawers](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-2-0-updated-nov-29-14)
 
 * ######Player:
  * [Cosmetic Armor](http://www.curse.com/mc-mods/minecraft/225812-cosmetic-armor)
@@ -67,6 +67,7 @@
 * ######Mobs:
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
  * [Ender Zoo](http://enderio.com/)
+ * [Minecraft Comes Alive](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280154-minecraft-comes-alive-v4-1-5-three-million)
  * [Special Mobs](http://www.curse.com/mc-mods/minecraft/special-mobs)
 
 #####Utility:
