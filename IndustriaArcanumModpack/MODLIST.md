@@ -66,6 +66,7 @@
 * ######Mobs:
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
  * [Ender Zoo](http://enderio.com/)
+ * [Minecraft Comes Alive](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280154-minecraft-comes-alive-v4-1-5-three-million)
  * [Special Mobs](http://www.curse.com/mc-mods/minecraft/special-mobs)
 
 #####Utility:
