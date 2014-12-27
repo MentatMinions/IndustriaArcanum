@@ -52,7 +52,6 @@
  * [Emotes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2214387-emotes-dance-wave-facepalm-gangnam-style)
  * [Hats](http://ichun.us/mods/hats/)
  * [Gender Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1273164-1-7-10-ipixelis-gender-mod-forge)
- * [Tails](http://www.curse.com/mc-mods/minecraft/223584-tails)
 
 #####Flavor:
 
