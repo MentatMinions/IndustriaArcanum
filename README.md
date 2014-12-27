@@ -8,7 +8,7 @@ Some fancy words can go here. Maybe something about titans ruling the world in a
 Or it could be something about cats in rabbit suits. Meh.
 
 ####About:
-Industria Arcanum is a modpack designed by Saphrym and the Mentat Minions about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats. And tails?
+Industria Arcanum is a modpack designed by Saphrym and the Mentat Minions about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats?
 
 To discuss the pack, visit [our thread on the FTB forums](http://forum.feed-the-beast.com/threads/1-7-10-hqm-wip-smp-industria-arcanum.57953/).
 
