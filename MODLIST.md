@@ -55,7 +55,6 @@
 * ######Terrain and Quests:
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
  * [Recurrent Complex](http://www.curse.com/mc-mods/minecraft/223150-recurrent-complex)
- * [RPG Advanced Mod](http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod)
  * [Ruins](http://atomicstryker.net/ruins.php)
 
 
