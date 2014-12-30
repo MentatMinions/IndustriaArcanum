@@ -49,8 +49,7 @@
 * ######Player:
  * [Cosmetic Armor](http://www.curse.com/mc-mods/minecraft/225812-cosmetic-armor)
  * [Emotes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2214387-emotes-dance-wave-facepalm-gangnam-style)
- * [Gender Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1273164-1-7-10-ipixelis-gender-mod-forge)
-
+ 
 #####Flavor:
 
 * ######Terrain and Quests:
