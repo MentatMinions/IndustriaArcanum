@@ -38,7 +38,6 @@
  * [Description Tags](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125698-description-tags)
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
- * [Hat Stand](http://ichun.us/mods/hats/hat-stand/)
  * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads) (Change celebrity heads)
  * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
  * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm) (Dummy)
@@ -50,7 +49,6 @@
 * ######Player:
  * [Cosmetic Armor](http://www.curse.com/mc-mods/minecraft/225812-cosmetic-armor)
  * [Emotes](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2214387-emotes-dance-wave-facepalm-gangnam-style)
- * [Hats](http://ichun.us/mods/hats/)
  * [Gender Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1273164-1-7-10-ipixelis-gender-mod-forge)
 
 #####Flavor:
