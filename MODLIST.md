@@ -21,7 +21,6 @@
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 * [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
-  * [Iguana Tweaks](http://www.curse.com/mc-mods/minecraft/223248-iguanas-tinker-tweaks)
 
 #####Farming and Simulation:
 * [AppleMilkTea](https://www.dropbox.com/sh/w1mrciofe19uyk7/AADbcpOsip_F56P71pGaIIRCa/AppleMilkTea2-1.7.10_2.0_beta11.jar?dl=0)
