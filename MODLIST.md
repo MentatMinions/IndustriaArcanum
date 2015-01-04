@@ -2,9 +2,7 @@
 
 #####Magic:
 * [Botania](http://vazkii.us/mod/Botania/)
-* [Brewcraft](http://www.curse.com/mc-mods/minecraft/brewcraft)
 * [Clockwork Phase](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2288839-clockwork-phase-1-7-10_1-0-time-magic-all-wrapped)
-* [Jewelrycraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293063-1-7-10-sp-mp-lan-jewelrycraft-custom-molten-metal)
 * [Thaumcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-1-4-updated-2014-10-10)
   * [Automagy](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-16)
   * [Baubles](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-10-updated-5-12-2014)
@@ -45,7 +43,6 @@
  * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
  * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm)
- * [MoarSigns](http://www.curse.com/mc-mods/minecraft/moarsigns)
  * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
  * [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
  * [Placeable Tools](http://www.curse.com/mc-mods/minecraft/223092-placeabletools)
@@ -127,7 +124,6 @@
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [D3 Core](http://www.curse.com/mc-mods/minecraft/223569-d3-core)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
-* [FoxLib](http://minecraft.curseforge.com/mc-mods/223291-foxlib)
 * [iChunUtil](http://ichun.us/mods/ichunutil/)
 * [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore)
