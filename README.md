@@ -35,11 +35,11 @@ Design, Cosmetic, Flavor, Farming, Simulation, Storage, Crafting and Client/Serv
 
 View the [MODLIST.md](MODLIST.md) file for the full list of mods that are and will be included (if we have permission).
 
-####SERVERS:
+####SERVERS:<a href="http://mentat.link/akliz"><img src="http://purplementat.com/wp-content/uploads/2014/11/logo-transparent.png" width="100" height="100" align="right"></a>
 
 This modpack is intended to be as server friendly as possible. Configs and mods are picked specifically for that purpose.
 
-More information to come as the modpack progresses.
+Our Development server is sponsored by [Akliz](http://mentat.link/akliz).
 
 ####Installation:
 *	Download the [latest release](https://github.com/MentatMinions/IndustriaArcanum/releases).
