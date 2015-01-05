@@ -124,7 +124,6 @@
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [D3 Core](http://www.curse.com/mc-mods/minecraft/223569-d3-core)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
-* [iChunUtil](http://ichun.us/mods/ichunutil/)
 * [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
 * [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (For Ancient Trees)
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore)
