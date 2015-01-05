@@ -29,10 +29,7 @@ Found creative tab: tabGraveStone
 Found creative tab: Hardcore Questing Mode
 Found creative tab: misc
 Found creative tab: jabba
-Found creative tab: JewelryCraft
 Found creative tab: redstone
-Found creative tab: moarSigns
-Found creative tab: materials
 Found creative tab: natura.plants
 Found creative tab: transportation
 Found creative tab: natura.nether
@@ -61,6 +58,7 @@ Found creative tab: thaumicExploration
 Found creative tab: buildingBlocks
 Found creative tab: ThaumicTinkerer
 Found creative tab: brewing
+Found creative tab: materials
 Found creative tab: travellersgear
 Found creative tab: adventurebackpack
 Found creative tab: aobd
@@ -82,10 +80,6 @@ Found creative tab: tabModularSystems
 Found creative tab: tabPrimitiveMobs
 Found creative tab: inventoryGenerators
 Found creative tab: structureTools
-Found creative tab: brewcraft.big
-Found creative tab: brewcraft.misc
-Found creative tab: brewcraft.potions
-Found creative tab: brewcraft.vials
 Found creative tab: thaumicinfusion
 Found creative tab: tabWitchery
 Setting up ForgeMicroblock Library...
@@ -120,14 +114,14 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.Darkleaves2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves2
+getRandomMaterial called. Returned: tile.Decoration.BrickFancy_11
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Decoration.BrickFancy_11
 Loading: ExtraUtilities.js
 override called. Params: drum, 0,1
 override called. Params: ExtraUtilities, drum
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.Darkleaves3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Darkleaves3
+getRandomMaterial called. Returned: tile.Decoration.BrickFancy
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Decoration.BrickFancy
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 override called. Params: *, 0
@@ -189,6 +183,8 @@ Regx match found! BiblioCraft:* matches BiblioCraft:BiblioWorkbench.
 Found ItemStack BiblioCraft:BiblioWorkbench. 64xtile.BiblioWorkbench@0
 Regx match found! BiblioCraft:* matches BiblioCraft:Bibliotheca.
 Found ItemStack BiblioCraft:Bibliotheca. 64xtile.BiblioBookcase@0
+Regx match found! BiblioCraft:* matches BiblioCraft:BookcaseFilled.
+Found ItemStack BiblioCraft:BookcaseFilled. 64xtile.BookcaseFilled@0
 Regx match found! BiblioCraft:* matches BiblioCraft:Printing.
 Cannot find ItemStack BiblioCraft:Printing
 Regx match found! BiblioCraft:* matches BiblioCraft:Typesetting.

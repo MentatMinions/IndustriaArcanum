@@ -126,6 +126,7 @@
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
 * [iChunUtil](http://ichun.us/mods/ichunutil/)
 * [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
+* [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (For Ancient Trees)
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
