@@ -17,6 +17,7 @@
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Project: Red](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-5-8-59-12-08-2014)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
+* [Simply Jetpacks](http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 * [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 
@@ -39,7 +40,7 @@
  * [Description Tags](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125698-description-tags)
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
- * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads) (Change celebrity heads)
+ * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads)
  * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
  * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm)
@@ -96,6 +97,7 @@
  * [Opis](http://www.curse.com/mc-mods/minecraft/opis)
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
  * [Quadrum](http://www.curse.com/mc-mods/minecraft/223773-quadrum)
+ * [Squidless](http://minecraft.curseforge.com/mc-mods/226115-squidless)
  * [TooMuchLoot](http://www.curse.com/mc-mods/minecraft/220845-toomuchloot)
 
 #####Storage and Crafting:
@@ -103,10 +105,10 @@
 * [AutoPackager](http://www.curse.com/mc-mods/minecraft/221457-autopackager)
 * [Iron Chests](https://github.com/progwml6/ironchest)
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
-* [Modular Systems](https://github.com/TeamCoS/Modular-Systems/wiki)
 * [Refined Relocation](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-6-solves-your)
 * [Super Crafting Frames](http://www.curse.com/mc-mods/minecraft/super-crafting-frame)
 * [Translocators](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
+* [Tubes](http://www.curse.com/mc-mods/minecraft/tubes)
 
 #####Misc:
 * [Dynamic Sword Skills](http://minecraft.curseforge.com/mc-mods/226360-dynamic-sword-skills)
