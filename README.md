@@ -39,7 +39,7 @@ View the [MODLIST.md](MODLIST.md) file for the full list of mods that are and wi
 
 This modpack is intended to be as server friendly as possible. Configs and mods are picked specifically for that purpose.
 
-Our Development server is sponsored by [Akliz](http://mentat.link/akliz).
+Our Development server is sponsored by [Akliz](http://mentat.link/akliz), the premiere Minecraft server host. Why? Because they're awesome!
 
 ####Installation:
 *	Download the [latest release](https://github.com/MentatMinions/IndustriaArcanum/releases).
