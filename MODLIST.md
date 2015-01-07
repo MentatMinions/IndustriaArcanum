@@ -15,6 +15,7 @@
 #####Tech:
 * [EnderIO](http://enderio.com/)
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
+* [Progressive Automation](http://www.curse.com/mc-mods/minecraft/220606-progressive-automation-early-miner)
 * [Project: Red](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-5-8-59-12-08-2014)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
 * [Simply Jetpacks](http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks)
@@ -57,9 +58,9 @@
 
 * ######Terrain and Quests:
  * [Atum](http://www.curse.com/mc-mods/minecraft/atum)
+ * [GenCreator](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2186048-gencreator-create-worldgen-structures-ingame-now-1)
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
  * [Lost Books](http://www.curse.com/mc-mods/minecraft/lost-books)
- * [Recurrent Complex](http://www.curse.com/mc-mods/minecraft/223150-recurrent-complex)
 
 * ######Mobs:
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
