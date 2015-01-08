@@ -35,7 +35,6 @@ Found creative tab: transportation
 Found creative tab: natura.nether
 Found creative tab: natura.trees
 Found creative tab: food
-Found creative tab: TConstructBlocks
 Found creative tab: core
 Found creative tab: int
 Found creative tab: trans
@@ -48,11 +47,6 @@ Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
 Found creative tab: storageDrawers
-Found creative tab: TConstructWeaponry
-Found creative tab: TConstructParts
-Found creative tab: TConstructTools
-Found creative tab: TConstructMaterials
-Found creative tab: TConstructEquipables
 Found creative tab: thaumcraft
 Found creative tab: thaumicExploration
 Found creative tab: buildingBlocks
@@ -62,8 +56,11 @@ Found creative tab: materials
 Found creative tab: travellersgear
 Found creative tab: tubes
 Found creative tab: adventurebackpack
+Found creative tab: alchemyplusplus
+Found creative tab: alchemyplusplusflora
 Found creative tab: aobd
 Found creative tab: atum
+Found creative tab: betterstorage
 Found creative tab: tabFurniture
 Found creative tab: tabChiselBlocks
 Found creative tab: tabChisel
@@ -74,6 +71,8 @@ Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
 Found creative tab: headcrumbs
+Found creative tab: InvisiBlocksBlocks
+Found creative tab: tabLootPP
 Found creative tab: magicalcrops
 Found creative tab: malisisdoors
 Found creative tab: menagerie
@@ -114,14 +113,14 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.Darkleaves2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves2
+getRandomMaterial called. Returned: tile.Darkleaves
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves
 Loading: ExtraUtilities.js
 override called. Params: drum, 0,1
 override called. Params: ExtraUtilities, drum
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.Darkleaves2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Darkleaves2
+getRandomMaterial called. Returned: tile.Darkleaves_4
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Darkleaves_4
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 override called. Params: *, 0
@@ -244,18 +243,4 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Cannot find ItemStack BiblioCraft:*
 Loading: AppliedEnergistics2.js
 Loading: Tcon.js
-override called. Params: tool*, 0
-override called. Params: TConstruct, tool*
-Wildcard found in parameters. Running through RegxEngine...
-Regx match found! TConstruct:tool* matches TConstruct:toolRod.
-Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
-Regx match found! TConstruct:tool* matches TConstruct:toolShard.
-Found ItemStack TConstruct:toolShard. 64xitem.tconstruct.ToolShard@0
-Cannot find ItemStack TConstruct:tool*
-override called. Params: binding, 0
-override called. Params: TConstruct, binding
-Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
-override called. Params: scytheBlade, 0
-override called. Params: TConstruct, scytheBlade
-Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
 Loading: MFR.js

@@ -1,0 +1,271 @@
+## Biome IDs                                           ##
+#########################################################
+## In the form:                                        ##
+## <biome id>                                          ##
+##    - Name: <biome name>                             ##
+##    - Forge Biome Types: <list of forge biome types> ##
+#########################################################
+0
+	- Name: Ocean
+	- Forge Biome Types: OCEAN 
+
+1
+	- Name: Plains
+	- Forge Biome Types: PLAINS 
+
+2
+	- Name: Desert
+	- Forge Biome Types: HOT DRY SANDY 
+
+3
+	- Name: Extreme Hills
+	- Forge Biome Types: MOUNTAIN HILLS 
+
+4
+	- Name: Forest
+	- Forge Biome Types: FOREST 
+
+5
+	- Name: Taiga
+	- Forge Biome Types: COLD CONIFEROUS FOREST 
+
+6
+	- Name: Swampland
+	- Forge Biome Types: WET SWAMP 
+
+7
+	- Name: River
+	- Forge Biome Types: RIVER 
+
+8
+	- Name: Hell
+	- Forge Biome Types: HOT DRY NETHER 
+
+9
+	- Name: Sky
+	- Forge Biome Types: COLD DRY END 
+
+10
+	- Name: FrozenOcean
+	- Forge Biome Types: COLD OCEAN SNOWY 
+
+11
+	- Name: FrozenRiver
+	- Forge Biome Types: COLD RIVER SNOWY 
+
+12
+	- Name: Ice Plains
+	- Forge Biome Types: COLD SNOWY WASTELAND 
+
+13
+	- Name: Ice Mountains
+	- Forge Biome Types: COLD MOUNTAIN SNOWY 
+
+14
+	- Name: MushroomIsland
+	- Forge Biome Types: MUSHROOM 
+
+15
+	- Name: MushroomIslandShore
+	- Forge Biome Types: MUSHROOM BEACH 
+
+16
+	- Name: Beach
+	- Forge Biome Types: BEACH 
+
+17
+	- Name: DesertHills
+	- Forge Biome Types: HOT DRY HILLS SANDY 
+
+18
+	- Name: ForestHills
+	- Forge Biome Types: FOREST HILLS 
+
+19
+	- Name: TaigaHills
+	- Forge Biome Types: COLD CONIFEROUS FOREST HILLS 
+
+20
+	- Name: Extreme Hills Edge
+	- Forge Biome Types: MOUNTAIN 
+
+21
+	- Name: Jungle
+	- Forge Biome Types: HOT DENSE WET JUNGLE 
+
+22
+	- Name: JungleHills
+	- Forge Biome Types: HOT DENSE WET JUNGLE HILLS 
+
+23
+	- Name: JungleEdge
+	- Forge Biome Types: HOT WET JUNGLE FOREST 
+
+24
+	- Name: Deep Ocean
+	- Forge Biome Types: OCEAN 
+
+25
+	- Name: Stone Beach
+	- Forge Biome Types: BEACH 
+
+26
+	- Name: Cold Beach
+	- Forge Biome Types: COLD SNOWY BEACH 
+
+27
+	- Name: Birch Forest
+	- Forge Biome Types: FOREST 
+
+28
+	- Name: Birch Forest Hills
+	- Forge Biome Types: FOREST HILLS 
+
+29
+	- Name: Roofed Forest
+	- Forge Biome Types: DENSE SPOOKY FOREST 
+
+30
+	- Name: Cold Taiga
+	- Forge Biome Types: COLD CONIFEROUS FOREST SNOWY 
+
+31
+	- Name: Cold Taiga Hills
+	- Forge Biome Types: COLD CONIFEROUS FOREST HILLS SNOWY 
+
+32
+	- Name: Mega Taiga
+	- Forge Biome Types: COLD CONIFEROUS FOREST 
+
+33
+	- Name: Mega Taiga Hills
+	- Forge Biome Types: COLD CONIFEROUS FOREST HILLS 
+
+34
+	- Name: Extreme Hills+
+	- Forge Biome Types: SPARSE FOREST MOUNTAIN 
+
+35
+	- Name: Savanna
+	- Forge Biome Types: HOT SPARSE SAVANNA PLAINS 
+
+36
+	- Name: Savanna Plateau
+	- Forge Biome Types: HOT SPARSE SAVANNA PLAINS 
+
+37
+	- Name: Mesa
+	- Forge Biome Types: MESA SANDY 
+
+38
+	- Name: Mesa Plateau F
+	- Forge Biome Types: SPARSE MESA SANDY 
+
+39
+	- Name: Mesa Plateau
+	- Forge Biome Types: MESA SANDY 
+
+129
+	- Name: Sunflower Plains
+	- Forge Biome Types: PLAINS 
+
+130
+	- Name: Desert M
+	- Forge Biome Types: HOT DRY PLAINS SANDY 
+
+131
+	- Name: Extreme Hills M
+	- Forge Biome Types: HILLS 
+
+132
+	- Name: Flower Forest
+	- Forge Biome Types: FOREST HILLS 
+
+133
+	- Name: Taiga M
+	- Forge Biome Types: HILLS 
+
+134
+	- Name: Swampland M
+	- Forge Biome Types: WET SWAMP 
+
+140
+	- Name: Ice Plains Spikes
+	- Forge Biome Types: COLD HILLS SNOWY 
+
+149
+	- Name: Jungle M
+	- Forge Biome Types: HOT WET HILLS 
+
+151
+	- Name: JungleEdge M
+	- Forge Biome Types: HOT HILLS 
+
+155
+	- Name: Birch Forest M
+	- Forge Biome Types: HILLS 
+
+156
+	- Name: Birch Forest Hills M
+	- Forge Biome Types: HILLS 
+
+157
+	- Name: Roofed Forest M
+	- Forge Biome Types: HILLS 
+
+158
+	- Name: Cold Taiga M
+	- Forge Biome Types: COLD HILLS SNOWY 
+
+160
+	- Name: Mega Spruce Taiga
+	- Forge Biome Types: DENSE FOREST 
+
+160
+	- Name: Mega Spruce Taiga
+	- Forge Biome Types: DENSE FOREST 
+
+162
+	- Name: Extreme Hills+ M
+	- Forge Biome Types: HILLS 
+
+163
+	- Name: Savanna M
+	- Forge Biome Types: HOT SPARSE DRY SAVANNA HILLS 
+
+164
+	- Name: Savanna Plateau M
+	- Forge Biome Types: HOT SPARSE DRY SAVANNA HILLS 
+
+165
+	- Name: Mesa (Bryce)
+	- Forge Biome Types: HOT DRY PLAINS SANDY 
+
+166
+	- Name: Mesa Plateau F M
+	- Forge Biome Types: HOT DRY FOREST SANDY 
+
+167
+	- Name: Mesa Plateau M
+	- Forge Biome Types: HOT DRY PLAINS SANDY 
+
+192
+	- Name: Tainted Land
+	- Forge Biome Types: MAGICAL WASTELAND 
+
+193
+	- Name: Magical Forest
+	- Forge Biome Types: MAGICAL FOREST 
+
+194
+	- Name: Eerie
+	- Forge Biome Types: SPOOKY MAGICAL 
+
+195
+	- Name: Eldritch
+	- Forge Biome Types: SPOOKY END MAGICAL 
+
+200
+	- Name: biome.desert.name
+	- Forge Biome Types: HOT SPARSE DRY SAVANNA PLAINS 
+
