@@ -40,9 +40,3 @@ View the [MODLIST.md](MODLIST.md) file for the full list of mods that are and wi
 This modpack is intended to be as server friendly as possible. Configs and mods are picked specifically for that purpose.
 
 Our Development server is sponsored by [Akliz](http://mentat.link/akliz), the premiere Minecraft server host. Why? Because they're awesome!
-
-####Installation:
-*	Download the [latest release](https://github.com/MentatMinions/IndustriaArcanum/releases).
-*	Install the version of Forge listed in [ForgeVersion](ForgeVersion) through vanilla or [MultiMC](http://multimc.org/) (MultiMC recommended)
-*	Copy all folders in the zip file over to the "minecraft" folder of your new forge instance.
-*	Run and connect to the dev server. If you have access to the dev server, you already know how to connect. Check the Trello.
