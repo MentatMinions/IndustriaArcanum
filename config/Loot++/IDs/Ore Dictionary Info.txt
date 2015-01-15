@@ -5,6 +5,27 @@
 ##     <item id registered> - <item damage> ##
 ##     etc...                               ##
 ##############################################
+EnderIO:itemAlloy;0
+
+
+EnderIO:itemAlloy;1
+
+
+EnderIO:itemAlloy;2
+
+
+EnderIO:itemAlloy;3
+
+
+EnderIO:itemAlloy;4
+
+
+EnderIO:itemAlloy;5
+
+
+EnderIO:itemAlloy;6
+
+
 FC.Bass
 
 
@@ -76,39 +97,53 @@ minecraft:dye - 0
 DCsAppleMilk:defeatedcrow.inkStick - 0
 Botania:dye - 15
 ForbiddenMagic:FMResource - 1
+erebus:flower - 0
 minecraft:dye - 1
 Botania:dye - 14
+erebus:flower - 1
 minecraft:dye - 2
 Botania:dye - 13
 minecraft:dye - 3
 Botania:dye - 12
+erebus:flower - 2
 minecraft:dye - 4
 Botania:dye - 11
 Natura:barleyFood - 8
+erebus:flower - 3
 minecraft:dye - 5
 Botania:dye - 10
+erebus:flower - 4
 minecraft:dye - 6
 Botania:dye - 9
+erebus:flower - 5
 minecraft:dye - 7
 Botania:dye - 8
+erebus:flower - 6
 minecraft:dye - 8
 Botania:dye - 7
+erebus:flower - 7
 minecraft:dye - 9
 Botania:dye - 6
+erebus:flower - 8
 minecraft:dye - 10
 Botania:dye - 5
 minecraft:dye - 11
 Botania:dye - 4
+erebus:flower - 9
 minecraft:dye - 12
 Botania:dye - 3
+erebus:flower - 10
 minecraft:dye - 13
 Botania:dye - 2
+erebus:flower - 11
 minecraft:dye - 14
 DCsAppleMilk:defeatedcrow.foodTea - 4
 Botania:dye - 1
+erebus:flower - 12
 minecraft:dye - 15
 DCsAppleMilk:defeatedcrow.condensedMilk - 6
 Botania:dye - 0
+erebus:flower - 13
 
 
 apricot
@@ -135,27 +170,7 @@ Botania:vial - 0
 
 barsIron
 EnderIO:blockDarkIronBars - 0
-
-
-baubleAmuletGold
-Thaumcraft:ItemBaubleBlanks - 0
-
-
-baubleBeltGold
-Thaumcraft:ItemBaubleBlanks - 2
-
-
-baubleBeltIron
-TravellersGear:simpleGear - 1
-
-
-baubleRingGold
-TravellersGear:simpleGear - 2
-Thaumcraft:ItemBaubleBlanks - 1
-
-
-baubleRingSilver
-TravellersGear:simpleGear - 3
+minecraft:iron_bars - 0
 
 
 beeQueen
@@ -380,6 +395,7 @@ ExtraUtilities:decorativeBlock2 - 2
 ExtraUtilities:decorativeBlock2 - 3
 ExtraUtilities:decorativeBlock2 - 6
 ExtraUtilities:decorativeBlock2 - 9
+erebus:amber - 1
 
 
 blockGlassBlack
@@ -464,6 +480,10 @@ blockHaderoth
 blockHepatizon
 
 
+blockHopper
+minecraft:hopper - 0
+
+
 blockIceMaker
 DCsAppleMilk:defeatedcrow.iceMaker - 0
 
@@ -482,6 +502,10 @@ blockInvar
 
 blockIron
 minecraft:iron_block - 0
+
+
+blockJade
+erebus:blockJade - 0
 
 
 blockKalendrite
@@ -599,6 +623,10 @@ ForbiddenMagic:StarBlock - 0
 
 
 blockNickel
+
+
+blockObsidian
+minecraft:obsidian - 0
 
 
 blockOrichalcum
@@ -744,6 +772,12 @@ blockSilver
 
 blockSoularium
 EnderIO:blockIngotStorage - 7
+
+
+blockSpawner
+erebus:spiderSpawner - 0
+erebus:jumpingSpiderSpawner - 0
+erebus:waspSpawner - 0
 
 
 blockSteel
@@ -1160,6 +1194,9 @@ chestWood
 minecraft:chest - 0
 
 
+clayBall
+
+
 cloud
 chisel:cloud - 0
 
@@ -1222,6 +1259,7 @@ ExtraUtilities:color_stonebrick - 12
 ExtraUtilities:color_stonebrick - 13
 ExtraUtilities:color_stonebrick - 14
 ExtraUtilities:color_stonebrick - 15
+erebus:umberstone - 1
 
 
 cobblestoneBlack
@@ -2070,6 +2108,10 @@ Steamcraft:smashedOre - 1
 dustGraphite
 
 
+dustGunpowder
+minecraft:gunpowder - 0
+
+
 dustHaderoth
 
 
@@ -2254,27 +2296,32 @@ minecraft:dye - 0
 DCsAppleMilk:defeatedcrow.inkStick - 0
 Botania:dye - 15
 ForbiddenMagic:FMResource - 1
+erebus:flower - 0
 
 
 dyeBlue
 minecraft:dye - 4
 Botania:dye - 11
 Natura:barleyFood - 8
+erebus:flower - 3
 
 
 dyeBrown
 minecraft:dye - 3
 Botania:dye - 12
+erebus:flower - 2
 
 
 dyeCyan
 minecraft:dye - 6
 Botania:dye - 9
+erebus:flower - 5
 
 
 dyeGray
 minecraft:dye - 8
 Botania:dye - 7
+erebus:flower - 7
 
 
 dyeGreen
@@ -2285,11 +2332,13 @@ Botania:dye - 13
 dyeLightBlue
 minecraft:dye - 12
 Botania:dye - 3
+erebus:flower - 10
 
 
 dyeLightGray
 minecraft:dye - 7
 Botania:dye - 8
+erebus:flower - 6
 
 
 dyeLime
@@ -2300,38 +2349,45 @@ Botania:dye - 5
 dyeMagenta
 minecraft:dye - 13
 Botania:dye - 2
+erebus:flower - 11
 
 
 dyeOrange
 minecraft:dye - 14
 DCsAppleMilk:defeatedcrow.foodTea - 4
 Botania:dye - 1
+erebus:flower - 12
 
 
 dyePink
 minecraft:dye - 9
 Botania:dye - 6
+erebus:flower - 8
 
 
 dyePurple
 minecraft:dye - 5
 Botania:dye - 10
+erebus:flower - 4
 
 
 dyeRed
 minecraft:dye - 1
 Botania:dye - 14
+erebus:flower - 1
 
 
 dyeWhite
 minecraft:dye - 15
 DCsAppleMilk:defeatedcrow.condensedMilk - 6
 Botania:dye - 0
+erebus:flower - 13
 
 
 dyeYellow
 minecraft:dye - 11
 Botania:dye - 4
+erebus:flower - 9
 
 
 elvenDragonstone
@@ -4816,12 +4872,6 @@ gemAmber
 Thaumcraft:ItemResource - 6
 
 
-gemBlueTopaz
-
-
-gemChimerite
-
-
 gemClam
 DCsAppleMilk:defeatedcrow.princessClam - 0
 
@@ -4832,27 +4882,23 @@ minecraft:coal - 0
 
 gemDiamond
 minecraft:diamond - 0
+erebus:encrustedDiamond - 0
 
 
 gemEmerald
 minecraft:emerald - 0
 
 
-gemForce
-
-
 gemIce
 DCsAppleMilk:defeatedcrow.icyCrystal - 0
 
 
-gemIridium
+gemJade
+erebus:materials - 1
 
 
 gemLapis
 minecraft:dye - 4
-
-
-gemMoonstone
 
 
 gemPeridot
@@ -4866,9 +4912,6 @@ gemRuby
 
 
 gemSapphire
-
-
-gemSunstone
 
 
 glass
@@ -5281,7 +5324,40 @@ Steamcraft:steamcraftIngot - 1
 itemBacon
 
 
-itemRubber
+itemBlazePowder
+minecraft:blaze_powder - 0
+
+
+itemBlazeRod
+minecraft:blaze_rod - 0
+
+
+itemCharcoal
+minecraft:coal - 1
+
+
+itemClay
+minecraft:clay_ball - 0
+
+
+itemCoal
+minecraft:coal - 0
+
+
+itemFlint
+minecraft:flint - 0
+
+
+itemGhastTear
+minecraft:ghast_tear - 0
+
+
+itemLeather
+minecraft:leather - 0
+
+
+itemNetherStar
+minecraft:nether_star - 0
 
 
 itemSalt
@@ -5730,7 +5806,16 @@ dendrology:logs0 - any
 dendrology:logs1 - any
 dendrology:logs2 - any
 dendrology:logs3 - any
-atum:tile.palmLog - 0
+erebus:logBaobab - 0
+erebus:logEucalyptus - 0
+erebus:logMahogany - 0
+erebus:logMossbark - 0
+erebus:logAsper - 0
+erebus:logCypress - 0
+erebus:logSap - 0
+erebus:logRotten - 0
+erebus:saplessLog - 0
+erebus:log_scorched - 0
 
 
 magicinfusedwood
@@ -5834,7 +5919,20 @@ materialWaxcomb
 harvestcraft:waxcombItem - 0
 
 
+minecraft:bedrock;0
+
+
+minecraft:diamond
+
+
+minecraft:dirt
+
+
 miso
+
+
+mobEgg
+erebus:monsterPlacer - any
 
 
 mycelium
@@ -6129,6 +6227,7 @@ Thaumcraft:blockCustomOre - 0
 
 oreCoal
 minecraft:coal_ore - 0
+erebus:oreCoal - 0
 
 
 oreCobalt
@@ -6144,22 +6243,31 @@ oreDeepIron
 oreDiamond
 minecraft:diamond_ore - 0
 Railcraft:tile.railcraft.ore - 2
+erebus:oreDiamond - 0
+erebus:oreEncrustedDiamond - 0
 
 
 oreEmerald
 minecraft:emerald_ore - 0
 Railcraft:tile.railcraft.ore - 3
+erebus:oreEmerald - 0
 
 
 oreFirestone
 Railcraft:tile.railcraft.ore - 5
 
 
-oreFzDarkIron
+oreFossil
+erebus:oreFossil - 0
+
+
+oreGneiss
+erebus:oreGneiss - 0
 
 
 oreGold
 minecraft:gold_ore - 0
+erebus:oreGold - 0
 
 
 oreIgnatius
@@ -6194,6 +6302,11 @@ Thaumcraft:blockCustomOre - 3
 
 oreIron
 minecraft:iron_ore - 0
+erebus:oreIron - 0
+
+
+oreJade
+erebus:oreJade - 0
 
 
 oreKalendrite
@@ -6202,6 +6315,7 @@ oreKalendrite
 oreLapis
 minecraft:lapis_ore - 0
 Railcraft:tile.railcraft.ore - 4
+erebus:oreLapis - 0
 
 
 oreLead
@@ -6232,6 +6346,10 @@ oreOureclase
 
 
 orePeridot
+
+
+orePetrifiedWood
+erebus:orePetrifiedWood - 0
 
 
 orePlatinum
@@ -6301,17 +6419,15 @@ oreSulfur
 Railcraft:tile.railcraft.ore - 0
 
 
+oreTemple
+erebus:oreTemple - 0
+
+
 oreTemporal
 clockworkphase:oreTemporal - 0
 
 
 oreTin
-
-
-oreUranium
-
-
-oreVinteum
 
 
 oreVulcanite
@@ -6400,6 +6516,14 @@ paneGlassYellow
 minecraft:stained_glass_pane - 4
 
 
+pearlEnder
+minecraft:ender_pearl - 0
+
+
+pearlEnderEye
+minecraft:ender_eye - 0
+
+
 pestleAndMortar
 Botania:pestleAndMortar - 0
 
@@ -6468,6 +6592,58 @@ petalYellow
 Botania:petal - 4
 
 
+plankAsper
+erebus:planks - 4
+
+
+plankBamboo
+erebus:planks - 8
+
+
+plankBaobab
+erebus:planks - 0
+
+
+plankCypress
+erebus:planks - 5
+
+
+plankEucalyptus
+erebus:planks - 1
+
+
+plankMahogany
+erebus:planks - 2
+
+
+plankMossbark
+erebus:planks - 3
+
+
+plankPetrified
+erebus:petrifiedWoodPlanks - 0
+
+
+plankRotten
+erebus:planks - 9
+
+
+plankSap
+erebus:planks - 6
+
+
+plankScorched
+erebus:planks_scorched - 0
+
+
+plankVarnished
+erebus:planks_varnished - 0
+
+
+plankWhite
+erebus:planks - 7
+
+
 plankWood
 minecraft:planks - any
 Thaumcraft:blockWoodenDevice - 6
@@ -6502,7 +6678,9 @@ Natura:planks - 10
 Natura:planks - 11
 witchery:witchwood - any
 dendrology:wood0 - any
-atum:tile.palmPlanks - 0
+erebus:planks - any
+erebus:planks_varnished - 0
+erebus:planks_scorched - 0
 
 
 plankWoodBlack
@@ -7500,6 +7678,34 @@ skullZombieVillager
 headcrumbs:head - 14
 
 
+slabBricks
+minecraft:stone_slab - 4
+
+
+slabCobblestone
+minecraft:stone_slab - 3
+
+
+slabNetherBrick
+minecraft:stone_slab - 6
+
+
+slabQuartz
+minecraft:stone_slab - 7
+
+
+slabSandstone
+minecraft:stone_slab - 1
+
+
+slabStone
+minecraft:stone_slab - 0
+
+
+slabStoneBricks
+minecraft:stone_slab - 5
+
+
 slabWood
 minecraft:wooden_slab - any
 Thaumcraft:blockCosmeticSlabWood - 0
@@ -7508,6 +7714,39 @@ Natura:plankSlab1 - any
 Natura:plankSlab2 - any
 dendrology:sslab0 - any
 dendrology:sslab1 - any
+erebus:slabPlanksBaobab - 0
+erebus:slabPlanksEucalyptus - 0
+erebus:slabPlanksMahogany - 0
+erebus:slabPlanksMossbark - 0
+erebus:slabPlanksAsper - 0
+erebus:slabPlanksCypress - 0
+erebus:slabPlanksWhite - 0
+erebus:slabPlanksBamboo - 0
+erebus:slabPlanksRotten - 0
+
+
+slabWoodAcacia
+minecraft:wooden_slab - 4
+
+
+slabWoodBirch
+minecraft:wooden_slab - 2
+
+
+slabWoodDarkOak
+minecraft:wooden_slab - 5
+
+
+slabWoodJungle
+minecraft:wooden_slab - 3
+
+
+slabWoodOak
+minecraft:wooden_slab - 0
+
+
+slabWoodSpruce
+minecraft:wooden_slab - 1
 
 
 slimeball
@@ -7820,6 +8059,15 @@ dendrology:stairs9 - 0
 dendrology:stairs10 - 0
 dendrology:stairs11 - 0
 dendrology:stairs12 - 0
+erebus:plankStairBaobab - 0
+erebus:plankStairEucalyptus - 0
+erebus:plankStairMahogany - 0
+erebus:plankStairMossbark - 0
+erebus:plankStairAsper - 0
+erebus:plankStairCypress - 0
+erebus:plankStairWhite - 0
+erebus:plankStairBamboo - 0
+erebus:plankStairRotten - 0
 
 
 stairsWood
@@ -7867,6 +8115,7 @@ ExtraUtilities:color_stone - 12
 ExtraUtilities:color_stone - 13
 ExtraUtilities:color_stone - 14
 ExtraUtilities:color_stone - 15
+erebus:umberstone - 0
 
 
 stoneBlack
@@ -7923,6 +8172,10 @@ ExtraUtilities:color_stone - 5
 
 stoneRed
 ExtraUtilities:color_stone - 1
+
+
+stoneUmber
+erebus:umberstone - 0
 
 
 stoneWhite
@@ -7992,18 +8245,6 @@ transdimBlock
 minecraft:ender_chest - 0
 
 
-travelgearCloakBase
-TravellersGear:simpleGear - 0
-
-
-travelgearShoulderBase
-TravellersGear:simpleGear - 4
-
-
-travelgearVambraceBase
-TravellersGear:simpleGear - 5
-
-
 treeLeaves
 minecraft:leaves - any
 minecraft:leaves2 - any
@@ -8017,6 +8258,13 @@ dendrology:leaves0 - any
 dendrology:leaves1 - any
 dendrology:leaves2 - any
 dendrology:leaves3 - any
+erebus:leavesBaobab - 0
+erebus:leavesEucalyptus - 0
+erebus:leavesMahogany - 0
+erebus:leavesMossbark - 0
+erebus:leavesAsper - 0
+erebus:leavesCypress - 0
+erebus:leavesSap - 0
 
 
 treeSapling
@@ -8030,6 +8278,13 @@ Natura:Rare Sapling - any
 witchery:witchsapling - any
 dendrology:sapling0 - any
 dendrology:sapling1 - any
+erebus:saplingBaobab - 0
+erebus:saplingEucalyptus - 0
+erebus:saplingMahogany - 0
+erebus:saplingMossbark - 0
+erebus:saplingAsper - 0
+erebus:saplingCypress - 0
+erebus:saplingSap - 0
 
 
 tyrian

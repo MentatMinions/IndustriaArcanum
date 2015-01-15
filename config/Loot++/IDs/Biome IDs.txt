@@ -165,6 +165,34 @@
 	- Name: Mesa Plateau
 	- Forge Biome Types: MESA SANDY 
 
+100
+	- Name: Undergound Jungle
+	- Forge Biome Types: HOT WET PLAINS 
+
+101
+	- Name: Volcanic Desert
+	- Forge Biome Types: HOT PLAINS SANDY 
+
+102
+	- Name: Subterranean Savannah
+	- Forge Biome Types: HOT DRY PLAINS 
+
+103
+	- Name: Elysian Fields
+	- Forge Biome Types: PLAINS 
+
+104
+	- Name: Ulterior Outback
+	- Forge Biome Types: HOT PLAINS SANDY 
+
+105
+	- Name: Fungal Forest
+	- Forge Biome Types: HOT WET PLAINS 
+
+127
+	- Name: Elysian Forest
+	- Forge Biome Types: PLAINS 
+
 129
 	- Name: Sunflower Plains
 	- Forge Biome Types: PLAINS 
@@ -265,7 +293,31 @@
 	- Name: Eldritch
 	- Forge Biome Types: SPOOKY END MAGICAL 
 
-200
-	- Name: biome.desert.name
-	- Forge Biome Types: HOT SPARSE DRY SAVANNA PLAINS 
+228
+	- Name: Undergound Jungle M
+	- Forge Biome Types: HOT WET HILLS 
+
+229
+	- Name: Volcanic Desert M
+	- Forge Biome Types: HOT HILLS SANDY 
+
+230
+	- Name: Subterranean Savannah M
+	- Forge Biome Types: HOT DRY HILLS 
+
+231
+	- Name: Elysian Fields M
+	- Forge Biome Types: HILLS 
+
+232
+	- Name: Ulterior Outback M
+	- Forge Biome Types: HOT HILLS SANDY 
+
+233
+	- Name: Fungal Forest M
+	- Forge Biome Types: HOT WET HILLS 
+
+255
+	- Name: Elysian Forest M
+	- Forge Biome Types: HILLS 
 

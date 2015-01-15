@@ -23,7 +23,7 @@ chance_for_site_normal=15.0
 tries_per_chunk_nether=6
 chance_to_spawn_nether=10
 chance_for_site_nether=15
-disableRuinSpawnCoordsLogging=true
+disableRuinSpawnCoordsLogging=false
 
 # minimum distance a template must have from instances of itself
 templateInstancesMinDistance=256

@@ -45,12 +45,12 @@
 	- Terrain Scale: 1.0
 
 
-17
-	- Name: Atum
-	- Height: 256
-	- Has Sky? true
+66
+	- Name: Erebus
+	- Height: 128
+	- Has Sky? false
 	- Cloud Height: 128.0
-	- Can Respawn Here? true
+	- Can Respawn Here? false
 	- Terrain Scale: 1.0
 
 

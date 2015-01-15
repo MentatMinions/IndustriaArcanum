@@ -322,22 +322,6 @@ WitherSkull
 Wolf
 XPOrb
 Zombie
-atum.atum.ArrowExplosive
-atum.atum.ArrowFire
-atum.atum.ArrowPoison
-atum.atum.ArrowVeloctiy
-atum.atum.EntityAtumFishHook
-atum.atum.EntityNutsCall
-atum.banditArcher
-atum.banditWarlord
-atum.banditWarrior
-atum.barbarian
-atum.desertGhost
-atum.desertWolf
-atum.dustySkeleton
-atum.mummy
-atum.pharaoh
-atum.stoneSoldier
 betterstorage.Cluckington
 betterstorage.Frienderman
 cfm.MountableBlock
@@ -353,6 +337,65 @@ enderzoo.FallenKnight
 enderzoo.FallenMount
 enderzoo.WitherCat
 enderzoo.WitherWitch
+erebus.animatedBambooCrate
+erebus.animatedBlock
+erebus.animatedChest
+erebus.antlion
+erebus.antlionMiniBoss
+erebus.beetle
+erebus.beetleLarva
+erebus.blackAnt
+erebus.blackWidow
+erebus.bloodSnail
+erebus.botFly
+erebus.botFlyLarva
+erebus.centipede
+erebus.chameleonTick
+erebus.cicada
+erebus.crushroom
+erebus.dragonfly
+erebus.erebusLightning
+erebus.extractedBlock
+erebus.fireAnt
+erebus.fireAntSoldier
+erebus.fireResistentItem
+erebus.fly
+erebus.glowWorm
+erebus.gooBall
+erebus.grasshopper
+erebus.jumpingSpider
+erebus.lavaWebSpider
+erebus.locust
+erebus.midgeSwarm
+erebus.moneySpider
+erebus.mosquito
+erebus.moth
+erebus.mucusBombPrimed
+erebus.poisonjet
+erebus.prayingMantis
+erebus.punchroom
+erebus.rhinoBeetle
+erebus.scorpion
+erebus.scytodes
+erebus.solifuge
+erebus.solifugeSmall
+erebus.sporeBall
+erebus.sporeling
+erebus.tarantula
+erebus.tarantulababy
+erebus.tarantulaegg
+erebus.tarantulaminiboss
+erebus.titanBeetle
+erebus.umberGolem
+erebus.velvetWorm
+erebus.wasp
+erebus.waspDagger
+erebus.webSling
+erebus.wheatWeevil
+erebus.woodlouse
+erebus.woodlouseBall
+erebus.workerBee
+erebus.zombieAnt
 menagerie.ant
 menagerie.ghost
 menagerie.infestedVillager
@@ -416,8 +459,14 @@ quiverchevsky.projectilechevsky_8
 quiverchevsky.projectilechevsky_9
 rangeEntity
 soundEntity
-testdummy.Dummy
-testdummy.FloatingNumber
+weaponmod.boomerang
+weaponmod.cannon
+weaponmod.cannonball
+weaponmod.dart
+weaponmod.dynamite
+weaponmod.javelin
+weaponmod.knife
+weaponmod.spear
 witchery.babayaga
 witchery.banshee
 witchery.bolt
@@ -469,18 +518,13 @@ witchery.witchhunter
 24 - enderzoo.WitherWitch
 25 - enderzoo.WitherCat
 26 - enderzoo.DireWolf
-28 - atum.mummy
-29 - atum.banditWarrior
-30 - atum.banditArcher
-31 - atum.pharaoh
-32 - atum.dustySkeleton
-33 - atum.desertGhost
-34 - atum.stoneSoldier
-35 - atum.desertWolf
-36 - atum.banditWarlord
-37 - atum.barbarian
-38 - GSZombieDog
-39 - GSZombieCat
+28 - GSZombieDog
+29 - GSZombieCat
+30 - GSSkeletonDog
+31 - GSSkeletonCat
+32 - GSSkullCrawler
+33 - GSWitherSkullCrawler
+34 - GSZombieSkullCrawler
 50 - Creeper
 51 - Skeleton
 52 - Spider
@@ -495,11 +539,6 @@ witchery.witchhunter
 62 - LavaSlime
 65 - Bat
 66 - Witch
-67 - GSSkeletonDog
-68 - GSSkeletonCat
-69 - GSSkullCrawler
-70 - GSWitherSkullCrawler
-71 - GSZombieSkullCrawler
 90 - Pig
 91 - Sheep
 92 - Cow

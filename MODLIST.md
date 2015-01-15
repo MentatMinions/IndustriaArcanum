@@ -25,8 +25,8 @@
 #####Farming and Simulation:
 * [AppleMilkTea](https://www.dropbox.com/sh/w1mrciofe19uyk7/AADbcpOsip_F56P71pGaIIRCa/AppleMilkTea2-1.7.10_2.0_beta11.jar?dl=0)
 * [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
+* [Fluxed Crystals](http://minecraft.curseforge.com/mc-mods/226074-fluxed-crystals)
 * [Hunger Overhaul](http://www.curse.com/mc-mods/minecraft/224476-hunger-overhaul)
-* [Magical Crops](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with)
 * [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-dec-12th-harvestcraft-1-7-10d)
 * [Spice of Life](http://www.curse.com/mc-mods/minecraft/220811-the-spice-of-life)
 
@@ -45,10 +45,8 @@
  * [Invisiblocks](http://minecraft.curseforge.com/mc-mods/226800-invisiblocks)
  * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
- * [MmmMmmMmmMmm](http://www.curse.com/mc-mods/minecraft/225738-mmmmmmmmmmmm)
  * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
  * [Natura](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura)
- * [Placeable Tools](http://www.curse.com/mc-mods/minecraft/223092-placeabletools)
  * [Storage Drawers](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-2-0-updated-nov-29-14)
 
 * ######Player:
@@ -57,7 +55,7 @@
 #####Flavor:
 
 * ######Terrain and Quests:
- * [Atum](http://www.curse.com/mc-mods/minecraft/atum)
+ * [Erebus](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2244153-0-2pre12-the-erebus-dimension-of-the-arthopods-is)
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
  * [Ruins](http://atomicstryker.net/ruins.php)
 
@@ -65,7 +63,6 @@
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
  * [Ender Zoo](http://enderio.com/)
  * [Primitive Mobs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287666-primitive-mobs-v1-0c-updated-10-13-14-its-back)
- * [Sophisticated Wolves](http://www.curse.com/mc-mods/minecraft/220495-sophisticated-wolves)
  * [Special Mobs](http://www.curse.com/mc-mods/minecraft/special-mobs)
  * [Utility Mobs](http://www.curse.com/mc-mods/minecraft/utility-mobs)
 
@@ -75,27 +72,27 @@
  * [AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
  * [INpureCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods)
  * [InvTweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25)
- * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a) CLIENT ONLY
  * [MineMenu](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2141720-minemenu-v1-2-0-radial-menu-nuff-said)
- * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks) CLIENT ONLY
  * [NEI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods)
    * [Thaumcraft NEI Plugin](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei)
     * [NEI Integration](http://www.curse.com/mc-mods/minecraft/225251-nei-integration)
     * [NEI Addons](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289113-nei-addons-v1-12-3-now-supports-botany-flower)
 	* [Not Enough Resources](http://minecraft.curseforge.com/mc-mods/225815-notenoughresources)
- * [Traveller's Gear](http://www.curse.com/mc-mods/minecraft/224440-travellers-gear)
+ * [Not Enough Keys](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2277165-notenoughkeys)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
     * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
+	* [WAILA Plugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins)
 
 * ######Server:
  * [HelpFixer](http://www.curse.com/mc-mods/minecraft/223797-helpfixer)
  * [Insomnia](http://www.curse.com/mc-mods/minecraft/224871-insomnia)
  * [Loot++](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290059-loot-the-item-update-now-with-the-ability-to-add)
  * [OpenEye](http://openeye.openmods.info/download)
- * [Opis](http://www.curse.com/mc-mods/minecraft/opis)
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
+ * [ResourceLoader](http://minecraft.curseforge.com/mc-mods/226447-resource-loader)
  * [Squidless](http://minecraft.curseforge.com/mc-mods/226115-squidless)
+ * [WorldEdit](http://minecraft.curseforge.com/mc-mods/225608-worldedit)
 
 #####Storage and Crafting:
 * [Adventure Backpack](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2252109-wip-adventure-backpack-mod-0-7-0-beta)
@@ -108,6 +105,7 @@
 * [Tubes](http://www.curse.com/mc-mods/minecraft/tubes)
 
 #####Misc:
+* [Balkon's Weapon Mod](http://minecraft.curseforge.com/mc-mods/75525-balkons-weaponmod)
 * [Dynamic Sword Skills](http://minecraft.curseforge.com/mc-mods/226360-dynamic-sword-skills)
 * [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
 * [Gravestone](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-11-1)
@@ -128,6 +126,8 @@
 * [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (For Ancient Trees)
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore) (For Malisis Doors)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
-* [MobiusCore](http://www.curse.com/mc-mods/minecraft/mobiuscore)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
-* [Thermal Foundation](http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation)
+
+#####Client Only Mods
+ * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a)
+ * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)

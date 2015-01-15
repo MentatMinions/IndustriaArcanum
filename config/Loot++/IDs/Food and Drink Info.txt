@@ -1668,13 +1668,6 @@ adventurebackpack:melonJuiceBottle
 	- Food Info Unknown!
 
 
-atum:item.date
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 5
-	- Saturation Amount: 1.5
-
-
 betterstorage:bucketSlime
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -1715,6 +1708,141 @@ cfm:ItemFlesh
 
 
 cfm:ItemToast
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+erebus:bambucketAntiVenom
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+erebus:bambucketBeetleJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+erebus:bottleAntiVenom
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+erebus:bucketAntiVenom
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+erebus:bucketBeetleJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+erebus:food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 6
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 7
+	- Food or Drink? Drink
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 8
+	- Food or Drink? Drink
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 9
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 10
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 11
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 12
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:food
+	- Megadata: 13
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.5
+
+
+erebus:turnips
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Amount: 4
@@ -5767,433 +5895,6 @@ harvestcraft:zucchinifriesItem
 	- Saturation Amount: 1.2
 
 
-magicalcrops:magicalcrops_CookedMeat
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 8
-	- Saturation Amount: 0.8
-
-
-magicalcrops:magicalcrops_CookedMeat
-	- Megadata: 1
-	- Food or Drink? Food
-	- Food Amount: 8
-	- Saturation Amount: 0.8
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 1
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 2
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 3
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 4
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 5
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 6
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 7
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_CropProduce
-	- Megadata: 8
-	- Food or Drink? Food
-	- Food Amount: 3
-	- Saturation Amount: 0.3
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 1
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 2
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 3
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 4
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 5
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 6
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 7
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodJuice
-	- Megadata: 8
-	- Food or Drink? Drink
-	- Food Amount: 6
-	- Saturation Amount: 0.6
-
-
-magicalcrops:magicalcrops_FoodStew
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Amount: 12
-	- Saturation Amount: 1.2
-
-
-magicalcrops:magicalcrops_FoodStew
-	- Megadata: 1
-	- Food or Drink? Drink
-	- Food Amount: 12
-	- Saturation Amount: 1.2
-
-
-magicalcrops:magicalcrops_FoodStew
-	- Megadata: 2
-	- Food or Drink? Drink
-	- Food Amount: 12
-	- Saturation Amount: 1.2
-
-
-magicalcrops:magicalcrops_FoodStew
-	- Megadata: 3
-	- Food or Drink? Drink
-	- Food Amount: 12
-	- Saturation Amount: 1.2
-
-
-magicalcrops:magicalcrops_MagicalFood
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 12
-	- Saturation Amount: 1.2
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 1
-	- Food or Drink? Food
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 2
-	- Food or Drink? Food
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 3
-	- Food or Drink? Food
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 4
-	- Food or Drink? Food
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 5
-	- Food or Drink? Food
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 6
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 7
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 8
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 9
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 10
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 11
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 12
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 13
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 14
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 15
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 16
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 17
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 18
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 19
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 20
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 21
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 22
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 23
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 24
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 25
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 26
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 27
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 28
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 29
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 30
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 31
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 32
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_PotionPetals
-	- Megadata: 33
-	- Food or Drink? Drink
-	- Food Amount: 0
-	- Saturation Amount: 0.0
-
-
-magicalcrops:magicalcrops_RawMeat
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 2
-	- Saturation Amount: 0.1
-
-
-magicalcrops:magicalcrops_RawMeat
-	- Megadata: 1
-	- Food or Drink? Food
-	- Food Amount: 2
-	- Saturation Amount: 0.1
-
-
 minecraft:apple
 	- Megadata: 0
 	- Food or Drink? Food
@@ -6663,6 +6364,12 @@ minecraft:potion
 
 
 minecraft:potion
+	- Megadata: 8203
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
 	- Megadata: 8235
 	- Food or Drink? Drink
 	- Food Info Unknown!
@@ -6670,6 +6377,12 @@ minecraft:potion
 
 minecraft:potion
 	- Megadata: 8267
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16395
 	- Food or Drink? Drink
 	- Food Info Unknown!
 

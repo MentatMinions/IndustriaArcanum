@@ -58,7 +58,7 @@
 
 8
 	- Name: potion.jump
-	- Color: 7889559
+	- Color: 2293580
 	- Is Instant? false
 	- Is Bad? false
 
