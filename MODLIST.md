@@ -113,9 +113,6 @@
 * [Random Things](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289551-1-6-x-1-7-2-1-7-10-random-things-2-1-5)
 * [Simple Lantern Mod](http://www.curse.com/mc-mods/minecraft/226560-universal-simple-lantern-mod-1-0)
 
-#####Pack:
-* [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen) CLIENT ONLY
-
 #####Core:
 * [AOBD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores)
 * [CodeChickenCore](http://chickenbones.net/Pages/links.html)
@@ -129,5 +126,7 @@
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
 
 #####Client Only Mods
+ * [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen)
  * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a)
  * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)
+
