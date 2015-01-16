@@ -106,6 +106,7 @@
 
 #####Misc:
 * [Balkon's Weapon Mod](http://minecraft.curseforge.com/mc-mods/75525-balkons-weaponmod)
+* [Dimensional Pockets](http://minecraft.curseforge.com/mc-mods/226990-dimensional-pockets)
 * [Dynamic Sword Skills](http://minecraft.curseforge.com/mc-mods/226360-dynamic-sword-skills)
 * [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
 * [Gravestone](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-11-1)

@@ -487,6 +487,7 @@ witchery.familiar
 witchery.goblin
 witchery.goblingulg
 witchery.goblinmog
+witchery.hellhound
 witchery.hornedHuntsman
 witchery.illusionCreeper
 witchery.illusionSpider
@@ -509,7 +510,9 @@ witchery.spirit
 witchery.splatter
 witchery.toad
 witchery.treefyd
+witchery.werevillager
 witchery.witchhunter
+witchery.wolfman
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
 5 - enderzoo.Enderminy
 6 - enderzoo.ConcussionCreeper
@@ -591,3 +594,6 @@ witchery.witchhunter
 6417 - witchery.goblingulg
 6418 - witchery.leonard
 6419 - witchery.lostsoul
+6420 - witchery.wolfman
+6421 - witchery.hellhound
+6422 - witchery.werevillager

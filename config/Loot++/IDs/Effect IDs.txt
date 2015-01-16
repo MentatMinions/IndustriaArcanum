@@ -526,62 +526,69 @@
 
 
 75
+	- Name: witchery:potion.wolfsbane
+	- Color: -1117259247
+	- Is Instant? false
+	- Is Bad? false
+
+
+76
 	- Name: potion.blurred
 	- Color: 8421504
 	- Is Instant? false
 	- Is Bad? true
 
 
-76
+77
 	- Name: potion.sunscorned
 	- Color: 16308330
 	- Is Instant? false
 	- Is Bad? true
 
 
-77
+78
 	- Name: potion.thaumarhia
 	- Color: 6702199
 	- Is Instant? false
 	- Is Bad? true
 
 
-78
+79
 	- Name: imbue.poison
 	- Color: 10145074
 	- Is Instant? false
 	- Is Bad? false
 
 
-79
+80
 	- Name: imbue.experience
 	- Color: 14214234
 	- Is Instant? false
 	- Is Bad? false
 
 
-80
+81
 	- Name: imbue.fire
 	- Color: 16729344
 	- Is Instant? false
 	- Is Bad? false
 
 
-81
+82
 	- Name: imbue.wither
 	- Color: 3881787
 	- Is Instant? false
 	- Is Bad? false
 
 
-82
+83
 	- Name: imbue.weakness
 	- Color: 16777215
 	- Is Instant? false
 	- Is Bad? false
 
 
-83
+84
 	- Name: imbue.spectre
 	- Color: 12578815
 	- Is Instant? false

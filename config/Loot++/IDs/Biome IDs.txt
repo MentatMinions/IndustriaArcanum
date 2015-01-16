@@ -165,6 +165,10 @@
 	- Name: Mesa Plateau
 	- Forge Biome Types: MESA SANDY 
 
+99
+	- Name: Pocket Dimension
+	- Forge Biome Types: MAGICAL 
+
 100
 	- Name: Undergound Jungle
 	- Forge Biome Types: HOT WET PLAINS 

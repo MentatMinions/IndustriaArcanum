@@ -6672,6 +6672,18 @@ witchery:ingredient
 	- Food Info Unknown!
 
 
+witchery:ingredient
+	- Megadata: 158
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+witchery:ingredient
+	- Megadata: 159
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
 witchery:potion
 	- Megadata: 0
 	- Food or Drink? Drink
