@@ -17,8 +17,8 @@
 * [EnderIO](http://enderio.com/)
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Progressive Automation](http://www.curse.com/mc-mods/minecraft/220606-progressive-automation-early-miner)
-* [Project: Red](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-5-8-59-12-08-2014)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
+* [RedLogic](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers)
 * [Simply Jetpacks](http://minecraft.curseforge.com/mc-mods/79325-simply-jetpacks)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
 
@@ -42,7 +42,6 @@
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
  * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads)
- * [Invisiblocks](http://minecraft.curseforge.com/mc-mods/226800-invisiblocks)
  * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
  * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
@@ -82,7 +81,7 @@
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
     * [WAILA Harvestability](http://www.curse.com/mc-mods/minecraft/waila-harvestability)
-	* [WAILA Plugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins)
+
 
 * ######Server:
  * [HelpFixer](http://www.curse.com/mc-mods/minecraft/223797-helpfixer)
@@ -90,7 +89,6 @@
  * [Loot++](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290059-loot-the-item-update-now-with-the-ability-to-add)
  * [OpenEye](http://openeye.openmods.info/download)
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
- * [ResourceLoader](http://minecraft.curseforge.com/mc-mods/226447-resource-loader)
  * [Squidless](http://minecraft.curseforge.com/mc-mods/226115-squidless)
  * [WorldEdit](http://minecraft.curseforge.com/mc-mods/225608-worldedit)
 
@@ -120,14 +118,16 @@
 * [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
 * [D3 Core](http://www.curse.com/mc-mods/minecraft/223569-d3-core)
 * [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
+* [ImmibisCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers) (RedLogic)
 * [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
-* [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (For Ancient Trees)
-* [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore) (For Malisis Doors)
+* [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (Ancient Trees)
+* [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore) (Malisis Doors)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
+* [ttCore](http://www.curse.com/mc-mods/minecraft/226082-ttcore) (Fluxed-Crystals)
 
 #####Client Only Mods
  * [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen)
  * [JourneyMap](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348-journeymap-5-0-1-realtime-mapping-in-game-or-in-a)
- * [MouseTweaks](http://minecraft.curseforge.com/mc-mods/60089-mouse-tweaks)
-
+ * [ResourceLoader](http://minecraft.curseforge.com/mc-mods/226447-resource-loader)
+ * [WAILA Plugins](http://minecraft.curseforge.com/mc-mods/226119-waila-plugins)
