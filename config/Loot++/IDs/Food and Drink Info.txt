@@ -1406,6 +1406,126 @@ ForbiddenMagic:GluttonyShard
 	- Saturation Amount: 0.1
 
 
+Forestry:ambrosia
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+Forestry:beverage
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:beverage
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:canHoney
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:canJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:fruits
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 6
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:honeyPot
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 2
+	- Saturation Amount: 0.2
+
+
+Forestry:honeyedSlice
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+Forestry:refractoryHoney
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:refractoryJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:waxCapsuleHoney
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:waxCapsuleJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 Natura:Natura.netherfood
 	- Megadata: 0
 	- Food or Drink? Food
@@ -1547,41 +1667,6 @@ RandomThings:imbue
 	- Food Info Unknown!
 
 
-Steamcraft:steamedBeef
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 10
-	- Saturation Amount: 1.0
-
-
-Steamcraft:steamedChicken
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 8
-	- Saturation Amount: 0.8
-
-
-Steamcraft:steamedFish
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 7
-	- Saturation Amount: 0.8
-
-
-Steamcraft:steamedImphide
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 5
-	- Saturation Amount: 0.4
-
-
-Steamcraft:steamedPorkchop
-	- Megadata: 0
-	- Food or Drink? Food
-	- Food Amount: 10
-	- Saturation Amount: 1.0
-
-
 Thaumcraft:ItemManaBean
 	- Megadata: 0
 	- Food or Drink? Food
@@ -1663,12 +1748,6 @@ ThaumicTinkerer:infusedPotion
 
 
 adventurebackpack:melonJuiceBottle
-	- Megadata: 0
-	- Food or Drink? Drink
-	- Food Info Unknown!
-
-
-betterstorage:bucketSlime
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!

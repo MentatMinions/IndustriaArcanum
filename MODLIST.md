@@ -1,7 +1,6 @@
 #Mod List
 
 #####Magic:
-* [AlchemyPlusPlus](http://minecraft.curseforge.com/mc-mods/62428-alchemyplusplus)
 * [Botania](http://vazkii.us/mod/Botania/)
 * [Clockwork Phase](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2288839-clockwork-phase-1-7-10_1-0-time-magic-all-wrapped)
 * [Thaumcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-1-4-updated-2014-10-10)
@@ -15,7 +14,6 @@
 
 #####Tech:
 * [EnderIO](http://enderio.com/)
-* [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Progressive Automation](http://www.curse.com/mc-mods/minecraft/220606-progressive-automation-early-miner)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
 * [RedLogic](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers)
@@ -26,6 +24,7 @@
 * [AppleMilkTea](https://www.dropbox.com/sh/w1mrciofe19uyk7/AADbcpOsip_F56P71pGaIIRCa/AppleMilkTea2-1.7.10_2.0_beta11.jar?dl=0)
 * [Aquaculture](http://minecraft.curseforge.com/mc-mods/60028-aquaculture)
 * [Fluxed Crystals](http://minecraft.curseforge.com/mc-mods/226074-fluxed-crystals)
+* [Forestry](http://minecraft.curseforge.com/mc-mods/59751-forestry) (Trees and Butterflies Only)
 * [Hunger Overhaul](http://www.curse.com/mc-mods/minecraft/224476-hunger-overhaul)
 * [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-dec-12th-harvestcraft-1-7-10d)
 * [Spice of Life](http://www.curse.com/mc-mods/minecraft/220811-the-spice-of-life)
@@ -42,6 +41,7 @@
  * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
  * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads)
+ * [Invisiblocks](http://www.curse.com/mc-mods/minecraft/226800-invisiblocks)
  * [Luppii's Ladders](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294764-luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
  * [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349-mrcrayfishs-furniture-mod-v3-4-7-the-kitchen)
@@ -56,6 +56,7 @@
 * ######Terrain and Quests:
  * [Erebus](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2244153-0-2pre12-the-erebus-dimension-of-the-arthopods-is)
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
+ * [MyWorldGen](http://www.curse.com/mc-mods/minecraft/myworldgen)
  * [Ruins](http://atomicstryker.net/ruins.php)
 
 * ######Mobs:
@@ -69,6 +70,7 @@
 
 * ######Client: 
  * [AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)
+ * [InGame Info XML](http://minecraft.curseforge.com/mc-mods/225604-ingame-info-xml)
  * [INpureCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods)
  * [InvTweaks](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-58-july-25)
  * [MineMenu](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2141720-minemenu-v1-2-0-radial-menu-nuff-said)
@@ -89,6 +91,7 @@
  * [Loot++](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2290059-loot-the-item-update-now-with-the-ability-to-add)
  * [OpenEye](http://openeye.openmods.info/download)
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
+ * [ServerTools-CORE](http://www.curse.com/mc-mods/minecraft/forgeservertools)
  * [Squidless](http://minecraft.curseforge.com/mc-mods/226115-squidless)
  * [WorldEdit](http://minecraft.curseforge.com/mc-mods/225608-worldedit)
 
@@ -104,6 +107,7 @@
 
 #####Misc:
 * [Balkon's Weapon Mod](http://minecraft.curseforge.com/mc-mods/75525-balkons-weaponmod)
+* [Build Helper](http://www.curse.com/mc-mods/minecraft/226065-build-helper#t1:other-downloads)
 * [Dimensional Pockets](http://minecraft.curseforge.com/mc-mods/226990-dimensional-pockets)
 * [Dynamic Sword Skills](http://minecraft.curseforge.com/mc-mods/226360-dynamic-sword-skills)
 * [Extra Utilities](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k) (wings, quarry, and pump disabled)
@@ -121,6 +125,7 @@
 * [ImmibisCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers) (RedLogic)
 * [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
 * [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (Ancient Trees)
+* [LunatriusCore](http://minecraft.curseforge.com/mc-mods/225605-lunatriuscore) (InGame Info XML)
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore) (Malisis Doors)
 * [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)

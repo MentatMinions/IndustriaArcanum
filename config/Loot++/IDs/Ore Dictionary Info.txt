@@ -92,6 +92,25 @@ FC.Tuna_StripCooked
 FC.Tuna_StripRaw
 
 
+RedLogic:insulated_wire
+RedLogic:redlogic.wire - 1
+RedLogic:redlogic.wire - 2
+RedLogic:redlogic.wire - 3
+RedLogic:redlogic.wire - 4
+RedLogic:redlogic.wire - 5
+RedLogic:redlogic.wire - 6
+RedLogic:redlogic.wire - 7
+RedLogic:redlogic.wire - 8
+RedLogic:redlogic.wire - 9
+RedLogic:redlogic.wire - 10
+RedLogic:redlogic.wire - 11
+RedLogic:redlogic.wire - 12
+RedLogic:redlogic.wire - 13
+RedLogic:redlogic.wire - 14
+RedLogic:redlogic.wire - 15
+RedLogic:redlogic.wire - 16
+
+
 Tubes$anyDye
 minecraft:dye - 0
 DCsAppleMilk:defeatedcrow.inkStick - 0
@@ -107,8 +126,8 @@ minecraft:dye - 3
 Botania:dye - 12
 erebus:flower - 2
 minecraft:dye - 4
-Botania:dye - 11
 Natura:barleyFood - 8
+Botania:dye - 11
 erebus:flower - 3
 minecraft:dye - 5
 Botania:dye - 10
@@ -173,6 +192,10 @@ EnderIO:blockDarkIronBars - 0
 minecraft:iron_bars - 0
 
 
+beeComb
+Forestry:beeCombs - any
+
+
 beeQueen
 harvestcraft:queenbeeItem - 0
 
@@ -201,6 +224,10 @@ blockAmordrine
 blockAngmallen
 
 
+blockApatite
+Forestry:resourceStorage - 0
+
+
 blockArdite
 
 
@@ -215,13 +242,17 @@ blockBlackSteel
 
 blockBrass
 clockworkphase:brassBlock - 0
-Steamcraft:blockBrass - 0
 
 
 blockBronze
+Forestry:resourceStorage - 3
 
 
 blockCarmot
+
+
+blockCarpet
+chisel:carpet_block - 0
 
 
 blockCelenegil
@@ -332,15 +363,12 @@ ExtraUtilities:color_blockCoal - 11
 blockCobalt
 
 
-blockCobble
-
-
 blockConductiveIron
 EnderIO:blockIngotStorage - 4
 
 
 blockCopper
-Steamcraft:blockCopper - 0
+Forestry:resourceStorage - 1
 Railcraft:tile.railcraft.cube - 9
 
 
@@ -797,6 +825,7 @@ clockworkphase:blockTemporal - 0
 
 
 blockTin
+Forestry:resourceStorage - 2
 Railcraft:tile.railcraft.cube - 10
 
 
@@ -879,7 +908,6 @@ minecraft:wool - 4
 
 
 blockZinc
-Steamcraft:blockZinc - 0
 
 
 bottleAmarettoliqueur
@@ -988,6 +1016,10 @@ Natura:natura.emptybowl - 2
 Natura:natura.emptybowl - 4
 Natura:natura.emptybowl - 11
 Natura:natura.emptybowl - 12
+
+
+brickPeat
+Forestry:peat - 0
 
 
 bricksClay
@@ -1183,7 +1215,7 @@ cabbage
 
 
 carpet
-chisel:carpet_block - 0
+chisel:carpet - 0
 
 
 charcoal
@@ -1231,10 +1263,6 @@ aobd:clusterTemporal - 0
 
 clusterTin
 Thaumcraft:ItemNugget - 18
-
-
-clusterZinc
-aobd:clusterZinc - 0
 
 
 coal
@@ -1559,10 +1587,12 @@ harvestcraft:celeryItem - 0
 
 
 cropCherry
+Forestry:fruits - 0
 harvestcraft:cherryItem - 0
 
 
 cropChestnut
+Forestry:fruits - 2
 harvestcraft:chestnutItem - 0
 
 
@@ -1603,6 +1633,7 @@ harvestcraft:cucumberItem - 0
 
 
 cropDate
+Forestry:fruits - 5
 harvestcraft:dateItem - 0
 
 
@@ -1658,6 +1689,7 @@ harvestcraft:leekItem - 0
 
 
 cropLemon
+Forestry:fruits - 3
 harvestcraft:lemonItem - 0
 
 
@@ -1713,6 +1745,7 @@ harvestcraft:orangeItem - 0
 
 
 cropPapaya
+Forestry:fruits - 6
 harvestcraft:papayaItem - 0
 
 
@@ -1757,6 +1790,7 @@ harvestcraft:pistachioItem - 0
 
 
 cropPlum
+Forestry:fruits - 4
 harvestcraft:plumItem - 0
 
 
@@ -1865,6 +1899,7 @@ Natura:Thornvines - 0
 
 
 cropWalnut
+Forestry:fruits - 1
 harvestcraft:walnutItem - 0
 
 
@@ -1904,8 +1939,8 @@ crushedTemporal
 aobd:crushedTemporal - 0
 
 
-crushedZinc
-aobd:crushedZinc - 0
+crushedTin
+aobd:crushedTin - 0
 
 
 crystalCertusQuartz
@@ -1997,7 +2032,16 @@ drinkWine
 
 
 dropHoney
+Forestry:honeyDrop - 0
 harvestcraft:honeyItem - 0
+
+
+dropHoneydew
+Forestry:honeydew - 0
+
+
+dropRoyalJelly
+Forestry:royalJelly - 0
 
 
 dustAdamantine
@@ -2013,6 +2057,7 @@ dustAngmallen
 
 
 dustAsh
+Forestry:ash - 0
 DCsAppleMilk:defeatedcrow.dustWood - 2
 
 
@@ -2054,10 +2099,6 @@ DCsAppleMilk:defeatedcrow.dustWood - 1
 Railcraft:dust - 3
 
 
-dustCinnabar
-Steamcraft:smashedOre - 12
-
-
 dustClam
 DCsAppleMilk:defeatedcrow.condensedMilk - 6
 
@@ -2070,7 +2111,6 @@ EnderIO:itemPowderIngot - 0
 dustCopper
 DCsAppleMilk:defeatedcrow.oreDust - 2
 EnderIO:itemPowderIngot - 3
-Steamcraft:smashedOre - 2
 
 
 dustCyanite
@@ -2102,7 +2142,6 @@ minecraft:glowstone_dust - 0
 dustGold
 DCsAppleMilk:defeatedcrow.oreDust - 5
 EnderIO:itemPowderIngot - 2
-Steamcraft:smashedOre - 1
 
 
 dustGraphite
@@ -2130,7 +2169,6 @@ dustInolashite
 dustIron
 DCsAppleMilk:defeatedcrow.oreDust - 0
 EnderIO:itemPowderIngot - 1
-Steamcraft:smashedOre - 0
 
 
 dustKalendrite
@@ -2138,7 +2176,6 @@ dustKalendrite
 
 dustLead
 DCsAppleMilk:defeatedcrow.oreDust - 4
-Steamcraft:smashedOre - 7
 
 
 dustLemurite
@@ -2240,30 +2277,6 @@ aobd:dustTemporal - 0
 dustTin
 DCsAppleMilk:defeatedcrow.oreDust - 1
 EnderIO:itemPowderIngot - 4
-Steamcraft:smashedOre - 4
-
-
-dustTinyBrass
-
-
-dustTinyCopper
-Steamcraft:smashedOre - 15
-
-
-dustTinyGold
-Steamcraft:smashedOre - 14
-
-
-dustTinyIron
-Steamcraft:smashedOre - 13
-
-
-dustTinyTin
-Steamcraft:smashedOre - 17
-
-
-dustTinyZinc
-Steamcraft:smashedOre - 16
 
 
 dustUranium
@@ -2283,8 +2296,6 @@ dustYellorium
 
 
 dustZinc
-aobd:dustZinc - 0
-Steamcraft:smashedOre - 3
 
 
 dye
@@ -2301,8 +2312,8 @@ erebus:flower - 0
 
 dyeBlue
 minecraft:dye - 4
-Botania:dye - 11
 Natura:barleyFood - 8
+Botania:dye - 11
 erebus:flower - 3
 
 
@@ -2410,12 +2421,8 @@ eternalLifeEssence
 Botania:manaResource - 5
 
 
-fantasy
-chisel:fantasyblock - 0
-
-
-fantasy2
-chisel:fantasyblock2 - 0
+fenceWood
+Forestry:fences - any
 
 
 flourEqualswheat
@@ -4815,6 +4822,7 @@ clockworkphase:gearBrass - 0
 
 
 gearBronze
+Forestry:gearBronze - 0
 clockworkphase:gearBronze - 0
 
 
@@ -4823,6 +4831,7 @@ DCsAppleMilk:defeatedcrow.condensedMilk - 3
 
 
 gearCopper
+Forestry:gearCopper - 0
 clockworkphase:gearCopper - 0
 
 
@@ -4836,8 +4845,8 @@ clockworkphase:gearEmerald - 0
 
 gearIron
 DCsAppleMilk:defeatedcrow.condensedMilk - 3
-clockworkphase:gearIron - 0
 Railcraft:part.gear - 1
+clockworkphase:gearIron - 0
 
 
 gearLead
@@ -4865,11 +4874,16 @@ clockworkphase:gearThaumium - 0
 
 
 gearTin
+Forestry:gearTin - 0
 clockworkphase:gearTin - 0
 
 
 gemAmber
 Thaumcraft:ItemResource - 6
+
+
+gemApatite
+Forestry:apatite - 0
 
 
 gemClam
@@ -4916,9 +4930,9 @@ gemSapphire
 
 glass
 minecraft:glass - 0
-EnderIO:blockFusedQuartz - 1
 Natura:NetherGlass - 0
 Natura:NetherGlass - 1
+EnderIO:blockFusedQuartz - 1
 
 
 glassSoul
@@ -5081,7 +5095,6 @@ ingotBlutonium
 
 ingotBrass
 clockworkphase:brassIngot - 0
-Steamcraft:steamcraftIngot - 2
 
 
 ingotBrick
@@ -5093,6 +5106,7 @@ minecraft:netherbrick - 0
 
 
 ingotBronze
+Forestry:ingotBronze - 0
 
 
 ingotCarmot
@@ -5112,7 +5126,7 @@ EnderIO:itemAlloy - 4
 
 
 ingotCopper
-Steamcraft:steamcraftIngot - 0
+Forestry:ingotCopper - 0
 Railcraft:ingot - 1
 
 
@@ -5137,9 +5151,6 @@ ingotElectrum
 
 
 ingotElectrumFlux
-
-
-ingotElementium
 
 
 ingotElvenElementium
@@ -5195,6 +5206,9 @@ Railcraft:ingot - 3
 ingotLemurite
 
 
+ingotLumium
+
+
 ingotManasteel
 Botania:manaResource - 0
 
@@ -5240,10 +5254,6 @@ ingotPrometheum
 ingotQuicksilver
 
 
-ingotRedAlloy
-ProjRed|Core:projectred.core.part - 10
-
-
 ingotRedstone
 
 
@@ -5264,6 +5274,9 @@ ingotShadowIron
 
 
 ingotShadowSteel
+
+
+ingotSignalum
 
 
 ingotSilver
@@ -5294,14 +5307,12 @@ Thaumcraft:ItemResource - 2
 
 
 ingotTin
+Forestry:ingotTin - 0
 Railcraft:ingot - 2
 
 
 ingotUnstable
 ExtraUtilities:unstableingot - 0
-
-
-ingotVibrant
 
 
 ingotVoid
@@ -5318,10 +5329,13 @@ ingotYellorium
 
 
 ingotZinc
-Steamcraft:steamcraftIngot - 1
 
 
 itemBacon
+
+
+itemBeeswax
+Forestry:beeswax - 0
 
 
 itemBlazePowder
@@ -5358,6 +5372,10 @@ minecraft:leather - 0
 
 itemNetherStar
 minecraft:nether_star - 0
+
+
+itemPollen
+Forestry:pollen - 0
 
 
 itemSalt
@@ -5786,6 +5804,20 @@ Botania:manaResource - 3
 logWood
 minecraft:log - any
 minecraft:log2 - any
+Forestry:log1 - any
+Forestry:log2 - any
+Forestry:log3 - any
+Forestry:log4 - any
+Forestry:log5 - any
+Forestry:log6 - any
+Forestry:log7 - any
+Forestry:fireproofLog1 - any
+Forestry:fireproofLog2 - any
+Forestry:fireproofLog3 - any
+Forestry:fireproofLog4 - any
+Forestry:fireproofLog5 - any
+Forestry:fireproofLog6 - any
+Forestry:fireproofLog7 - any
 Thaumcraft:blockMagicalLog - 0
 Thaumcraft:blockMagicalLog - 1
 DCsAppleMilk:defeatedcrow.logYuzu - 0
@@ -6003,10 +6035,6 @@ mysticFlowerYellow
 Botania:flower - 4
 
 
-nuggetBrass
-Steamcraft:steamcraftNugget - 3
-
-
 nuggetBronze
 DCsAppleMilk:defeatedcrow.condensedMilk - 13
 
@@ -6014,11 +6042,7 @@ DCsAppleMilk:defeatedcrow.condensedMilk - 13
 nuggetCopper
 Thaumcraft:ItemNugget - 1
 DCsAppleMilk:defeatedcrow.condensedMilk - 9
-Steamcraft:steamcraftNugget - 0
 Railcraft:nugget - 2
-
-
-nuggetElementium
 
 
 nuggetEmerald
@@ -6037,7 +6061,6 @@ Thaumcraft:ItemResource - 18
 nuggetIron
 Thaumcraft:ItemNugget - 0
 DCsAppleMilk:defeatedcrow.condensedMilk - 7
-Steamcraft:steamcraftNugget - 2
 Railcraft:nugget - 0
 
 
@@ -6069,9 +6092,6 @@ nuggetTemporal
 clockworkphase:nuggetTemporal - 0
 
 
-nuggetTerrasteel
-
-
 nuggetThaumium
 Thaumcraft:ItemNugget - 6
 
@@ -6086,19 +6106,12 @@ nuggetUnstable
 ExtraUtilities:unstableingot - 1
 
 
-nuggetVibrant
-
-
 nuggetVibrantAlloy
 EnderIO:itemMaterial - 4
 
 
 nuggetVoid
 Thaumcraft:ItemNugget - 7
-
-
-nuggetZinc
-Steamcraft:steamcraftNugget - 1
 
 
 obsidian
@@ -6203,6 +6216,10 @@ oreAmber
 Thaumcraft:blockCustomOre - 7
 
 
+oreApatite
+Forestry:resources - 0
+
+
 oreArdite
 
 
@@ -6234,7 +6251,7 @@ oreCobalt
 
 
 oreCopper
-Steamcraft:steamcraftOre - 0
+Forestry:resources - 1
 
 
 oreDeepIron
@@ -6375,10 +6392,6 @@ orePoorTin
 Railcraft:tile.railcraft.ore - 10
 
 
-orePoorZinc
-Steamcraft:steamcraftOre - 2
-
-
 orePrometheum
 
 
@@ -6428,6 +6441,7 @@ clockworkphase:oreTemporal - 0
 
 
 oreTin
+Forestry:resources - 2
 
 
 oreVulcanite
@@ -6440,7 +6454,6 @@ oreYellorite
 
 
 oreZinc
-Steamcraft:steamcraftOre - 1
 
 
 paneGlass
@@ -6646,8 +6659,24 @@ erebus:planks - 7
 
 plankWood
 minecraft:planks - any
+Forestry:planks - any
+Forestry:planks2 - any
+Forestry:fireproofPlanks1 - any
+Forestry:fireproofPlanks2 - any
 Thaumcraft:blockWoodenDevice - 6
 Thaumcraft:blockWoodenDevice - 7
+Natura:planks - 0
+Natura:planks - 1
+Natura:planks - 2
+Natura:planks - 3
+Natura:planks - 4
+Natura:planks - 5
+Natura:planks - 6
+Natura:planks - 7
+Natura:planks - 8
+Natura:planks - 9
+Natura:planks - 10
+Natura:planks - 11
 ExtraUtilities:colorWoodPlanks - 0
 ExtraUtilities:colorWoodPlanks - 1
 ExtraUtilities:colorWoodPlanks - 2
@@ -6664,18 +6693,6 @@ ExtraUtilities:colorWoodPlanks - 12
 ExtraUtilities:colorWoodPlanks - 13
 ExtraUtilities:colorWoodPlanks - 14
 ExtraUtilities:colorWoodPlanks - 15
-Natura:planks - 0
-Natura:planks - 1
-Natura:planks - 2
-Natura:planks - 3
-Natura:planks - 4
-Natura:planks - 5
-Natura:planks - 6
-Natura:planks - 7
-Natura:planks - 8
-Natura:planks - 9
-Natura:planks - 10
-Natura:planks - 11
 witchery:witchwood - any
 dendrology:wood0 - any
 erebus:planks - any
@@ -6747,179 +6764,16 @@ plankWoodYellow
 ExtraUtilities:colorWoodPlanks - 11
 
 
-plateBrass
-
-
 plateChocolate
 DCsAppleMilk:defeatedcrow.chocolateFruits - 13
-
-
-plateCopper
-
-
-plateElementium
-
-
-plateEnderium
-
-
-plateFiery
-
-
-plateGold
-
-
-plateIron
-
-
-plateLead
-
-
-plateSteamcraftBrass
-Steamcraft:steamcraftPlate - 4
-
-
-plateSteamcraftCopper
-Steamcraft:steamcraftPlate - 0
-
-
-plateSteamcraftElementium
-Steamcraft:steamcraftPlate - 7
-
-
-plateSteamcraftEnderium
-Steamcraft:steamcraftPlate - 11
-
-
-plateSteamcraftFiery
-Steamcraft:steamcraftPlate - 8
-
-
-plateSteamcraftGold
-Steamcraft:steamcraftPlate - 3
-
-
-plateSteamcraftIron
-Steamcraft:steamcraftPlate - 2
-
-
-plateSteamcraftLead
-Steamcraft:steamcraftPlate - 9
-
-
-plateSteamcraftTank
-
-
-plateSteamcraftTerrasteel
-Steamcraft:steamcraftPlate - 6
-
-
-plateSteamcraftThaumium
-Steamcraft:steamcraftPlate - 5
-
-
-plateSteamcraftVibrant
-Steamcraft:steamcraftPlate - 10
-
-
-plateSteamcraftZinc
-Steamcraft:steamcraftPlate - 1
-
-
-plateTerrasteel
-
-
-plateThaumium
-
-
-plateVibrant
-
-
-plateZinc
 
 
 podzol
 minecraft:dirt - 2
 
 
-projredBundledCable
-ProjRed|Transmission:projectred.transmission.wire - 17
-ProjRed|Transmission:projectred.transmission.wire - 18
-ProjRed|Transmission:projectred.transmission.wire - 19
-ProjRed|Transmission:projectred.transmission.wire - 20
-ProjRed|Transmission:projectred.transmission.wire - 21
-ProjRed|Transmission:projectred.transmission.wire - 22
-ProjRed|Transmission:projectred.transmission.wire - 23
-ProjRed|Transmission:projectred.transmission.wire - 24
-ProjRed|Transmission:projectred.transmission.wire - 25
-ProjRed|Transmission:projectred.transmission.wire - 26
-ProjRed|Transmission:projectred.transmission.wire - 27
-ProjRed|Transmission:projectred.transmission.wire - 28
-ProjRed|Transmission:projectred.transmission.wire - 29
-ProjRed|Transmission:projectred.transmission.wire - 30
-ProjRed|Transmission:projectred.transmission.wire - 31
-ProjRed|Transmission:projectred.transmission.wire - 32
-ProjRed|Transmission:projectred.transmission.wire - 33
-
-
-projredIllumar
-ProjRed|Core:projectred.core.part - 19
-ProjRed|Core:projectred.core.part - 20
-ProjRed|Core:projectred.core.part - 21
-ProjRed|Core:projectred.core.part - 22
-ProjRed|Core:projectred.core.part - 23
-ProjRed|Core:projectred.core.part - 24
-ProjRed|Core:projectred.core.part - 25
-ProjRed|Core:projectred.core.part - 26
-ProjRed|Core:projectred.core.part - 27
-ProjRed|Core:projectred.core.part - 28
-ProjRed|Core:projectred.core.part - 29
-ProjRed|Core:projectred.core.part - 30
-ProjRed|Core:projectred.core.part - 31
-ProjRed|Core:projectred.core.part - 32
-ProjRed|Core:projectred.core.part - 33
-ProjRed|Core:projectred.core.part - 34
-
-
-projredInsFramedWire
-ProjRed|Transmission:projectred.transmission.framewire - 1
-ProjRed|Transmission:projectred.transmission.framewire - 2
-ProjRed|Transmission:projectred.transmission.framewire - 3
-ProjRed|Transmission:projectred.transmission.framewire - 4
-ProjRed|Transmission:projectred.transmission.framewire - 5
-ProjRed|Transmission:projectred.transmission.framewire - 6
-ProjRed|Transmission:projectred.transmission.framewire - 7
-ProjRed|Transmission:projectred.transmission.framewire - 8
-ProjRed|Transmission:projectred.transmission.framewire - 9
-ProjRed|Transmission:projectred.transmission.framewire - 10
-ProjRed|Transmission:projectred.transmission.framewire - 11
-ProjRed|Transmission:projectred.transmission.framewire - 12
-ProjRed|Transmission:projectred.transmission.framewire - 13
-ProjRed|Transmission:projectred.transmission.framewire - 14
-ProjRed|Transmission:projectred.transmission.framewire - 15
-ProjRed|Transmission:projectred.transmission.framewire - 16
-
-
-projredInsulatedWire
-ProjRed|Transmission:projectred.transmission.wire - 1
-ProjRed|Transmission:projectred.transmission.wire - 2
-ProjRed|Transmission:projectred.transmission.wire - 3
-ProjRed|Transmission:projectred.transmission.wire - 4
-ProjRed|Transmission:projectred.transmission.wire - 5
-ProjRed|Transmission:projectred.transmission.wire - 6
-ProjRed|Transmission:projectred.transmission.wire - 7
-ProjRed|Transmission:projectred.transmission.wire - 8
-ProjRed|Transmission:projectred.transmission.wire - 9
-ProjRed|Transmission:projectred.transmission.wire - 10
-ProjRed|Transmission:projectred.transmission.wire - 11
-ProjRed|Transmission:projectred.transmission.wire - 12
-ProjRed|Transmission:projectred.transmission.wire - 13
-ProjRed|Transmission:projectred.transmission.wire - 14
-ProjRed|Transmission:projectred.transmission.wire - 15
-ProjRed|Transmission:projectred.transmission.wire - 16
-
-
 pulpWood
+Forestry:woodPulp - 0
 
 
 quicksilver
@@ -7313,10 +7167,6 @@ shardWater
 Thaumcraft:ItemShard - 2
 
 
-sheetCardboard
-betterstorage:cardboardSheet - 0
-
-
 sheetPlastic
 Tubes:sheetPlastic - 0
 
@@ -7708,6 +7558,9 @@ minecraft:stone_slab - 5
 
 slabWood
 minecraft:wooden_slab - any
+Forestry:slabs1 - any
+Forestry:slabs2 - any
+Forestry:slabs3 - any
 Thaumcraft:blockCosmeticSlabWood - 0
 Thaumcraft:blockCosmeticSlabWood - 1
 Natura:plankSlab1 - any
@@ -8248,6 +8101,7 @@ minecraft:ender_chest - 0
 treeLeaves
 minecraft:leaves - any
 minecraft:leaves2 - any
+Forestry:leaves - any
 DCsAppleMilk:defeatedcrow.leavesYuzu - any
 Natura:floraleaves - any
 Natura:floraleavesnocolor - any
@@ -8269,6 +8123,7 @@ erebus:leavesSap - 0
 
 treeSapling
 minecraft:sapling - any
+Forestry:sapling - any
 DCsAppleMilk:defeatedcrow.saplingTea - 0
 DCsAppleMilk:defeatedcrow.saplingTea - 1
 DCsAppleMilk:defeatedcrow.saplingTea - 2

@@ -1,0 +1,31 @@
+
+# Created by Ruins mod version 14.7 Ingame Parser
+# authoring Player: Barlock_James
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=2,3,3
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,chisel:iron_bars-9
+rule2=0,100,GraveStone:GSMemorial-2
+rule3=0,100,chisel:iron_bars-4
+
+layer
+1,1,1
+1,2,1
+1,1,1
+endlayer
+
+layer
+3,3,3
+3,0,3
+3,3,3
+endlayer
+

@@ -18,6 +18,7 @@ Botania.botania:thrownItem
 Botania.botania:vineBall
 CarpentersBlocks.CarpentersTile
 CaveSpider
+Celebrity
 Chicken
 Cow
 Creeper
@@ -46,6 +47,7 @@ EyeOfEnderSignal
 FallingSand
 Fireball
 FireworksRocketEntity
+Forestry.butterflyGE
 GSSkeletonCat
 GSSkeletonDog
 GSSkullCrawler
@@ -216,10 +218,6 @@ SpecialMobs.WitchCaveSpider
 SpecialMobs.WitchSpider
 Spider
 Squid
-Steamcraft.CanisterItem
-Steamcraft.FloatingItem
-Steamcraft.MortarItem
-Steamcraft.Rocket
 StevesCarts.Cake.Vswe
 StevesCarts.Egg.Vswe
 StevesCarts.Minecart.Vswe.0
@@ -322,8 +320,6 @@ WitherSkull
 Wolf
 XPOrb
 Zombie
-betterstorage.Cluckington
-betterstorage.Frienderman
 cfm.MountableBlock
 chisel.BallOMoss
 chisel.CloudInABottle
@@ -542,6 +538,7 @@ witchery.wolfman
 62 - LavaSlime
 65 - Bat
 66 - Witch
+89 - Celebrity
 90 - Pig
 91 - Sheep
 92 - Cow
