@@ -38,7 +38,6 @@
  * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
  * [CraftHeraldry](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2165317-craftheraldry-coats-of-arms-in-minecraft-over-1200)
  * [Description Tags](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125698-description-tags)
- * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
  * [Garden Stuff](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14)
  * [Headcrumbs](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2184837-headcrumbs-celebrities-heads-as-dungeon-loot-heads)
  * [Invisiblocks](http://www.curse.com/mc-mods/minecraft/226800-invisiblocks)
@@ -57,7 +56,6 @@
  * [Erebus](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2244153-0-2pre12-the-erebus-dimension-of-the-arthopods-is)
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
  * [MyWorldGen](http://www.curse.com/mc-mods/minecraft/myworldgen)
- * [Ruins](http://atomicstryker.net/ruins.php)
 
 * ######Mobs:
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
@@ -93,7 +91,6 @@
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
  * [ServerTools-CORE](http://www.curse.com/mc-mods/minecraft/forgeservertools)
  * [Squidless](http://minecraft.curseforge.com/mc-mods/226115-squidless)
- * [WorldEdit](http://minecraft.curseforge.com/mc-mods/225608-worldedit)
 
 #####Storage and Crafting:
 * [Adventure Backpack](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2252109-wip-adventure-backpack-mod-0-7-0-beta)
@@ -117,17 +114,15 @@
 * [Simple Lantern Mod](http://www.curse.com/mc-mods/minecraft/226560-universal-simple-lantern-mod-1-0)
 
 #####Core:
-* [AOBD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores)
-* [CodeChickenCore](http://chickenbones.net/Pages/links.html)
-* [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore)
-* [D3 Core](http://www.curse.com/mc-mods/minecraft/223569-d3-core)
-* [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart)
+* [AOBD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores) (Processing of Ores)
+* [CodeChickenCore](http://chickenbones.net/Pages/links.html) (NEI and Translocator)
+* [CoFH Core](http://minecraft.curseforge.com/mc-mods/69162-cofhcore) (Ore and World Gen)
+* [ForgeMultiPart](https://github.com/Chicken-Bones/ForgeMultipart) (MultiParts)
+	* [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1)
 * [ImmibisCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers) (RedLogic)
-* [IVToolkit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit)
 * [Kore Sample](https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md#ancient-trees) (Ancient Trees)
 * [LunatriusCore](http://minecraft.curseforge.com/mc-mods/225605-lunatriuscore) (InGame Info XML)
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore) (Malisis Doors)
-* [Mantle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 * [Red Gear Core](http://minecraft.curseforge.com/mc-mods/59694-chemcraft-core)
 * [ttCore](http://www.curse.com/mc-mods/minecraft/226082-ttcore) (Fluxed-Crystals)
 

@@ -72,20 +72,20 @@
 	- Terrain Scale: 1.0
 
 
-33
-	- Name: PocketDimension
-	- Height: 128
-	- Has Sky? false
-	- Cloud Height: 600000.0
-	- Can Respawn Here? false
-	- Terrain Scale: 1.0
-
-
 -42
 	- Name: The Outer Lands
 	- Height: 128
 	- Has Sky? false
 	- Cloud Height: 1.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+33
+	- Name: PocketDimension
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 600000.0
 	- Can Respawn Here? false
 	- Terrain Scale: 1.0
 
