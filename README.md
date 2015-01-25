@@ -27,7 +27,6 @@ The mods for the pack are based on a steampunk/magic concept. The following are 
 * [Flaxbeard's Steamworks](http://minecraft.curseforge.com/mc-mods/224867-flaxbeards-steam-power)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
 * [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki)
-* [Tinker's Construct](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct)
 
 There are also mods in the following categories:
 
