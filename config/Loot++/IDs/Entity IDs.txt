@@ -3,7 +3,6 @@ Arrow
 Automagy.AvaricePearl
 Automagy.XPOrbSuppressed
 Bat
-BiblioCraft.SeatEntity
 Blaze
 Boat
 Botania.botania:doppleganger
@@ -14,30 +13,14 @@ Botania.botania:manaBurst
 Botania.botania:pixie
 Botania.botania:signalFlare
 Botania.botania:spark
+Botania.botania:thornChakram
 Botania.botania:thrownItem
 Botania.botania:vineBall
-CarpentersBlocks.CarpentersTile
 CaveSpider
 Celebrity
 Chicken
 Cow
 Creeper
-CustomFishHook
-DCsAppleMilk.PlaceableAlcoholCup
-DCsAppleMilk.PlaceableBowl
-DCsAppleMilk.PlaceableBowlJP
-DCsAppleMilk.PlaceableCocktail
-DCsAppleMilk.PlaceableCocktail2
-DCsAppleMilk.PlaceableCup
-DCsAppleMilk.PlaceableCup2
-DCsAppleMilk.PlaceableIceCream
-DCsAppleMilk.PlaceableSandwich
-DCsAppleMilk.PlaceableSteak
-DCsAppleMilk.PlaceableTart
-DCsAppleMilk.compressedMelon
-DCsAppleMilk.compressedSilkyMelon
-DCsAppleMilk.mushroomBox
-DCsAppleMilk.stunEntity
 EnderCrystal
 EnderDragon
 Enderman
@@ -218,9 +201,10 @@ SpecialMobs.WitchCaveSpider
 SpecialMobs.WitchSpider
 Spider
 Squid
-StevesCarts.Cake.Vswe
-StevesCarts.Egg.Vswe
-StevesCarts.Minecart.Vswe.0
+Steamcraft.CanisterItem
+Steamcraft.FloatingItem
+Steamcraft.MortarItem
+Steamcraft.Rocket
 Thaumcraft.Alumentum
 Thaumcraft.AspectOrb
 Thaumcraft.BottleTaint
@@ -271,7 +255,6 @@ Thaumcraft.TaintedVillager
 Thaumcraft.ThaumSlime
 Thaumcraft.TravelingTrunk
 Thaumcraft.Wisp
-ThaumicExploration.TaintacleMinion
 ThaumicTinkerer.ShadowbeamStaffBeam
 ThrownEnderpearl
 ThrownExpBottle
@@ -320,6 +303,9 @@ WitherSkull
 Wolf
 XPOrb
 Zombie
+adventurebackpack.inflatableBoat
+adventurebackpack.rideableSpider
+aura.Fairy
 cfm.MountableBlock
 chisel.BallOMoss
 chisel.CloudInABottle
@@ -333,65 +319,6 @@ enderzoo.FallenKnight
 enderzoo.FallenMount
 enderzoo.WitherCat
 enderzoo.WitherWitch
-erebus.animatedBambooCrate
-erebus.animatedBlock
-erebus.animatedChest
-erebus.antlion
-erebus.antlionMiniBoss
-erebus.beetle
-erebus.beetleLarva
-erebus.blackAnt
-erebus.blackWidow
-erebus.bloodSnail
-erebus.botFly
-erebus.botFlyLarva
-erebus.centipede
-erebus.chameleonTick
-erebus.cicada
-erebus.crushroom
-erebus.dragonfly
-erebus.erebusLightning
-erebus.extractedBlock
-erebus.fireAnt
-erebus.fireAntSoldier
-erebus.fireResistentItem
-erebus.fly
-erebus.glowWorm
-erebus.gooBall
-erebus.grasshopper
-erebus.jumpingSpider
-erebus.lavaWebSpider
-erebus.locust
-erebus.midgeSwarm
-erebus.moneySpider
-erebus.mosquito
-erebus.moth
-erebus.mucusBombPrimed
-erebus.poisonjet
-erebus.prayingMantis
-erebus.punchroom
-erebus.rhinoBeetle
-erebus.scorpion
-erebus.scytodes
-erebus.solifuge
-erebus.solifugeSmall
-erebus.sporeBall
-erebus.sporeling
-erebus.tarantula
-erebus.tarantulababy
-erebus.tarantulaegg
-erebus.tarantulaminiboss
-erebus.titanBeetle
-erebus.umberGolem
-erebus.velvetWorm
-erebus.wasp
-erebus.waspDagger
-erebus.webSling
-erebus.wheatWeevil
-erebus.woodlouse
-erebus.woodlouseBall
-erebus.workerBee
-erebus.zombieAnt
 menagerie.ant
 menagerie.ghost
 menagerie.infestedVillager
@@ -402,29 +329,6 @@ menagerie.mummy
 menagerie.oliphant
 menagerie.rat
 menagerie.spine
-primitivemobs.BabySpider
-primitivemobs.Ball
-primitivemobs.BewitchedTome
-primitivemobs.BlazingJuggernaut
-primitivemobs.BrainSlime
-primitivemobs.Chameleon
-primitivemobs.FestiveCreeper
-primitivemobs.HauntedTool
-primitivemobs.Lily
-primitivemobs.LilyLurker
-primitivemobs.LostMiner
-primitivemobs.MimicChest
-primitivemobs.Minion
-primitivemobs.MotherSpider
-primitivemobs.RocketCreeper
-primitivemobs.Sheepman
-primitivemobs.SheepmanSmith
-primitivemobs.SkeletonWarrior
-primitivemobs.SpawnEgg
-primitivemobs.Summoner
-primitivemobs.SupportCreeper
-primitivemobs.TravelingMerchant
-primitivemobs.TreasureSlime
 quiverchevsky.projectilechevsky_0
 quiverchevsky.projectilechevsky_1
 quiverchevsky.projectilechevsky_10
@@ -446,6 +350,8 @@ quiverchevsky.projectilechevsky_24
 quiverchevsky.projectilechevsky_25
 quiverchevsky.projectilechevsky_26
 quiverchevsky.projectilechevsky_27
+quiverchevsky.projectilechevsky_28
+quiverchevsky.projectilechevsky_29
 quiverchevsky.projectilechevsky_3
 quiverchevsky.projectilechevsky_4
 quiverchevsky.projectilechevsky_5
@@ -549,24 +455,6 @@ witchery.wolfman
 98 - Ozelot
 100 - EntityHorse
 120 - Villager
-901 - primitivemobs.RocketCreeper
-902 - primitivemobs.FestiveCreeper
-903 - primitivemobs.SupportCreeper
-904 - primitivemobs.Chameleon
-905 - primitivemobs.TreasureSlime
-906 - primitivemobs.HauntedTool
-907 - primitivemobs.MimicChest
-908 - primitivemobs.BewitchedTome
-909 - primitivemobs.TravelingMerchant
-910 - primitivemobs.LostMiner
-911 - primitivemobs.BrainSlime
-912 - primitivemobs.SkeletonWarrior
-913 - primitivemobs.MotherSpider
-915 - primitivemobs.BlazingJuggernaut
-916 - primitivemobs.Sheepman
-918 - primitivemobs.Summoner
-920 - primitivemobs.SheepmanSmith
-921 - primitivemobs.LilyLurker
 6396 - witchery.demon
 6397 - witchery.mandrake
 6398 - witchery.treefyd

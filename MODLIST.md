@@ -1,8 +1,9 @@
 #Mod List
 
 #####Magic:
+* [Aura Cascade](http://www.curse.com/mc-mods/minecraft/227099-aura-cascade)
 * [Botania](http://www.curse.com/mc-mods/minecraft/225643-botania)
-* [Clockwork Phase](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2288839-clockwork-phase-1-7-10_1-0-time-magic-all-wrapped) **(Not Curse)**
+* [Clockwork Phase](http://www.curse.com/mc-mods/minecraft/227388-clockwork-phase)
 * [Thaumcraft](http://www.curse.com/mc-mods/minecraft/223628-thaumcraft)
   * [Automagy](http://www.curse.com/mc-mods/minecraft/222153-automagy)
   * [Baubles](http://www.curse.com/mc-mods/minecraft/227083-baubles)
@@ -13,14 +14,13 @@
 
 #####Tech:
 * [EnderIO](http://www.curse.com/mc-mods/minecraft/ender-io)
+* [Flaxbeard's Steam Power](http://www.curse.com/mc-mods/minecraft/224867-flaxbeards-steam-power)
 * [Progressive Automation](http://www.curse.com/mc-mods/minecraft/220606-progressive-automation-early-miner)
 * [Railcraft](http://www.curse.com/mc-mods/minecraft/railcraft)
 * [Simply Jetpacks](http://www.curse.com/mc-mods/minecraft/simply-jetpacks)
-* [Steve's Carts](http://stevescarts.wikia.com/wiki/Steve's_Carts_Wiki) **(Not Curse)**
 
 #####Farming and Simulation:
-* [AppleMilkTea](https://www.dropbox.com/sh/w1mrciofe19uyk7/AADbcpOsip_F56P71pGaIIRCa/AppleMilkTea2-1.7.10_2.0_beta11.jar?dl=0) **(Not Curse)**
-* [Aquaculture](http://www.curse.com/mc-mods/minecraft/aquaculture)
+* [AgriCraft](http://www.curse.com/mc-mods/minecraft/225635-agricraft)
 * [Fluxed Crystals](http://www.curse.com/mc-mods/minecraft/226074-fluxed-crystals)
 * [Forestry](http://www.curse.com/mc-mods/minecraft/forestry)
 * [Hunger Overhaul](http://www.curse.com/mc-mods/minecraft/224476-hunger-overhaul)
@@ -30,16 +30,15 @@
 #####Design and Cosmetic:
 
 * ######Blocks:
- * [Bibliocraft](http://www.bibliocraftmod.com/) **(Not Curse)**
- * [Carpenter's Blocks](http://www.carpentersblocks.com/) **(Not Curse)**
  * [Chisel 2](http://www.curse.com/mc-mods/minecraft/225236-chisel-2)
  * [Description Tags](http://www.curse.com/mc-mods/minecraft/221990-description-tags)
- * [ForgeMultiPart Integration](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295119-1-6-1-7-forge-forgemultipart-integration-v1-2-2-1) **(Not Curse)**
+ * [ForgeMultiPart Integration](http://www.curse.com/mc-mods/minecraft/220567-forge-multipart-integration-fmpi)
  * [Garden Stuff](http://www.curse.com/mc-mods/minecraft/225903-garden-stuff)
  * [Headcrumbs](http://www.curse.com/mc-mods/minecraft/222838-headcrumbs)
  * [Invisiblocks](http://www.curse.com/mc-mods/minecraft/226800-invisiblocks)
  * [Luppii's Ladders](http://www.curse.com/mc-mods/minecraft/luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
+ * [MobStatues](http://www.curse.com/mc-mods/minecraft/227575-mob-statues)
  * [MrCrayfish's Furniture Mod](http://www.curse.com/mc-mods/minecraft/mrcrayfish-furniture-mod)
  * [Natura](http://www.curse.com/mc-mods/minecraft/natura)
  * [Storage Drawers](http://www.curse.com/mc-mods/minecraft/223852-storage-drawers)
@@ -87,10 +86,8 @@
 #####Storage and Crafting:
 * [Adventure Backpack](http://www.curse.com/mc-mods/minecraft/225063-adventure-backpack)
 * [AutoPackager](http://www.curse.com/mc-mods/minecraft/221457-autopackager)
-* [Enhanced Inventories](http://www.curse.com/mc-mods/minecraft/226210-enhanced-inventories)
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * [Refined Relocation](http://www.curse.com/mc-mods/minecraft/refined-relocation)
-* [Tubes](http://www.curse.com/mc-mods/minecraft/tubes)
 
 #####Misc:
 * [Balkon's Weapon Mod](http://www.curse.com/mc-mods/minecraft/balkons-weaponmod)
@@ -99,6 +96,7 @@
 * [Dynamic Sword Skills](http://www.curse.com/mc-mods/minecraft/226360-dynamic-sword-skills)
 * [Extra Utilities](http://www.curse.com/mc-mods/minecraft/225561-extra-utilities) *(wings, quarry, and pump disabled)*
 * [Gravestone](http://www.curse.com/mc-mods/minecraft/gravestone_mod)
+* [Minecraft Money](http://www.curse.com/mc-mods/minecraft/223694-utility-modders-minecraft-money)
 * [QuiverBow](http://www.curse.com/mc-mods/minecraft/quiverbow)
 * [Random Things](http://www.curse.com/mc-mods/minecraft/random-things)
 * [Simple Lantern Mod](http://www.curse.com/mc-mods/minecraft/226560-universal-simple-lantern-mod-1-0)

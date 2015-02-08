@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <config>
-    <lines at="topleft">
+    <lines at="middleleft">
         <line>
             <str>Day {day}, {mctime} (</str>
             <if>
@@ -72,7 +72,7 @@
             <str> </str>
         </line>
     </lines>
-    <lines at="bottomright">
+    <lines at="middleright">
         <line>
             <max>
                 <var>potiondurationticks0</var>

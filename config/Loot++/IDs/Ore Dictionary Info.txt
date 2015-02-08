@@ -92,83 +92,8 @@ FC.Tuna_StripCooked
 FC.Tuna_StripRaw
 
 
-RedLogic:insulated_wire
-RedLogic:redlogic.wire - 1
-RedLogic:redlogic.wire - 2
-RedLogic:redlogic.wire - 3
-RedLogic:redlogic.wire - 4
-RedLogic:redlogic.wire - 5
-RedLogic:redlogic.wire - 6
-RedLogic:redlogic.wire - 7
-RedLogic:redlogic.wire - 8
-RedLogic:redlogic.wire - 9
-RedLogic:redlogic.wire - 10
-RedLogic:redlogic.wire - 11
-RedLogic:redlogic.wire - 12
-RedLogic:redlogic.wire - 13
-RedLogic:redlogic.wire - 14
-RedLogic:redlogic.wire - 15
-RedLogic:redlogic.wire - 16
-
-
-Tubes$anyDye
-minecraft:dye - 0
-DCsAppleMilk:defeatedcrow.inkStick - 0
-Botania:dye - 15
-ForbiddenMagic:FMResource - 1
-erebus:flower - 0
-minecraft:dye - 1
-Botania:dye - 14
-erebus:flower - 1
-minecraft:dye - 2
-Botania:dye - 13
-minecraft:dye - 3
-Botania:dye - 12
-erebus:flower - 2
-minecraft:dye - 4
-Natura:barleyFood - 8
-Botania:dye - 11
-erebus:flower - 3
-minecraft:dye - 5
-Botania:dye - 10
-erebus:flower - 4
-minecraft:dye - 6
-Botania:dye - 9
-erebus:flower - 5
-minecraft:dye - 7
-Botania:dye - 8
-erebus:flower - 6
-minecraft:dye - 8
-Botania:dye - 7
-erebus:flower - 7
-minecraft:dye - 9
-Botania:dye - 6
-erebus:flower - 8
-minecraft:dye - 10
-Botania:dye - 5
-minecraft:dye - 11
-Botania:dye - 4
-erebus:flower - 9
-minecraft:dye - 12
-Botania:dye - 3
-erebus:flower - 10
-minecraft:dye - 13
-Botania:dye - 2
-erebus:flower - 11
-minecraft:dye - 14
-DCsAppleMilk:defeatedcrow.foodTea - 4
-Botania:dye - 1
-erebus:flower - 12
-minecraft:dye - 15
-DCsAppleMilk:defeatedcrow.condensedMilk - 6
-Botania:dye - 0
-erebus:flower - 13
-
-
-apricot
-
-
-apricotSeed
+antiBlock
+chisel:antiBlock - 0
 
 
 bFlask
@@ -198,9 +123,6 @@ Forestry:beeCombs - any
 
 beeQueen
 harvestcraft:queenbeeItem - 0
-
-
-blackPepper
 
 
 blockAdamantine
@@ -242,6 +164,7 @@ blockBlackSteel
 
 blockBrass
 clockworkphase:brassBlock - 0
+Steamcraft:blockBrass - 0
 
 
 blockBronze
@@ -259,17 +182,6 @@ blockCelenegil
 
 
 blockCeruclase
-
-
-blockChalcedony
-DCsAppleMilk:defeatedcrow.chalcedony - 0
-DCsAppleMilk:defeatedcrow.chalcedony - 1
-DCsAppleMilk:defeatedcrow.chalcedony - 2
-DCsAppleMilk:defeatedcrow.chalcedony - 3
-
-
-blockClam
-DCsAppleMilk:defeatedcrow.GunpowderContainer - 3
 
 
 blockCloth
@@ -363,13 +275,17 @@ ExtraUtilities:color_blockCoal - 11
 blockCobalt
 
 
+blockCobble
+
+
 blockConductiveIron
 EnderIO:blockIngotStorage - 4
 
 
 blockCopper
 Forestry:resourceStorage - 1
-Railcraft:tile.railcraft.cube - 9
+Railcraft:cube - 9
+Steamcraft:blockCopper - 0
 
 
 blockDamascusSteel
@@ -397,20 +313,8 @@ blockEmerald
 minecraft:emerald_block - 0
 
 
-blockEmptyCup
-DCsAppleMilk:defeatedcrow.emptyCup - 0
-
-
-blockEmptyPan
-DCsAppleMilk:defeatedcrow.emptyPanG - 0
-
-
 blockEnergeticAlloy
 EnderIO:blockIngotStorage - 1
-
-
-blockEvaporator
-DCsAppleMilk:defeatedcrow.evaporator - 0
 
 
 blockGlass
@@ -423,7 +327,6 @@ ExtraUtilities:decorativeBlock2 - 2
 ExtraUtilities:decorativeBlock2 - 3
 ExtraUtilities:decorativeBlock2 - 6
 ExtraUtilities:decorativeBlock2 - 9
-erebus:amber - 1
 
 
 blockGlassBlack
@@ -512,10 +415,6 @@ blockHopper
 minecraft:hopper - 0
 
 
-blockIceMaker
-DCsAppleMilk:defeatedcrow.iceMaker - 0
-
-
 blockIgnatius
 
 
@@ -530,10 +429,6 @@ blockInvar
 
 blockIron
 minecraft:iron_block - 0
-
-
-blockJade
-erebus:blockJade - 0
 
 
 blockKalendrite
@@ -624,7 +519,7 @@ ExtraUtilities:color_blockLapis - 11
 
 
 blockLead
-Railcraft:tile.railcraft.cube - 11
+Railcraft:cube - 11
 
 
 blockLemurite
@@ -674,18 +569,10 @@ blockPhasedIron
 EnderIO:blockIngotStorage - 5
 
 
-blockPlastic
-Tubes:blockPlastic - 0
-
-
 blockPlatinum
 
 
 blockPrometheum
-
-
-blockProsessor
-DCsAppleMilk:defeatedcrow.prosessor - 0
 
 
 blockQuartz
@@ -802,22 +689,12 @@ blockSoularium
 EnderIO:blockIngotStorage - 7
 
 
-blockSpawner
-erebus:spiderSpawner - 0
-erebus:jumpingSpiderSpawner - 0
-erebus:waspSpawner - 0
-
-
 blockSteel
-Railcraft:tile.railcraft.cube - 2
+Railcraft:cube - 2
 EnderIO:blockIngotStorage - 0
 
 
 blockTartarite
-
-
-blockTeaMaker
-DCsAppleMilk:defeatedcrow.teaMakerNext - 0
 
 
 blockTemporal
@@ -826,7 +703,7 @@ clockworkphase:blockTemporal - 0
 
 blockTin
 Forestry:resourceStorage - 2
-Railcraft:tile.railcraft.cube - 10
+Railcraft:cube - 10
 
 
 blockUnstable
@@ -908,107 +785,7 @@ minecraft:wool - 4
 
 
 blockZinc
-
-
-bottleAmarettoliqueur
-DCsAppleMilk:defeatedcrow.itemCordial - 17
-DCsAppleMilk:defeatedcrow.itemCordial - 18
-DCsAppleMilk:defeatedcrow.itemCordial - 19
-
-
-bottleAppleliqueur
-DCsAppleMilk:defeatedcrow.itemCordial - 1
-DCsAppleMilk:defeatedcrow.itemCordial - 2
-DCsAppleMilk:defeatedcrow.itemCordial - 3
-
-
-bottleBeer
-DCsAppleMilk:defeatedcrow.itemBottle - 2
-DCsAppleMilk:defeatedcrow.itemBottle - 18
-DCsAppleMilk:defeatedcrow.itemBottle - 34
-DCsAppleMilk:defeatedcrow.itemBottle - 50
-
-
-bottleBrandy
-DCsAppleMilk:defeatedcrow.itemBottle - 8
-DCsAppleMilk:defeatedcrow.itemBottle - 24
-DCsAppleMilk:defeatedcrow.itemBottle - 40
-DCsAppleMilk:defeatedcrow.itemBottle - 56
-
-
-bottleCamelliaOil
-DCsAppleMilk:defeatedcrow.bottleCamOil - 0
-
-
-bottleCassisliqueur
-DCsAppleMilk:defeatedcrow.itemCordial - 9
-DCsAppleMilk:defeatedcrow.itemCordial - 10
-DCsAppleMilk:defeatedcrow.itemCordial - 11
-
-
-bottleGin
-DCsAppleMilk:defeatedcrow.itemBottle - 4
-DCsAppleMilk:defeatedcrow.itemBottle - 20
-DCsAppleMilk:defeatedcrow.itemBottle - 36
-DCsAppleMilk:defeatedcrow.itemBottle - 52
-
-
-bottlePlumliqueur
-DCsAppleMilk:defeatedcrow.itemCordial - 13
-DCsAppleMilk:defeatedcrow.itemCordial - 14
-DCsAppleMilk:defeatedcrow.itemCordial - 15
-
-
-bottleRum
-DCsAppleMilk:defeatedcrow.itemBottle - 5
-DCsAppleMilk:defeatedcrow.itemBottle - 21
-DCsAppleMilk:defeatedcrow.itemBottle - 37
-DCsAppleMilk:defeatedcrow.itemBottle - 53
-
-
-bottleSake
-DCsAppleMilk:defeatedcrow.itemBottle - 1
-DCsAppleMilk:defeatedcrow.itemBottle - 17
-DCsAppleMilk:defeatedcrow.itemBottle - 33
-DCsAppleMilk:defeatedcrow.itemBottle - 49
-
-
-bottleShothu
-DCsAppleMilk:defeatedcrow.itemBottle - 0
-DCsAppleMilk:defeatedcrow.itemBottle - 16
-DCsAppleMilk:defeatedcrow.itemBottle - 32
-DCsAppleMilk:defeatedcrow.itemBottle - 48
-
-
-bottleTealiqueur
-DCsAppleMilk:defeatedcrow.itemCordial - 5
-DCsAppleMilk:defeatedcrow.itemCordial - 6
-DCsAppleMilk:defeatedcrow.itemCordial - 7
-
-
-bottleVegitableOil
-DCsAppleMilk:defeatedcrow.bottleVegiOil - 0
-
-
-bottleVodka
-DCsAppleMilk:defeatedcrow.itemBottle - 6
-DCsAppleMilk:defeatedcrow.itemBottle - 22
-DCsAppleMilk:defeatedcrow.itemBottle - 38
-DCsAppleMilk:defeatedcrow.itemBottle - 54
-
-
-bottleWhiskey
-DCsAppleMilk:defeatedcrow.itemBottle - 7
-DCsAppleMilk:defeatedcrow.itemBottle - 23
-DCsAppleMilk:defeatedcrow.itemBottle - 39
-DCsAppleMilk:defeatedcrow.itemBottle - 55
-
-
-bottleWine
-DCsAppleMilk:defeatedcrow.itemBottle - 3
-DCsAppleMilk:defeatedcrow.itemBottle - 19
-DCsAppleMilk:defeatedcrow.itemBottle - 35
-DCsAppleMilk:defeatedcrow.itemBottle - 51
+Steamcraft:blockZinc - 0
 
 
 bowlWood
@@ -1192,26 +969,8 @@ bricksStoneYellow
 ExtraUtilities:colorStoneBrick - 11
 
 
-bucketCamelliaOil
-DCsAppleMilk:defeatedcrow.bucketCamOil - 0
-
-
-bucketMilk
-minecraft:milk_bucket - 0
-
-
-bucketSoymilk
-
-
-bucketVegitableOil
-DCsAppleMilk:defeatedcrow.bucketVegiOil - 0
-
-
 burntquartz
 ExtraUtilities:decorativeBlock1 - 2
-
-
-cabbage
 
 
 carpet
@@ -1265,6 +1024,10 @@ clusterTin
 Thaumcraft:ItemNugget - 18
 
 
+clusterZinc
+aobd:clusterZinc - 0
+
+
 coal
 minecraft:coal - 0
 
@@ -1287,7 +1050,6 @@ ExtraUtilities:color_stonebrick - 12
 ExtraUtilities:color_stonebrick - 13
 ExtraUtilities:color_stonebrick - 14
 ExtraUtilities:color_stonebrick - 15
-erebus:umberstone - 1
 
 
 cobblestoneBlack
@@ -1422,19 +1184,6 @@ concrete
 chisel:concrete - 0
 
 
-cookingClam
-DCsAppleMilk:defeatedcrow.clam - 0
-
-
-cookingIce
-DCsAppleMilk:defeatedcrow.condensedMilk - 4
-
-
-cookingRice
-DCsAppleMilk:defeatedcrow.bowlBlock - 0
-DCsAppleMilk:defeatedcrow.bowlJP - 0
-
-
 crafterWood
 Natura:Natura.workbench - 0
 Natura:Natura.workbench - 1
@@ -1551,10 +1300,6 @@ cropCactusfruit
 harvestcraft:cactusfruitItem - 0
 
 
-cropCamellia
-DCsAppleMilk:defeatedcrow.leafTea - 4
-
-
 cropCandle
 harvestcraft:candleberryItem - 0
 
@@ -1572,10 +1317,6 @@ minecraft:carrot - 0
 
 cropCashew
 harvestcraft:cashewItem - 0
-
-
-cropCassis
-DCsAppleMilk:defeatedcrow.leafTea - 2
 
 
 cropCauliflower
@@ -1602,10 +1343,6 @@ harvestcraft:chilipepperItem - 0
 
 cropCinnamon
 harvestcraft:cinnamonItem - 0
-
-
-cropCitron
-DCsAppleMilk:defeatedcrow.leafTea - 3
 
 
 cropCoconut
@@ -1677,9 +1414,6 @@ cropGrapefruit
 harvestcraft:grapefruitItem - 0
 
 
-cropHazelnut
-
-
 cropKiwi
 harvestcraft:kiwiItem - 0
 
@@ -1695,9 +1429,6 @@ harvestcraft:lemonItem - 0
 
 cropLettuce
 harvestcraft:lettuceItem - 0
-
-
-cropLettus
 
 
 cropLime
@@ -1816,7 +1547,6 @@ harvestcraft:rhubarbItem - 0
 
 
 cropRice
-DCsAppleMilk:defeatedcrow.mincedFoods - 3
 harvestcraft:riceItem - 0
 
 
@@ -1832,11 +1562,7 @@ cropScallion
 harvestcraft:scallionItem - 0
 
 
-cropSeaWeed
-
-
 cropSeaweed
-Aquaculture:item.loot - 0
 harvestcraft:seaweedItem - 0
 
 
@@ -1849,7 +1575,6 @@ harvestcraft:soybeanItem - 0
 
 
 cropSpiceleaf
-DCsAppleMilk:defeatedcrow.leafTea - 1
 harvestcraft:spiceleafItem - 0
 
 
@@ -1878,7 +1603,6 @@ harvestcraft:sweetpotatoItem - 0
 
 
 cropTea
-DCsAppleMilk:defeatedcrow.leafTea - 0
 harvestcraft:tealeafItem - 0
 
 
@@ -1915,10 +1639,6 @@ cropWintersquash
 harvestcraft:wintersquashItem - 0
 
 
-cropYuzu
-DCsAppleMilk:defeatedcrow.leafTea - 3
-
-
 cropZucchini
 harvestcraft:zucchiniItem - 0
 
@@ -1941,6 +1661,10 @@ aobd:crushedTemporal - 0
 
 crushedTin
 aobd:crushedTin - 0
+
+
+crushedZinc
+aobd:crushedZinc - 0
 
 
 crystalCertusQuartz
@@ -2000,10 +1724,6 @@ denseoreSilver
 denseoreTin
 
 
-diamondNugget
-Translocator:diamondNugget - 0
-
-
 dirt
 minecraft:dirt - 0
 chisel:dirt - 0
@@ -2013,22 +1733,8 @@ dreamwood
 Botania:dreamwood - 0
 
 
-drinkBeer
-
-
-drinkCider
-
-
-drinkGin
-
-
-drinkRum
-
-
-drinkSake
-
-
-drinkWine
+dreamwoodTwig
+Botania:manaResource - 13
 
 
 dropHoney
@@ -2048,6 +1754,7 @@ dustAdamantine
 
 
 dustAluminum
+Steamcraft:smashedOre - 8
 
 
 dustAmordrine
@@ -2056,9 +1763,12 @@ dustAmordrine
 dustAngmallen
 
 
+dustArdite
+Steamcraft:smashedOre - 11
+
+
 dustAsh
 Forestry:ash - 0
-DCsAppleMilk:defeatedcrow.dustWood - 2
 
 
 dustAstral Silver
@@ -2095,22 +1805,25 @@ dustCeruclase
 
 
 dustCharcoal
-DCsAppleMilk:defeatedcrow.dustWood - 1
 Railcraft:dust - 3
 
 
-dustClam
-DCsAppleMilk:defeatedcrow.condensedMilk - 6
+dustCinnabar
+Steamcraft:smashedOre - 12
 
 
 dustCoal
-DCsAppleMilk:defeatedcrow.dustWood - 1
 EnderIO:itemPowderIngot - 0
 
 
+dustCobalt
+Steamcraft:smashedOre - 10
+
+
 dustCopper
-DCsAppleMilk:defeatedcrow.oreDust - 2
+aobd:dustCopper - 0
 EnderIO:itemPowderIngot - 3
+Steamcraft:smashedOre - 2
 
 
 dustCyanite
@@ -2131,17 +1844,13 @@ dustEnderPearl
 dustFluix
 
 
-dustGlass
-DCsAppleMilk:defeatedcrow.condensedMilk - 5
-
-
 dustGlowstone
 minecraft:glowstone_dust - 0
 
 
 dustGold
-DCsAppleMilk:defeatedcrow.oreDust - 5
 EnderIO:itemPowderIngot - 2
+Steamcraft:smashedOre - 1
 
 
 dustGraphite
@@ -2167,15 +1876,15 @@ dustInolashite
 
 
 dustIron
-DCsAppleMilk:defeatedcrow.oreDust - 0
 EnderIO:itemPowderIngot - 1
+Steamcraft:smashedOre - 0
 
 
 dustKalendrite
 
 
 dustLead
-DCsAppleMilk:defeatedcrow.oreDust - 4
+Steamcraft:smashedOre - 7
 
 
 dustLemurite
@@ -2194,32 +1903,25 @@ dustNetherQuartz
 
 
 dustNickel
-DCsAppleMilk:defeatedcrow.oreDust - 6
+Steamcraft:smashedOre - 5
 
 
 dustObsidian
 Railcraft:dust - 0
-
-
-dustOilCake
-DCsAppleMilk:defeatedcrow.dustWood - 3
+EnderIO:itemPowderIngot - 7
 
 
 dustOrichalcum
 
 
 dustOsmium
+Steamcraft:smashedOre - 9
 
 
 dustOureclase
 
 
-dustPlastic
-Tubes:dustPlastic - 0
-
-
 dustPlatinum
-DCsAppleMilk:defeatedcrow.oreDust - 7
 
 
 dustPrometheum
@@ -2253,14 +1955,10 @@ dustShadowSteel
 
 
 dustSilver
-DCsAppleMilk:defeatedcrow.oreDust - 3
+Steamcraft:smashedOre - 6
 
 
 dustSteel
-
-
-dustSugar
-minecraft:sugar - 0
 
 
 dustSulfur
@@ -2275,8 +1973,32 @@ aobd:dustTemporal - 0
 
 
 dustTin
-DCsAppleMilk:defeatedcrow.oreDust - 1
+aobd:dustTin - 0
 EnderIO:itemPowderIngot - 4
+Steamcraft:smashedOre - 4
+
+
+dustTinyBrass
+
+
+dustTinyCopper
+Steamcraft:smashedOre - 15
+
+
+dustTinyGold
+Steamcraft:smashedOre - 14
+
+
+dustTinyIron
+Steamcraft:smashedOre - 13
+
+
+dustTinyTin
+Steamcraft:smashedOre - 17
+
+
+dustTinyZinc
+Steamcraft:smashedOre - 16
 
 
 dustUranium
@@ -2288,14 +2010,12 @@ dustVulcanite
 dustVyroxeres
 
 
-dustWood
-DCsAppleMilk:defeatedcrow.dustWood - 0
-
-
 dustYellorium
 
 
 dustZinc
+aobd:dustZinc - 0
+Steamcraft:smashedOre - 3
 
 
 dye
@@ -2304,35 +2024,29 @@ minecraft:dye - any
 
 dyeBlack
 minecraft:dye - 0
-DCsAppleMilk:defeatedcrow.inkStick - 0
 Botania:dye - 15
 ForbiddenMagic:FMResource - 1
-erebus:flower - 0
 
 
 dyeBlue
 minecraft:dye - 4
-Natura:barleyFood - 8
 Botania:dye - 11
-erebus:flower - 3
+Natura:barleyFood - 8
 
 
 dyeBrown
 minecraft:dye - 3
 Botania:dye - 12
-erebus:flower - 2
 
 
 dyeCyan
 minecraft:dye - 6
 Botania:dye - 9
-erebus:flower - 5
 
 
 dyeGray
 minecraft:dye - 8
 Botania:dye - 7
-erebus:flower - 7
 
 
 dyeGreen
@@ -2343,13 +2057,11 @@ Botania:dye - 13
 dyeLightBlue
 minecraft:dye - 12
 Botania:dye - 3
-erebus:flower - 10
 
 
 dyeLightGray
 minecraft:dye - 7
 Botania:dye - 8
-erebus:flower - 6
 
 
 dyeLime
@@ -2360,45 +2072,36 @@ Botania:dye - 5
 dyeMagenta
 minecraft:dye - 13
 Botania:dye - 2
-erebus:flower - 11
 
 
 dyeOrange
 minecraft:dye - 14
-DCsAppleMilk:defeatedcrow.foodTea - 4
 Botania:dye - 1
-erebus:flower - 12
 
 
 dyePink
 minecraft:dye - 9
 Botania:dye - 6
-erebus:flower - 8
 
 
 dyePurple
 minecraft:dye - 5
 Botania:dye - 10
-erebus:flower - 4
 
 
 dyeRed
 minecraft:dye - 1
 Botania:dye - 14
-erebus:flower - 1
 
 
 dyeWhite
 minecraft:dye - 15
-DCsAppleMilk:defeatedcrow.condensedMilk - 6
 Botania:dye - 0
-erebus:flower - 13
 
 
 dyeYellow
 minecraft:dye - 11
 Botania:dye - 4
-erebus:flower - 9
 
 
 elvenDragonstone
@@ -2479,14 +2182,6 @@ foodAnchovyraw
 harvestcraft:anchovyrawItem - 0
 
 
-foodAppleSandwich
-DCsAppleMilk:defeatedcrow.appleSandwich - 0
-
-
-foodAppleTart
-DCsAppleMilk:defeatedcrow.appleTart - 0
-
-
 foodApplecider
 harvestcraft:appleciderItem - 0
 
@@ -2511,16 +2206,8 @@ foodApplesauce
 harvestcraft:applesauceItem - 0
 
 
-foodAppletea
-DCsAppleMilk:defeatedcrow.foodTea - 3
-
-
 foodAppleyogurt
 harvestcraft:appleyogurtItem - 0
-
-
-foodApricotCake
-DCsAppleMilk:defeatedcrow.appleTart - 3
 
 
 foodApricotglazedpork
@@ -2569,10 +2256,6 @@ harvestcraft:baconmushroomburgerItem - 0
 
 foodBaconwrappeddates
 harvestcraft:baconwrappeddatesItem - 0
-
-
-foodBakedApple
-DCsAppleMilk:defeatedcrow.bakedApple - 0
 
 
 foodBakedbeans
@@ -2667,10 +2350,6 @@ foodBiscuit
 harvestcraft:biscuitItem - 0
 
 
-foodBlackEgg
-DCsAppleMilk:defeatedcrow.clam - 3
-
-
 foodBlackberrycobbler
 harvestcraft:blackberrycobblerItem - 0
 
@@ -2697,171 +2376,6 @@ harvestcraft:blackberryyogurtItem - 0
 
 foodBlackpepper
 harvestcraft:blackpepperItem - 0
-
-
-foodBlockAppletea
-DCsAppleMilk:defeatedcrow.filledCup2 - 2
-
-
-foodBlockBLTsoup
-DCsAppleMilk:defeatedcrow.bowlBlock - 7
-
-
-foodBlockChicken
-DCsAppleMilk:defeatedcrow.foodPlate - 2
-
-
-foodBlockClam
-DCsAppleMilk:defeatedcrow.foodPlate - 3
-
-
-foodBlockCocoa
-DCsAppleMilk:defeatedcrow.filledCup - 6
-
-
-foodBlockCoffee
-DCsAppleMilk:defeatedcrow.filledCup - 12
-
-
-foodBlockEarlGray
-DCsAppleMilk:defeatedcrow.filledCup2 - 0
-
-
-foodBlockGrapejuice
-DCsAppleMilk:defeatedcrow.filledCup2 - 8
-
-
-foodBlockGreentea
-DCsAppleMilk:defeatedcrow.filledCup - 2
-
-
-foodBlockIcecream
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 0
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 1
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 2
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 3
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 4
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 5
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 6
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 7
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 8
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 9
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 10
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 11
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 12
-DCsAppleMilk:defeatedcrow.iceCreamBlock - 13
-
-
-foodBlockJuice
-DCsAppleMilk:defeatedcrow.filledCup - 8
-
-
-foodBlockKayakumeshi
-DCsAppleMilk:defeatedcrow.bowlBlock - 4
-
-
-foodBlockLemonade
-DCsAppleMilk:defeatedcrow.filledCup - 10
-
-
-foodBlockLimejuice
-DCsAppleMilk:defeatedcrow.filledCup2 - 4
-
-
-foodBlockMilk
-DCsAppleMilk:defeatedcrow.filledCup - 1
-
-
-foodBlockMilkAppletea
-DCsAppleMilk:defeatedcrow.filledCup2 - 3
-
-
-foodBlockMilkBerry
-DCsAppleMilk:defeatedcrow.filledCup2 - 7
-
-
-foodBlockMilkCocoa
-DCsAppleMilk:defeatedcrow.filledCup - 7
-
-
-foodBlockMilkCoffee
-DCsAppleMilk:defeatedcrow.filledCup - 13
-
-
-foodBlockMilkEarlGray
-DCsAppleMilk:defeatedcrow.filledCup2 - 1
-
-
-foodBlockMilkGrenntea
-DCsAppleMilk:defeatedcrow.filledCup - 3
-
-
-foodBlockMilkJuice
-DCsAppleMilk:defeatedcrow.filledCup - 9
-
-
-foodBlockMilkLamonade
-DCsAppleMilk:defeatedcrow.filledCup - 11
-
-
-foodBlockMilkTea
-DCsAppleMilk:defeatedcrow.filledCup - 5
-
-
-foodBlockMintTea
-DCsAppleMilk:defeatedcrow.filledCup2 - 9
-
-
-foodBlockMushroomstew
-DCsAppleMilk:defeatedcrow.bowlBlock - 1
-
-
-foodBlockOrangejuice
-DCsAppleMilk:defeatedcrow.filledCup2 - 11
-
-
-foodBlockPupmkinsoup
-DCsAppleMilk:defeatedcrow.bowlBlock - 6
-
-
-foodBlockRice
-DCsAppleMilk:defeatedcrow.bowlBlock - 0
-
-
-foodBlockSalmonstew
-DCsAppleMilk:defeatedcrow.bowlBlock - 2
-
-
-foodBlockSoda
-DCsAppleMilk:defeatedcrow.filledCup2 - 12
-
-
-foodBlockSteak
-DCsAppleMilk:defeatedcrow.foodPlate - 0
-
-
-foodBlockTea
-DCsAppleMilk:defeatedcrow.filledCup - 4
-
-
-foodBlockTofunabe
-DCsAppleMilk:defeatedcrow.bowlBlock - 5
-
-
-foodBlockTomatojuice
-DCsAppleMilk:defeatedcrow.filledCup2 - 5
-
-
-foodBlockTonteki
-DCsAppleMilk:defeatedcrow.foodPlate - 1
-
-
-foodBlockYuzuDrink
-DCsAppleMilk:defeatedcrow.filledCup2 - 10
-
-
-foodBlockZousui
-DCsAppleMilk:defeatedcrow.bowlBlock - 3
 
 
 foodBlt
@@ -3002,18 +2516,6 @@ harvestcraft:carrotsoupItem - 0
 
 foodCashewchicken
 harvestcraft:cashewchickenItem - 0
-
-
-foodCassisPreserve
-DCsAppleMilk:defeatedcrow.milkCandy - 1
-
-
-foodCassisSandwich
-DCsAppleMilk:defeatedcrow.appleSandwich - 2
-
-
-foodCassisTart
-DCsAppleMilk:defeatedcrow.appleTart - 1
 
 
 foodCatfishraw
@@ -3192,10 +2694,6 @@ foodCitrussalad
 harvestcraft:citrussaladItem - 0
 
 
-foodClam
-DCsAppleMilk:defeatedcrow.clam - 0
-
-
 foodClamcooked
 harvestcraft:clamcookedItem - 0
 
@@ -3221,7 +2719,6 @@ harvestcraft:coconutyogurtItem - 0
 
 
 foodCoffee
-DCsAppleMilk:defeatedcrow.gratedApple - 3
 harvestcraft:coffeeItem - 0
 
 
@@ -3235,14 +2732,6 @@ harvestcraft:colasodaItem - 0
 
 foodColeslaw
 harvestcraft:coleslawItem - 0
-
-
-foodCondencedMilk
-DCsAppleMilk:defeatedcrow.milkCandy - 0
-
-
-foodCookedClam
-DCsAppleMilk:defeatedcrow.clam - 1
 
 
 foodCornbread
@@ -3309,10 +2798,6 @@ foodCreamofavocadosoup
 harvestcraft:creamofavocadosoupItem - 0
 
 
-foodCrushedIce
-DCsAppleMilk:defeatedcrow.condensedMilk - 4
-
-
 foodCucumbersalad
 harvestcraft:cucumbersaladItem - 0
 
@@ -3353,16 +2838,8 @@ foodDough
 harvestcraft:doughItem - 0
 
 
-foodEarlGray
-DCsAppleMilk:defeatedcrow.foodTea - 2
-
-
 foodEelraw
 harvestcraft:eelrawItem - 0
-
-
-foodEggSandwich
-DCsAppleMilk:defeatedcrow.appleSandwich - 1
 
 
 foodEggnog
@@ -3501,22 +2978,6 @@ foodFruitpunch
 harvestcraft:fruitpunchItem - 0
 
 
-foodFruitsChocolate
-DCsAppleMilk:defeatedcrow.chocolateFruits - 0
-DCsAppleMilk:defeatedcrow.chocolateFruits - 1
-DCsAppleMilk:defeatedcrow.chocolateFruits - 2
-DCsAppleMilk:defeatedcrow.chocolateFruits - 3
-DCsAppleMilk:defeatedcrow.chocolateFruits - 4
-DCsAppleMilk:defeatedcrow.chocolateFruits - 5
-DCsAppleMilk:defeatedcrow.chocolateFruits - 6
-DCsAppleMilk:defeatedcrow.chocolateFruits - 7
-DCsAppleMilk:defeatedcrow.chocolateFruits - 8
-DCsAppleMilk:defeatedcrow.chocolateFruits - 9
-DCsAppleMilk:defeatedcrow.chocolateFruits - 10
-DCsAppleMilk:defeatedcrow.chocolateFruits - 11
-DCsAppleMilk:defeatedcrow.chocolateFruits - 12
-
-
 foodFruitsalad
 harvestcraft:fruitsaladItem - 0
 
@@ -3620,42 +3081,6 @@ foodGrapeyogurt
 harvestcraft:grapeyogurtItem - 0
 
 
-foodGratedApple
-DCsAppleMilk:defeatedcrow.gratedApple - 0
-
-
-foodGratedBerry
-DCsAppleMilk:defeatedcrow.gratedApple - 7
-
-
-foodGratedChocolate
-DCsAppleMilk:defeatedcrow.mincedFoods - 8
-
-
-foodGratedFruit
-DCsAppleMilk:defeatedcrow.gratedApple - 1
-
-
-foodGratedGrape
-DCsAppleMilk:defeatedcrow.gratedApple - 8
-
-
-foodGratedLime
-DCsAppleMilk:defeatedcrow.gratedApple - 5
-
-
-foodGratedOrange
-DCsAppleMilk:defeatedcrow.gratedApple - 9
-
-
-foodGratedTomato
-DCsAppleMilk:defeatedcrow.gratedApple - 6
-
-
-foodGreenTea
-DCsAppleMilk:defeatedcrow.foodTea - 0
-
-
 foodGrilledasparagus
 harvestcraft:grilledasparagusItem - 0
 
@@ -3725,10 +3150,6 @@ harvestcraft:herringrawItem - 0
 
 foodHolidaycake
 harvestcraft:holidaycakeItem - 0
-
-
-foodHoneyLemon
-DCsAppleMilk:defeatedcrow.gratedApple - 2
 
 
 foodHoneycombchocolatebar
@@ -3829,9 +3250,6 @@ harvestcraft:leafyfishsandwichItem - 0
 
 foodLeekbaconsoup
 harvestcraft:leekbaconsoupItem - 0
-
-
-foodLemonaid
 
 
 foodLemonaide
@@ -3988,10 +3406,6 @@ harvestcraft:melonyogurtItem - 0
 
 foodMincepie
 harvestcraft:mincepieItem - 0
-
-
-foodMintSauce
-DCsAppleMilk:defeatedcrow.milkCandy - 2
 
 
 foodMintchocolatechipicecream
@@ -4654,7 +4068,6 @@ harvestcraft:taffyItem - 0
 
 
 foodTea
-DCsAppleMilk:defeatedcrow.foodTea - 1
 harvestcraft:teaItem - 0
 
 
@@ -4676,13 +4089,6 @@ harvestcraft:toastedcoconutItem - 0
 
 foodToastsandwich
 harvestcraft:toastsandwichItem - 0
-
-
-foodToffyApple
-DCsAppleMilk:defeatedcrow.toffyApple - 0
-
-
-foodTomatojuice
 
 
 foodTomatosoup
@@ -4773,18 +4179,6 @@ foodWatermelonjellysandwich
 harvestcraft:watermelonjellysandwichItem - 0
 
 
-foodYuzuCake
-DCsAppleMilk:defeatedcrow.appleTart - 2
-
-
-foodYuzuMarmalade
-DCsAppleMilk:defeatedcrow.milkCandy - 3
-
-
-foodYuzuSandwich
-DCsAppleMilk:defeatedcrow.appleSandwich - 3
-
-
 foodZeppole
 harvestcraft:zeppoleItem - 0
 
@@ -4817,6 +4211,10 @@ fuelCoke
 Railcraft:fuel.coke - 0
 
 
+gaiaIngot
+Botania:manaResource - 14
+
+
 gearBrass
 clockworkphase:gearBrass - 0
 
@@ -4824,10 +4222,6 @@ clockworkphase:gearBrass - 0
 gearBronze
 Forestry:gearBronze - 0
 clockworkphase:gearBronze - 0
-
-
-gearChalcedony
-DCsAppleMilk:defeatedcrow.condensedMilk - 3
 
 
 gearCopper
@@ -4844,7 +4238,6 @@ clockworkphase:gearEmerald - 0
 
 
 gearIron
-DCsAppleMilk:defeatedcrow.condensedMilk - 3
 Railcraft:part.gear - 1
 clockworkphase:gearIron - 0
 
@@ -4886,53 +4279,27 @@ gemApatite
 Forestry:apatite - 0
 
 
-gemClam
-DCsAppleMilk:defeatedcrow.princessClam - 0
-
-
-gemCoal
-minecraft:coal - 0
-
-
 gemDiamond
 minecraft:diamond - 0
-erebus:encrustedDiamond - 0
 
 
 gemEmerald
 minecraft:emerald - 0
 
 
-gemIce
-DCsAppleMilk:defeatedcrow.icyCrystal - 0
-
-
-gemJade
-erebus:materials - 1
-
-
 gemLapis
 minecraft:dye - 4
-
-
-gemPeridot
 
 
 gemQuartz
 minecraft:quartz - 0
 
 
-gemRuby
-
-
-gemSapphire
-
-
 glass
 minecraft:glass - 0
+EnderIO:blockFusedQuartz - 1
 Natura:NetherGlass - 0
 Natura:NetherGlass - 1
-EnderIO:blockFusedQuartz - 1
 
 
 glassSoul
@@ -5023,12 +4390,6 @@ glowstoneYellow
 ExtraUtilities:color_lightgem - 11
 
 
-gooTaint
-
-
-grape
-
-
 grass
 minecraft:grass - 0
 
@@ -5095,6 +4456,7 @@ ingotBlutonium
 
 ingotBrass
 clockworkphase:brassIngot - 0
+Steamcraft:steamcraftIngot - 2
 
 
 ingotBrick
@@ -5128,6 +4490,7 @@ EnderIO:itemAlloy - 4
 ingotCopper
 Forestry:ingotCopper - 0
 Railcraft:ingot - 1
+Steamcraft:steamcraftIngot - 0
 
 
 ingotCyanite
@@ -5151,6 +4514,9 @@ ingotElectrum
 
 
 ingotElectrumFlux
+
+
+ingotElementium
 
 
 ingotElvenElementium
@@ -5254,9 +4620,6 @@ ingotPrometheum
 ingotQuicksilver
 
 
-ingotRedstone
-
-
 ingotRedstoneAlloy
 EnderIO:itemAlloy - 3
 
@@ -5315,6 +4678,9 @@ ingotUnstable
 ExtraUtilities:unstableingot - 0
 
 
+ingotVibrant
+
+
 ingotVoid
 Thaumcraft:ItemResource - 16
 
@@ -5329,6 +4695,7 @@ ingotYellorium
 
 
 ingotZinc
+Steamcraft:steamcraftIngot - 1
 
 
 itemBacon
@@ -5392,10 +4759,6 @@ EnderIO:blockEndermanSkull - 0
 headcrumbs:head - any
 
 
-kouji
-DCsAppleMilk:defeatedcrow.yeast - 0
-
-
 lavastone
 chisel:lavastone - 0
 
@@ -5405,12 +4768,6 @@ Natura:floraleaves - any
 Natura:floraleavesnocolor - any
 Natura:Rare Leaves - any
 Natura:Dark Leaves - any
-
-
-leavesWood
-
-
-leek
 
 
 lexicaBotania
@@ -5475,14 +4832,12 @@ harvestcraft:firmtofuItem - 0
 
 
 listAllfishcooked
-Aquaculture:item.loot - 4
 minecraft:cooked_fished - 0
 harvestcraft:calamaricookedItem - 0
 harvestcraft:firmtofuItem - 0
 
 
 listAllfishraw
-Aquaculture:item.loot - 3
 minecraft:fish - 0
 harvestcraft:calamarirawItem - 0
 harvestcraft:firmtofuItem - 0
@@ -5718,6 +5073,42 @@ harvestcraft:wintersquashseedItem - 0
 harvestcraft:zucchiniseedItem - 0
 harvestcraft:bambooshootseedItem - 0
 harvestcraft:spinachseedItem - 0
+AgriCraft:seedPotato - 0
+AgriCraft:seedCarrot - 0
+AgriCraft:seedSugarcane - 0
+AgriCraft:seedDandelion - 0
+AgriCraft:seedPoppy - 0
+AgriCraft:seedOrchid - 0
+AgriCraft:seedAllium - 0
+AgriCraft:seedTulipRed - 0
+AgriCraft:seedTulipOrange - 0
+AgriCraft:seedTulipWhite - 0
+AgriCraft:seedTulipPink - 0
+AgriCraft:seedDaisy - 0
+AgriCraft:seedCactus - 0
+AgriCraft:seedShroomRed - 0
+AgriCraft:seedShroomBrown - 0
+AgriCraft:seedBotaniaWhite - 0
+AgriCraft:seedBotaniaOrange - 0
+AgriCraft:seedBotaniaMagenta - 0
+AgriCraft:seedBotaniaLightBlue - 0
+AgriCraft:seedBotaniaYellow - 0
+AgriCraft:seedBotaniaLime - 0
+AgriCraft:seedBotaniaPink - 0
+AgriCraft:seedBotaniaGray - 0
+AgriCraft:seedBotaniaLightGray - 0
+AgriCraft:seedBotaniaCyan - 0
+AgriCraft:seedBotaniaPurple - 0
+AgriCraft:seedBotaniaBlue - 0
+AgriCraft:seedBotaniaBrown - 0
+AgriCraft:seedBotaniaGreen - 0
+AgriCraft:seedBotaniaRed - 0
+AgriCraft:seedBotaniaBlack - 0
+Natura:barleyFood - 0
+witchery:seedsbelladonna - 0
+witchery:seedsmandrake - 0
+witchery:seedsartichoke - 0
+witchery:seedssnowbell - 0
 
 
 listAllsmoothie
@@ -5804,6 +5195,8 @@ Botania:manaResource - 3
 logWood
 minecraft:log - any
 minecraft:log2 - any
+Thaumcraft:blockMagicalLog - 0
+Thaumcraft:blockMagicalLog - 1
 Forestry:log1 - any
 Forestry:log2 - any
 Forestry:log3 - any
@@ -5818,9 +5211,6 @@ Forestry:fireproofLog4 - any
 Forestry:fireproofLog5 - any
 Forestry:fireproofLog6 - any
 Forestry:fireproofLog7 - any
-Thaumcraft:blockMagicalLog - 0
-Thaumcraft:blockMagicalLog - 1
-DCsAppleMilk:defeatedcrow.logYuzu - 0
 Natura:tree - 0
 Natura:tree - 1
 Natura:tree - 2
@@ -5834,20 +5224,6 @@ Natura:willow - 0
 Natura:Dark Tree - 0
 Natura:Dark Tree - 1
 witchery:witchlog - any
-dendrology:logs0 - any
-dendrology:logs1 - any
-dendrology:logs2 - any
-dendrology:logs3 - any
-erebus:logBaobab - 0
-erebus:logEucalyptus - 0
-erebus:logMahogany - 0
-erebus:logMossbark - 0
-erebus:logAsper - 0
-erebus:logCypress - 0
-erebus:logSap - 0
-erebus:logRotten - 0
-erebus:saplessLog - 0
-erebus:log_scorched - 0
 
 
 magicinfusedwood
@@ -5954,17 +5330,19 @@ harvestcraft:waxcombItem - 0
 minecraft:bedrock;0
 
 
+minecraft:carrot
+
+
 minecraft:diamond
 
 
 minecraft:dirt
 
 
-miso
+minecraft:potato
 
 
-mobEgg
-erebus:monsterPlacer - any
+minecraft:wheat_seeds
 
 
 mycelium
@@ -6035,22 +5413,25 @@ mysticFlowerYellow
 Botania:flower - 4
 
 
-nuggetBronze
-DCsAppleMilk:defeatedcrow.condensedMilk - 13
+netherrack
+minecraft:netherrack - 0
+
+
+nuggetBrass
+Steamcraft:steamcraftNugget - 3
 
 
 nuggetCopper
 Thaumcraft:ItemNugget - 1
-DCsAppleMilk:defeatedcrow.condensedMilk - 9
 Railcraft:nugget - 2
+Steamcraft:steamcraftNugget - 0
+
+
+nuggetElementium
 
 
 nuggetEmerald
 ForbiddenMagic:FMResource - 0
-
-
-nuggetFlint
-DCsAppleMilk:defeatedcrow.condensedMilk - 14
 
 
 nuggetGold
@@ -6060,13 +5441,12 @@ Thaumcraft:ItemResource - 18
 
 nuggetIron
 Thaumcraft:ItemNugget - 0
-DCsAppleMilk:defeatedcrow.condensedMilk - 7
 Railcraft:nugget - 0
+Steamcraft:steamcraftNugget - 2
 
 
 nuggetLead
 Thaumcraft:ItemNugget - 4
-DCsAppleMilk:defeatedcrow.condensedMilk - 12
 Railcraft:nugget - 4
 
 
@@ -6080,16 +5460,17 @@ Thaumcraft:ItemResource - 3
 
 nuggetSilver
 Thaumcraft:ItemNugget - 3
-DCsAppleMilk:defeatedcrow.condensedMilk - 10
 
 
 nuggetSteel
-DCsAppleMilk:defeatedcrow.condensedMilk - 11
 Railcraft:nugget - 1
 
 
 nuggetTemporal
 clockworkphase:nuggetTemporal - 0
+
+
+nuggetTerrasteel
 
 
 nuggetThaumium
@@ -6098,12 +5479,14 @@ Thaumcraft:ItemNugget - 6
 
 nuggetTin
 Thaumcraft:ItemNugget - 2
-DCsAppleMilk:defeatedcrow.condensedMilk - 8
 Railcraft:nugget - 3
 
 
 nuggetUnstable
 ExtraUtilities:unstableingot - 1
+
+
+nuggetVibrant
 
 
 nuggetVibrantAlloy
@@ -6112,6 +5495,10 @@ EnderIO:itemMaterial - 4
 
 nuggetVoid
 Thaumcraft:ItemNugget - 7
+
+
+nuggetZinc
+Steamcraft:steamcraftNugget - 1
 
 
 obsidian
@@ -6244,7 +5631,6 @@ Thaumcraft:blockCustomOre - 0
 
 oreCoal
 minecraft:coal_ore - 0
-erebus:oreCoal - 0
 
 
 oreCobalt
@@ -6252,6 +5638,7 @@ oreCobalt
 
 oreCopper
 Forestry:resources - 1
+Steamcraft:steamcraftOre - 0
 
 
 oreDeepIron
@@ -6259,32 +5646,20 @@ oreDeepIron
 
 oreDiamond
 minecraft:diamond_ore - 0
-Railcraft:tile.railcraft.ore - 2
-erebus:oreDiamond - 0
-erebus:oreEncrustedDiamond - 0
+Railcraft:ore - 2
 
 
 oreEmerald
 minecraft:emerald_ore - 0
-Railcraft:tile.railcraft.ore - 3
-erebus:oreEmerald - 0
+Railcraft:ore - 3
 
 
 oreFirestone
-Railcraft:tile.railcraft.ore - 5
-
-
-oreFossil
-erebus:oreFossil - 0
-
-
-oreGneiss
-erebus:oreGneiss - 0
+Railcraft:ore - 5
 
 
 oreGold
 minecraft:gold_ore - 0
-erebus:oreGold - 0
 
 
 oreIgnatius
@@ -6319,11 +5694,6 @@ Thaumcraft:blockCustomOre - 3
 
 oreIron
 minecraft:iron_ore - 0
-erebus:oreIron - 0
-
-
-oreJade
-erebus:oreJade - 0
 
 
 oreKalendrite
@@ -6331,8 +5701,7 @@ oreKalendrite
 
 oreLapis
 minecraft:lapis_ore - 0
-Railcraft:tile.railcraft.ore - 4
-erebus:oreLapis - 0
+Railcraft:ore - 4
 
 
 oreLead
@@ -6362,34 +5731,31 @@ oreOsmium
 oreOureclase
 
 
-orePeridot
-
-
-orePetrifiedWood
-erebus:orePetrifiedWood - 0
-
-
 orePlatinum
 
 
 orePoorCopper
-Railcraft:tile.railcraft.ore - 9
+Railcraft:ore - 9
 
 
 orePoorGold
-Railcraft:tile.railcraft.ore - 8
+Railcraft:ore - 8
 
 
 orePoorIron
-Railcraft:tile.railcraft.ore - 7
+Railcraft:ore - 7
 
 
 orePoorLead
-Railcraft:tile.railcraft.ore - 11
+Railcraft:ore - 11
 
 
 orePoorTin
-Railcraft:tile.railcraft.ore - 10
+Railcraft:ore - 10
+
+
+orePoorZinc
+Steamcraft:steamcraftOre - 2
 
 
 orePrometheum
@@ -6406,20 +5772,14 @@ minecraft:redstone_ore - 0
 oreRubracium
 
 
-oreRuby
-
-
 oreSalt
 
 
 oreSaltpeter
-Railcraft:tile.railcraft.ore - 1
+Railcraft:ore - 1
 
 
 oreSanguinite
-
-
-oreSapphire
 
 
 oreShadowIron
@@ -6429,11 +5789,7 @@ oreSilver
 
 
 oreSulfur
-Railcraft:tile.railcraft.ore - 0
-
-
-oreTemple
-erebus:oreTemple - 0
+Railcraft:ore - 0
 
 
 oreTemporal
@@ -6454,6 +5810,7 @@ oreYellorite
 
 
 oreZinc
+Steamcraft:steamcraftOre - 1
 
 
 paneGlass
@@ -6605,78 +5962,14 @@ petalYellow
 Botania:petal - 4
 
 
-plankAsper
-erebus:planks - 4
-
-
-plankBamboo
-erebus:planks - 8
-
-
-plankBaobab
-erebus:planks - 0
-
-
-plankCypress
-erebus:planks - 5
-
-
-plankEucalyptus
-erebus:planks - 1
-
-
-plankMahogany
-erebus:planks - 2
-
-
-plankMossbark
-erebus:planks - 3
-
-
-plankPetrified
-erebus:petrifiedWoodPlanks - 0
-
-
-plankRotten
-erebus:planks - 9
-
-
-plankSap
-erebus:planks - 6
-
-
-plankScorched
-erebus:planks_scorched - 0
-
-
-plankVarnished
-erebus:planks_varnished - 0
-
-
-plankWhite
-erebus:planks - 7
-
-
 plankWood
 minecraft:planks - any
+Thaumcraft:blockWoodenDevice - 6
+Thaumcraft:blockWoodenDevice - 7
 Forestry:planks - any
 Forestry:planks2 - any
 Forestry:fireproofPlanks1 - any
 Forestry:fireproofPlanks2 - any
-Thaumcraft:blockWoodenDevice - 6
-Thaumcraft:blockWoodenDevice - 7
-Natura:planks - 0
-Natura:planks - 1
-Natura:planks - 2
-Natura:planks - 3
-Natura:planks - 4
-Natura:planks - 5
-Natura:planks - 6
-Natura:planks - 7
-Natura:planks - 8
-Natura:planks - 9
-Natura:planks - 10
-Natura:planks - 11
 ExtraUtilities:colorWoodPlanks - 0
 ExtraUtilities:colorWoodPlanks - 1
 ExtraUtilities:colorWoodPlanks - 2
@@ -6693,11 +5986,19 @@ ExtraUtilities:colorWoodPlanks - 12
 ExtraUtilities:colorWoodPlanks - 13
 ExtraUtilities:colorWoodPlanks - 14
 ExtraUtilities:colorWoodPlanks - 15
+Natura:planks - 0
+Natura:planks - 1
+Natura:planks - 2
+Natura:planks - 3
+Natura:planks - 4
+Natura:planks - 5
+Natura:planks - 6
+Natura:planks - 7
+Natura:planks - 8
+Natura:planks - 9
+Natura:planks - 10
+Natura:planks - 11
 witchery:witchwood - any
-dendrology:wood0 - any
-erebus:planks - any
-erebus:planks_varnished - 0
-erebus:planks_scorched - 0
 
 
 plankWoodBlack
@@ -6764,8 +6065,91 @@ plankWoodYellow
 ExtraUtilities:colorWoodPlanks - 11
 
 
-plateChocolate
-DCsAppleMilk:defeatedcrow.chocolateFruits - 13
+plateBrass
+
+
+plateCopper
+
+
+plateElementium
+
+
+plateEnderium
+
+
+plateFiery
+
+
+plateGold
+
+
+plateIron
+
+
+plateLead
+
+
+plateSteamcraftBrass
+Steamcraft:steamcraftPlate - 4
+
+
+plateSteamcraftCopper
+Steamcraft:steamcraftPlate - 0
+
+
+plateSteamcraftElementium
+Steamcraft:steamcraftPlate - 7
+
+
+plateSteamcraftEnderium
+Steamcraft:steamcraftPlate - 11
+
+
+plateSteamcraftFiery
+Steamcraft:steamcraftPlate - 8
+
+
+plateSteamcraftGold
+Steamcraft:steamcraftPlate - 3
+
+
+plateSteamcraftIron
+Steamcraft:steamcraftPlate - 2
+
+
+plateSteamcraftLead
+Steamcraft:steamcraftPlate - 9
+
+
+plateSteamcraftTank
+
+
+plateSteamcraftTerrasteel
+Steamcraft:steamcraftPlate - 6
+
+
+plateSteamcraftThaumium
+Steamcraft:steamcraftPlate - 5
+
+
+plateSteamcraftVibrant
+Steamcraft:steamcraftPlate - 10
+
+
+plateSteamcraftZinc
+Steamcraft:steamcraftPlate - 1
+
+
+plateTerrasteel
+
+
+plateThaumium
+
+
+plateVibrant
+
+
+plateZinc
 
 
 podzol
@@ -6880,25 +6264,9 @@ sandyglass
 ExtraUtilities:decorativeBlock1 - 9
 
 
-saplingCamellia
-DCsAppleMilk:defeatedcrow.saplingTea - 2
-
-
-saplingCassis
-DCsAppleMilk:defeatedcrow.saplingTea - 1
-
-
-saplingTea
-DCsAppleMilk:defeatedcrow.saplingTea - 0
-
-
 saplingTree
 Natura:florasapling - any
 Natura:Rare Sapling - any
-
-
-saplingYuzu
-DCsAppleMilk:defeatedcrow.saplingYuzu - 0
 
 
 seedArtichoke
@@ -7165,10 +6533,6 @@ Botania:manaResource - 10
 
 shardWater
 Thaumcraft:ItemShard - 2
-
-
-sheetPlastic
-Tubes:sheetPlastic - 0
 
 
 skullAngryZombie
@@ -7558,24 +6922,13 @@ minecraft:stone_slab - 5
 
 slabWood
 minecraft:wooden_slab - any
+Thaumcraft:blockCosmeticSlabWood - 0
+Thaumcraft:blockCosmeticSlabWood - 1
 Forestry:slabs1 - any
 Forestry:slabs2 - any
 Forestry:slabs3 - any
-Thaumcraft:blockCosmeticSlabWood - 0
-Thaumcraft:blockCosmeticSlabWood - 1
 Natura:plankSlab1 - any
 Natura:plankSlab2 - any
-dendrology:sslab0 - any
-dendrology:sslab1 - any
-erebus:slabPlanksBaobab - 0
-erebus:slabPlanksEucalyptus - 0
-erebus:slabPlanksMahogany - 0
-erebus:slabPlanksMossbark - 0
-erebus:slabPlanksAsper - 0
-erebus:slabPlanksCypress - 0
-erebus:slabPlanksWhite - 0
-erebus:slabPlanksBamboo - 0
-erebus:slabPlanksRotten - 0
 
 
 slabWoodAcacia
@@ -7604,7 +6957,6 @@ minecraft:wooden_slab - 1
 
 slimeball
 minecraft:slime_ball - 0
-DCsAppleMilk:defeatedcrow.condensedMilk - 1
 
 
 snowLayer
@@ -7692,9 +7044,6 @@ ExtraUtilities:color_hellsand - 15
 
 soulsandYellow
 ExtraUtilities:color_hellsand - 11
-
-
-soybeans
 
 
 stainedClayBlack
@@ -7899,35 +7248,9 @@ minecraft:dark_oak_stairs - 0
 witchery:stairswoodalder - any
 witchery:stairswoodhawthorn - any
 witchery:stairswoodrowan - any
-dendrology:stairs0 - 0
-dendrology:stairs1 - 0
-dendrology:stairs2 - 0
-dendrology:stairs3 - 0
-dendrology:stairs4 - 0
-dendrology:stairs5 - 0
-dendrology:stairs6 - 0
-dendrology:stairs7 - 0
-dendrology:stairs8 - 0
-dendrology:stairs9 - 0
-dendrology:stairs10 - 0
-dendrology:stairs11 - 0
-dendrology:stairs12 - 0
-erebus:plankStairBaobab - 0
-erebus:plankStairEucalyptus - 0
-erebus:plankStairMahogany - 0
-erebus:plankStairMossbark - 0
-erebus:plankStairAsper - 0
-erebus:plankStairCypress - 0
-erebus:plankStairWhite - 0
-erebus:plankStairBamboo - 0
-erebus:plankStairRotten - 0
 
 
 stairsWood
-
-
-stickCarbon
-DCsAppleMilk:defeatedcrow.stickCarbon - 0
 
 
 stickObsidian
@@ -7968,7 +7291,6 @@ ExtraUtilities:color_stone - 12
 ExtraUtilities:color_stone - 13
 ExtraUtilities:color_stone - 14
 ExtraUtilities:color_stone - 15
-erebus:umberstone - 0
 
 
 stoneBlack
@@ -8027,10 +7349,6 @@ stoneRed
 ExtraUtilities:color_stone - 1
 
 
-stoneUmber
-erebus:umberstone - 0
-
-
 stoneWhite
 ExtraUtilities:color_stone - 15
 
@@ -8043,28 +7361,12 @@ taintedSoil
 Natura:soil.tainted - 0
 
 
-tendrilTaint
-
-
-tofuKinu
-
-
-tofuMomen
-
-
-tomato
-
-
 toolBakeware
 harvestcraft:bakewareItem - 0
 
 
 toolCuttingboard
 harvestcraft:cuttingboardItem - 0
-
-
-toolGrater
-DCsAppleMilk:defeatedcrow.grater - 0
 
 
 toolJuicer
@@ -8102,51 +7404,23 @@ treeLeaves
 minecraft:leaves - any
 minecraft:leaves2 - any
 Forestry:leaves - any
-DCsAppleMilk:defeatedcrow.leavesYuzu - any
 Natura:floraleaves - any
 Natura:floraleavesnocolor - any
 Natura:Rare Leaves - any
 Natura:Dark Leaves - any
 witchery:witchleaves - any
-dendrology:leaves0 - any
-dendrology:leaves1 - any
-dendrology:leaves2 - any
-dendrology:leaves3 - any
-erebus:leavesBaobab - 0
-erebus:leavesEucalyptus - 0
-erebus:leavesMahogany - 0
-erebus:leavesMossbark - 0
-erebus:leavesAsper - 0
-erebus:leavesCypress - 0
-erebus:leavesSap - 0
 
 
 treeSapling
 minecraft:sapling - any
 Forestry:sapling - any
-DCsAppleMilk:defeatedcrow.saplingTea - 0
-DCsAppleMilk:defeatedcrow.saplingTea - 1
-DCsAppleMilk:defeatedcrow.saplingTea - 2
-DCsAppleMilk:defeatedcrow.saplingYuzu - 0
 Natura:florasapling - any
 Natura:Rare Sapling - any
 witchery:witchsapling - any
-dendrology:sapling0 - any
-dendrology:sapling1 - any
-erebus:saplingBaobab - 0
-erebus:saplingEucalyptus - 0
-erebus:saplingMahogany - 0
-erebus:saplingMossbark - 0
-erebus:saplingAsper - 0
-erebus:saplingCypress - 0
-erebus:saplingSap - 0
 
 
 tyrian
 chisel:tyrian - 0
-
-
-whitePepper
 
 
 whiteStone
@@ -8158,9 +7432,5 @@ woodRubber
 
 woodStick
 minecraft:stick - 0
-
-
-yeast
-DCsAppleMilk:defeatedcrow.yeast - 0
 
 

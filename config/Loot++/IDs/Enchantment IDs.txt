@@ -259,27 +259,6 @@
 	- Max Level: 1
 
 
-77
-	- Name: enchantment.binding
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 2
-
-
-78
-	- Name: enchantment.nightVision
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 1
-
-
-79
-	- Name: enchantment.disarm
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 3
-
-
 100
 	- Name: enchant.cofh.holding
 	- Weight: 2
@@ -420,20 +399,6 @@
 	- Max Level: 3
 
 
-196
-	- Name: Reading
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 1
-
-
-197
-	- Name: Eternal Compass
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 1
-
-
 220
 	- Name: enchantment.ttinkerer:ascentBoost
 	- Weight: 0
@@ -474,54 +439,5 @@
 	- Weight: 0
 	- Min Level: 1
 	- Max Level: 2
-
-
-240
-	- Name: enchantment.aquacultureAppealing
-	- Weight: 3
-	- Min Level: 1
-	- Max Level: 5
-
-
-241
-	- Name: enchantment.aquacultureBarbedHook
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 5
-
-
-242
-	- Name: enchantment.aquacultureDoubleHook
-	- Weight: 1
-	- Min Level: 1
-	- Max Level: 5
-
-
-243
-	- Name: enchantment.aquacultureHeavyLine
-	- Weight: 5
-	- Min Level: 1
-	- Max Level: 5
-
-
-244
-	- Name: enchantment.aquacultureLongCast
-	- Weight: 7
-	- Min Level: 1
-	- Max Level: 5
-
-
-245
-	- Name: enchantment.aquacultureMagnetic
-	- Weight: 3
-	- Min Level: 1
-	- Max Level: 5
-
-
-246
-	- Name: enchantment.aquacultureShortCast
-	- Weight: 7
-	- Min Level: 1
-	- Max Level: 5
 
 

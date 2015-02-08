@@ -58,7 +58,7 @@
 
 8
 	- Name: potion.jump
-	- Color: 2293580
+	- Color: 7889559
 	- Is Instant? false
 	- Is Bad? false
 
@@ -218,17 +218,17 @@
 
 
 31
-	- Name: potion.binding
-	- Color: 0
-	- Is Instant? false
-	- Is Bad? false
-
-
-32
-	- Name: potion.taintWithdrawl
+	- Name: Curse
 	- Color: 0
 	- Is Instant? false
 	- Is Bad? true
+
+
+32
+	- Name: potion.invisiSight
+	- Color: 0
+	- Is Instant? false
+	- Is Bad? false
 
 
 33
@@ -421,73 +421,45 @@
 
 
 60
-	- Name: DCs.potion.immunization
-	- Color: 7889559
+	- Name: potion.blurred
+	- Color: 8421504
 	- Is Instant? false
-	- Is Bad? false
+	- Is Bad? true
 
 
 61
-	- Name: DCs.potion.protectionExplode
-	- Color: 3237665
+	- Name: potion.sunscorned
+	- Color: 16308330
 	- Is Instant? false
-	- Is Bad? false
+	- Is Bad? true
 
 
 62
-	- Name: DCs.potion.protectionProjectile
-	- Color: 1151526
+	- Name: potion.thaumarhia
+	- Color: 6702199
 	- Is Instant? false
-	- Is Bad? false
+	- Is Bad? true
 
 
 63
-	- Name: DCs.potion.reflex
-	- Color: 999999
+	- Name: imbue.wither
+	- Color: 3881787
 	- Is Instant? false
 	- Is Bad? false
 
 
 64
-	- Name: DCs.potion.absorptionEXP
-	- Color: 5599557
+	- Name: imbue.weakness
+	- Color: 16777215
 	- Is Instant? false
 	- Is Bad? false
 
 
 65
-	- Name: DCs.potion.absorptionHeal
-	- Color: 9933221
+	- Name: imbue.spectre
+	- Color: 12578815
 	- Is Instant? false
 	- Is Bad? false
-
-
-66
-	- Name: DCs.potion.suffocation
-	- Color: 9933221
-	- Is Instant? false
-	- Is Bad? true
-
-
-67
-	- Name: DCs.potion.protectionSuffocation
-	- Color: 9933221
-	- Is Instant? false
-	- Is Bad? true
-
-
-68
-	- Name: DCs.potion.hallucination
-	- Color: 1114405
-	- Is Instant? false
-	- Is Bad? true
-
-
-69
-	- Name: DCs.potion.confinement
-	- Color: 550099
-	- Is Instant? false
-	- Is Bad? true
 
 
 70
@@ -616,13 +588,6 @@
 	- Is Bad? true
 
 
-88
-	- Name: potion.blurred
-	- Color: 8421504
-	- Is Instant? false
-	- Is Bad? true
-
-
 89
 	- Name: Earth Imbued
 	- Color: 0
@@ -642,20 +607,6 @@
 	- Color: -1117259247
 	- Is Instant? false
 	- Is Bad? false
-
-
-92
-	- Name: potion.sunscorned
-	- Color: 16308330
-	- Is Instant? false
-	- Is Bad? true
-
-
-93
-	- Name: potion.thaumarhia
-	- Color: 6702199
-	- Is Instant? false
-	- Is Bad? true
 
 
 94
@@ -680,22 +631,78 @@
 
 
 97
-	- Name: imbue.wither
-	- Color: 3881787
+	- Name: Red Curse
+	- Color: 16711680
 	- Is Instant? false
-	- Is Bad? false
+	- Is Bad? true
 
 
 98
-	- Name: imbue.weakness
-	- Color: 16777215
+	- Name: Orange Curse
+	- Color: 16755200
+	- Is Instant? false
+	- Is Bad? true
+
+
+99
+	- Name: Yellow Curse
+	- Color: 16777045
+	- Is Instant? false
+	- Is Bad? true
+
+
+100
+	- Name: Green Curse
+	- Color: 43520
+	- Is Instant? false
+	- Is Bad? true
+
+
+101
+	- Name: Blue Curse
+	- Color: 170
+	- Is Instant? false
+	- Is Bad? true
+
+
+102
+	- Name: Violet Curse
+	- Color: 11141290
+	- Is Instant? false
+	- Is Bad? true
+
+
+191
+	- Name: botania.potion.soulCross
+	- Color: 4670781
 	- Is Instant? false
 	- Is Bad? false
 
 
-99
-	- Name: imbue.spectre
-	- Color: 12578815
+192
+	- Name: botania.potion.featherFeet
+	- Color: 2534911
+	- Is Instant? false
+	- Is Bad? false
+
+
+193
+	- Name: botania.potion.emptiness
+	- Color: 15198183
+	- Is Instant? false
+	- Is Bad? false
+
+
+194
+	- Name: botania.potion.bloodthirst
+	- Color: 12779520
+	- Is Instant? false
+	- Is Bad? false
+
+
+195
+	- Name: botania.potion.allure
+	- Color: 13540
 	- Is Instant? false
 	- Is Bad? false
 
