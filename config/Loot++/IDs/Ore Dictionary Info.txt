@@ -5735,23 +5735,15 @@ orePlatinum
 
 
 orePoorCopper
-Railcraft:ore - 9
 
 
 orePoorGold
-Railcraft:ore - 8
 
 
 orePoorIron
-Railcraft:ore - 7
-
-
-orePoorLead
-Railcraft:ore - 11
 
 
 orePoorTin
-Railcraft:ore - 10
 
 
 orePoorZinc

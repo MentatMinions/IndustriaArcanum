@@ -442,20 +442,34 @@
 
 
 63
+	- Name: imbue.poison
+	- Color: 10145074
+	- Is Instant? false
+	- Is Bad? false
+
+
+64
+	- Name: imbue.experience
+	- Color: 14214234
+	- Is Instant? false
+	- Is Bad? false
+
+
+65
 	- Name: imbue.wither
 	- Color: 3881787
 	- Is Instant? false
 	- Is Bad? false
 
 
-64
+66
 	- Name: imbue.weakness
 	- Color: 16777215
 	- Is Instant? false
 	- Is Bad? false
 
 
-65
+67
 	- Name: imbue.spectre
 	- Color: 12578815
 	- Is Instant? false
@@ -609,16 +623,30 @@
 	- Is Bad? false
 
 
+92
+	- Name: botania.potion.featherFeet
+	- Color: 2534911
+	- Is Instant? false
+	- Is Bad? false
+
+
+93
+	- Name: botania.potion.emptiness
+	- Color: 15198183
+	- Is Instant? false
+	- Is Bad? false
+
+
 94
-	- Name: imbue.poison
-	- Color: 10145074
+	- Name: botania.potion.bloodthirst
+	- Color: 12779520
 	- Is Instant? false
 	- Is Bad? false
 
 
 95
-	- Name: imbue.experience
-	- Color: 14214234
+	- Name: botania.potion.allure
+	- Color: 13540
 	- Is Instant? false
 	- Is Bad? false
 
@@ -670,40 +698,5 @@
 	- Color: 11141290
 	- Is Instant? false
 	- Is Bad? true
-
-
-191
-	- Name: botania.potion.soulCross
-	- Color: 4670781
-	- Is Instant? false
-	- Is Bad? false
-
-
-192
-	- Name: botania.potion.featherFeet
-	- Color: 2534911
-	- Is Instant? false
-	- Is Bad? false
-
-
-193
-	- Name: botania.potion.emptiness
-	- Color: 15198183
-	- Is Instant? false
-	- Is Bad? false
-
-
-194
-	- Name: botania.potion.bloodthirst
-	- Color: 12779520
-	- Is Instant? false
-	- Is Bad? false
-
-
-195
-	- Name: botania.potion.allure
-	- Color: 13540
-	- Is Instant? false
-	- Is Bad? false
 
 
