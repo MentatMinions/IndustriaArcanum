@@ -3,9 +3,7 @@ Industria Arcanum Minecraft Modpack
 
 ####Story:
 
-Some fancy words can go here. Maybe something about titans ruling the world in ancient times and now they are trying to come back. Their magic is all around and mixing with the industrial age the world has seen.
-
-Or it could be something about cats in rabbit suits. Meh.
+"Hi. Sorry about this. The procedure wasn't supposed to erase your mind. But it did. And there's nothing we can do about that now. It's probably a better idea to just let you figure it out on your own anyway. So enjoy your new home. We understand we dropped you off in the middle of nowhere, but at least we started you with a little bit of gear. You might wanna check the book you're holding for more details. And you will also want to use that orb in your hand. It's a gift from us to help you fight. And finally... the nights here get rather... interesting. So hopefully it's day time for you or maybe someone who came before has lit up the area you're in. Or maybe you're about to be eaten. Either way... good luck."
 
 ####About:
 Industria Arcanum is a modpack designed by Saphrym and the Mentat Minions about steam, gears, and magic. It'a also meant to be an adventure with plenty to do and many beautiful things to see. And fedoras. And top hats?
