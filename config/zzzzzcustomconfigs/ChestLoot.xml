@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--The syntax for an item stack is the same as you'd use in the /give command. NBT tags are supported! (e.g. minecraft:skull 1 3 {SkullOwner:"ganymedes01"})
+The syntax for a fluid stack is simiar to the item stack, it should be the fluid name followed by the amount. NBT tags are also supported! (e.g. water 1000)
+The syntax for ore dictionary values is the value between double-quotes. (e.g. "ingotIron")
+
+Chest loot types:
+
+villageBlacksmith
+railcraft:workshop
+strongholdCorridor
+pyramidJungleChest
+dungeonChest
+bonusChest
+pyramidDesertyChest
+strongholdLibrary
+pyramidJungleDispenser
+strongholdCrossing
+mineshaftCorridor
+netherFortress
+
+Examples:
+
+The following adds Diamond Horse Armour as a loot that can be found on bonus chests
+You can replace "bonusChest" with any of the values listed above.
+The weight value is how often this loot will be found. The greater the value the more common it will be
+The minAmount and maxAmount values are the amount of this loot that can be found in a chest.
+In the example below, if the item is picked to be put in a chest, that chest will have at least 3 of that item but 5 at most.
+
+<bonusChest>
+	<loot>minecraft:diamond_horse_armor 1 0</loot>
+	<weight>5</weight>
+	<minAmount>3</minAmount>
+	<maxAmount>5</maxAmount>
+</bonusChest>
+-->
+
+<ChestLoot>
+	<!--Add your recipes here!-->
+</ChestLoot>

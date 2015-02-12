@@ -35,7 +35,6 @@
  * [ForgeMultiPart Integration](http://www.curse.com/mc-mods/minecraft/220567-forge-multipart-integration-fmpi)
  * [Garden Stuff](http://www.curse.com/mc-mods/minecraft/225903-garden-stuff)
  * [Headcrumbs](http://www.curse.com/mc-mods/minecraft/222838-headcrumbs)
- * [Invisiblocks](http://www.curse.com/mc-mods/minecraft/226800-invisiblocks)
  * [Luppii's Ladders](http://www.curse.com/mc-mods/minecraft/luppiis-ladders)
  * [Malisis' Doors](http://www.curse.com/mc-mods/minecraft/223891-malisis-doors)
  * [MobStatues](http://www.curse.com/mc-mods/minecraft/227575-mob-statues)
@@ -69,6 +68,7 @@
    * [Thaumcraft NEI Plugin](http://www.curse.com/mc-mods/minecraft/225095-thaumcraft-nei-plugin)
     * [NEI Integration](http://www.curse.com/mc-mods/minecraft/225251-nei-integration)
 	* [Not Enough Resources](http://www.curse.com/mc-mods/minecraft/225815-notenoughresources)
+	* [NEI Addons](http://www.curse.com/mc-mods/minecraft/nei-addons)
  * [Not Enough Keys](http://www.curse.com/mc-mods/minecraft/224614-notenoughkeys)
  * [WAILA](http://www.curse.com/mc-mods/minecraft/waila)
    * [WAWLA](http://www.curse.com/mc-mods/minecraft/224712-wawla-what-are-we-looking-at)
@@ -77,16 +77,17 @@
 
 * ######Server:
  * [HelpFixer](http://www.curse.com/mc-mods/minecraft/223797-helpfixer)
- * [Insomnia](http://www.curse.com/mc-mods/minecraft/224871-insomnia)
- * [Loot++](http://www.curse.com/mc-mods/minecraft/225880-loot)
  * [pvpToggle](http://www.curse.com/mc-mods/minecraft/223394-pvptoggle)
  * [ServerTools-CORE](http://www.curse.com/mc-mods/minecraft/forgeservertools)
- * [Squidless](http://www.curse.com/mc-mods/minecraft/226115-squidless)
+ * [Sprinkles](http://www.curse.com/mc-mods/minecraft/226309-sprinkles_for_vanilla)
+ * [TooMuchRain](http://www.curse.com/mc-mods/minecraft/221982-toomuchrain)
+ * [ZZZZZ Custom Configs](http://www.curse.com/mc-mods/minecraft/221889-zzzzz-custom-configs)
 
 #####Storage and Crafting:
 * [Adventure Backpack](http://www.curse.com/mc-mods/minecraft/225063-adventure-backpack)
 * [AutoPackager](http://www.curse.com/mc-mods/minecraft/221457-autopackager)
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
+* [Just Another Crafting Bench](http://www.curse.com/mc-mods/minecraft/226612-just-another-crafting-bench)
 * [Refined Relocation](http://www.curse.com/mc-mods/minecraft/refined-relocation)
 
 #####Misc:
@@ -96,7 +97,6 @@
 * [Dynamic Sword Skills](http://www.curse.com/mc-mods/minecraft/226360-dynamic-sword-skills)
 * [Extra Utilities](http://www.curse.com/mc-mods/minecraft/225561-extra-utilities) *(wings, quarry, and pump disabled)*
 * [Gravestone](http://www.curse.com/mc-mods/minecraft/gravestone_mod)
-* [Minecraft Money](http://www.curse.com/mc-mods/minecraft/223694-utility-modders-minecraft-money)
 * [QuiverBow](http://www.curse.com/mc-mods/minecraft/quiverbow)
 * [Random Things](http://www.curse.com/mc-mods/minecraft/random-things)
 * [Simple Lantern Mod](http://www.curse.com/mc-mods/minecraft/226560-universal-simple-lantern-mod-1-0)
@@ -113,6 +113,5 @@
 #####Client Only Mods
  * [Better Title Screen](http://www.curse.com/mc-mods/minecraft/224223-better-title-screen)
  * [JourneyMap](http://www.curse.com/mc-mods/minecraft/journeymap-32274)
- * [ResourceLoader](http://www.curse.com/mc-mods/minecraft/226447-resource-loader)
  * [Thaumcraft Node Tracker](http://www.curse.com/mc-mods/minecraft/227328-thaumcraft-node-tracker)
  * [WAILA Plugins](http://www.curse.com/mc-mods/minecraft/226119-waila-plugins)

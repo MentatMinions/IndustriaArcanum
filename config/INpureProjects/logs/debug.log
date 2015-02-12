@@ -12,7 +12,6 @@ Found creative tab: combat
 Found creative tab: EnderIO
 Found creative tab: EnderZoo
 Found creative tab: extraUtil
-Found creative tab: extraUtil_FMP
 Found creative tab: forbidden
 Found creative tab: mobcrystal
 Found creative tab: forestry
@@ -65,10 +64,9 @@ Found creative tab: tabHarvestCraft
 Found creative tab: headcrumbs
 Found creative tab: InvisiBlocksBlocks
 Found creative tab: InvisiBlocksArmor
-Found creative tab: tabLootPP
+Found creative tab: JACB
 Found creative tab: malisisdoors
 Found creative tab: menagerie
-Found creative tab: mm
 Found creative tab: PATab
 Found creative tab: tabSimplyJetpacks
 Found creative tab: thaumicinfusion
@@ -105,14 +103,14 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.Darkleaves_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves_3
+getRandomMaterial called. Returned: tile.Darktree
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darktree
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.Darkleaves3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Darkleaves3
+getRandomMaterial called. Returned: tile.Darkleaves0
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Darkleaves0
 Loading: BuildCraft.js
 Loading: Bibliocraft.js
 Loading: AppliedEnergistics2.js
