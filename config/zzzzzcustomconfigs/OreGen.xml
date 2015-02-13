@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--The syntax for an item stack is the same as you'd use in the /give command. NBT tags are supported! (e.g. minecraft:skull 1 3 {SkullOwner:"ganymedes01"})
+The syntax for a fluid stack is simiar to the item stack, it should be the fluid name followed by the amount. NBT tags are also supported! (e.g. water 1000)
+The syntax for ore dictionary values is the value between double-quotes. (e.g. "ingotIron")
+
+Examples:
+
+The following adds SPONGES to generate on smooth stone in veins with 5 blocks at most, up to 10 veins in one chunk, with a minimum Y level of 0, a maximum Y level of 256, and in any dimension but the nether and the end (-1 and 1)
+<add>
+	<ore>minecraft:sponge 1 0</ore>
+	<target>minecraft:stone 1 0</target>
+	<veinSize>5</veinSize>
+	<veinCount>10</veinCount>
+	<minY>0</minY>
+	<maxY>256</maxY>
+	<dimensions type="blacklist">-1,1</dimensions>
+</add>
+
+The following adds GLOWSTONE to generate on netherrack in veins with 10 blocks at most, up to 3 veins in one chunk, with a minimum Y level of 20, a maximum Y level of 40, and in only the dimension of id -1 (a.k.a. The Nether)
+<add>
+	<ore>minecraft:glowstone 1 0</ore>
+	<target>minecraft:netherrack 1 0</target>
+	<veinSize>10</veinSize>
+	<veinCount>3</veinCount>
+	<minY>20</minY>
+	<maxY>40</maxY>
+	<dimensions type="whitelist">-1</dimensions>
+</add>
+
+The following shows how to remove a VANILLA ore from being generated. There is no way to block ores added by other mods.
+Ore types:
+COAL minecraft:coal_ore
+DIAMOND
+DIRT
+GOLD
+GRAVEL
+IRON
+LAPIS
+REDSTONE
+QUARTZ
+<remove>
+	<type1>"coal"</type1>
+	<type2>"diamond"</type2>
+	<type3>"iron"</type3>
+</remove>
+
+Copper: Steamcraft:steamcraftOre 1 0
+Zinc: Steamcraft:steamcraftOre 1 1
+Tin: Forestry:resources 1 2
+-->
+
+<OreGen>
+	<!-- VANILLA -->
+	<add>
+		<ore>minecraft:dirt 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>32</veinSize>
+		<veinCount>20</veinCount>
+		<minY>0</minY>
+		<maxY>128</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:gravel 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>32</veinSize>
+		<veinCount>10</veinCount>
+		<minY>0</minY>
+		<maxY>128</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:coal_ore 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>16</veinSize>
+		<veinCount>20</veinCount>
+		<minY>0</minY>
+		<maxY>128</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:iron_ore 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>8</veinSize>
+		<veinCount>40</veinCount>
+		<minY>0</minY>
+		<maxY>64</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:gold_ore 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>8</veinSize>
+		<veinCount>10</veinCount>
+		<minY>0</minY>
+		<maxY>32</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:redstone_ore 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>7</veinSize>
+		<veinCount>8</veinCount>
+		<minY>0</minY>
+		<maxY>16</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:diamond_ore 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>7</veinSize>
+		<veinCount>2</veinCount>
+		<minY>0</minY>
+		<maxY>16</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:lapis_ore 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>7</veinSize>
+		<veinCount>2</veinCount>
+		<minY>0</minY>
+		<maxY>32</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<ore>minecraft:quartz_ore 1 0</ore>
+		<target>minecraft:netherrack 1 0</target>
+		<veinSize>13</veinSize>
+		<veinCount>16</veinCount>
+		<minY>10</minY>
+		<maxY>118</maxY>
+		<dimensions type="whitelist">-1</dimensions>
+	</add>
+	<!-- MODDED -->
+	<add>
+		<!-- Copper -->
+		<ore>Steamcraft:steamcraftOre 1 0</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>8</veinSize>
+		<veinCount>36</veinCount>
+		<minY>32</minY>
+		<maxY>64</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<!-- Zinc -->
+		<ore>Steamcraft:steamcraftOre 1 1</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>8</veinSize>
+		<veinCount>12</veinCount>
+		<minY>32</minY>
+		<maxY>64</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+	<add>
+		<!-- Tin -->
+		<ore>Forestry:resources 1 2</ore>
+		<target>minecraft:stone 1 0</target>
+		<veinSize>8</veinSize>
+		<veinCount>20</veinCount>
+		<minY>32</minY>
+		<maxY>64</maxY>
+		<dimensions type="blacklist">-1,1</dimensions>
+	</add>
+</OreGen>

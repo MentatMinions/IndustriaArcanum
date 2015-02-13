@@ -50,6 +50,7 @@
 * ######Terrain and Quests:
  * [Hardcore Questing Mode](http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode)
  * [MyWorldGen](http://www.curse.com/mc-mods/minecraft/myworldgen)
+ * [RecurrentComplex](http://www.curse.com/mc-mods/minecraft/223150-recurrent-complex)
 
 * ######Mobs:
  * [Dark Menagerie](http://www.curse.com/mc-mods/minecraft/224039-dark-menagerie)
@@ -86,6 +87,7 @@
 #####Storage and Crafting:
 * [Adventure Backpack](http://www.curse.com/mc-mods/minecraft/225063-adventure-backpack)
 * [AutoPackager](http://www.curse.com/mc-mods/minecraft/221457-autopackager)
+* [Enhanced Inventories](http://www.curse.com/mc-mods/minecraft/226210-enhanced-inventories)
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * [Just Another Crafting Bench](http://www.curse.com/mc-mods/minecraft/226612-just-another-crafting-bench)
 * [Refined Relocation](http://www.curse.com/mc-mods/minecraft/refined-relocation)
@@ -105,6 +107,7 @@
 * [AOBD](http://www.curse.com/mc-mods/minecraft/221863-another-one-bites-the-dust) *(Processing of Ores)*
 * [CodeChickenCore](http://www.curse.com/mc-mods/minecraft/222213-codechickencore) *(NEI)*
 * [CoFH Core](http://www.curse.com/mc-mods/minecraft/cofhcore) *(Ore and World Gen)*
+* [IVToolKit](http://www.curse.com/mc-mods/minecraft/224535-ivtoolkit) *(Recurrent Complex)*
 * [LunatriusCore](http://www.curse.com/mc-mods/minecraft/225605-lunatriuscore) *(InGame Info XML)*
 * [MalisisCore](http://www.curse.com/mc-mods/minecraft/223896-malisiscore) *(Malisis Doors)*
 * [OmnisCore](http://www.curse.com/mc-mods/minecraft/226990-dimensional-pockets) *(Dimensional Pockets)*

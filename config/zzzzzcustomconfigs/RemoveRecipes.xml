@@ -15,5 +15,7 @@ Recipes added via this mod will NOT be removed!
 -->
 
 <RemoveRecipes>
-	<output>Railcraft:tool.steel.pickaxe 1 0</output>
+	<output1>Railcraft:tool.steel.pickaxe 1 0</output1>
+	<output2>clockworkphase:brassIngot 1 0</output2>
+	<output3>adventurebackpack:machete 1 0</output3>
 </RemoveRecipes>
