@@ -22,7 +22,6 @@
 * [MobStatues](http://www.curse.com/mc-mods/minecraft/227575-mob-statues)
 * [MrCrayfish's Furniture Mod](http://www.curse.com/mc-mods/minecraft/mrcrayfish-furniture-mod)
 * [Natura](http://www.curse.com/mc-mods/minecraft/natura)
-* [Storage Drawers](http://www.curse.com/mc-mods/minecraft/223852-storage-drawers)
 
 #####Farming and Simulation:
 * [Forestry](http://www.curse.com/mc-mods/minecraft/forestry)
@@ -70,6 +69,7 @@
 * [JABBA](http://www.curse.com/mc-mods/minecraft/jabba)
 * [Just Another Crafting Bench](http://www.curse.com/mc-mods/minecraft/226612-just-another-crafting-bench)
 * [Refined Relocation](http://www.curse.com/mc-mods/minecraft/refined-relocation)
+* [Storage Drawers](http://www.curse.com/mc-mods/minecraft/223852-storage-drawers)
 
 #####Tech:
 * [EnderIO](http://www.curse.com/mc-mods/minecraft/ender-io)
